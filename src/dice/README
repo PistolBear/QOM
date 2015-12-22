@@ -1,0 +1,9 @@
+QOM/src/dice
+
+This package is for modeling all randomly generated options in the game.  
+Dice are the most ubiquitous, but there are also generators for Names, Terrain, Dialog, Backgrounds, Encounters, etc.
+
+The actual creation of entities (i.e., for Encounter generation) will be handled by using randomization within this package
+and applying it to instances of QOMs from the QOM/src/X packages.  For instance, creating an encounter will require making
+new instances of creatures, which may use the /characterClasses package.
+
