@@ -1,14 +1,18 @@
 package dice;
 
+import java.util.Random;
+
 public class ModDie extends Die 
 {
-	private int m_modifier;
-	private boolean m_modIsLocked = false;
+	protected int m_modifier;
+	protected boolean m_modIsLocked = false;
+    protected int m_id;
 	
 	public ModDie(int sides) 
 	{
 		super(sides);
 		m_modifier = 0;
+		m_id = Math.abs(new Random(System.nanoTime()).nextInt(1000));
 	}
 	
 	public ModDie(int sides, int mod) 

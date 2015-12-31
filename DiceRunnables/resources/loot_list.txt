@@ -1,0 +1,5074 @@
+5d10 sp: 30 sp
+1d4 gp: 1 gp
+Pearl, irregular freshwater; 13 gp
+Rhodochrosite; 10 gp
+3d6 × 10 sp: 130 sp
+3d6 gp: 14 gp
+Pearl, irregular freshwater; 8 gp
+Tigereye; 8 gp
+Pearl, irregular freshwater; 7 gp
+Amber; 130 gp
+Chrysoberyl; 110 gp
+Spinel, deep blue; 90 gp
+Chrysoberyl; 90 gp
+2d4 × 10 gp: 60 gp
+Jasper; 55 gp
+Quartz, milky, rose, or smoky; 45 gp
+Amethyst; 80 gp
+Aquamarine; 400 gp
+Pearl, black; 400 gp
+Topaz; 350 gp
+Topaz; 550 gp
+3d6 × 10 gp: 70 gp
+4d4 pp: 12 pp
+Jet; 120 gp
+Garnet; 80 gp
+Amber; 80 gp
+Topaz; 350 gp
+3d6 × 10 gp: 110 gp
+4d4 pp: 13 pp
+Spinel, deep blue; 120 gp
+Jet; 100 gp
+Coral; 100 gp
+Aquamarine; 600 gp
+3d6 × 10 gp: 120 gp
+4d4 pp: 10 pp
+Chrysoberyl; 110 gp
+Amethyst; 100 gp
+Jade; 80 gp
+Topaz; 450 gp
+2d4 × 100 gp: 400 gp
+Topaz; 400 gp
+Opal; 450 gp
+Sapphire; 1,200 gp
+2d4 × 100 gp: 500 gp
+Aquamarine; 500 gp
+Aquamarine; 550 gp
+Diamond, small; 1,000 gp
+Emerald, brilliant green; 4,500 gp
+Emerald, brilliant green; 6,000 gp
+Ruby, large; 3,500 gp
+Diamond, large; 5,000 gp
+Sapphire, star; 4,500 gp
+4d4 × 10 pp: 80 pp
+Chrysoberyl; 70 gp
+Tourmaline; 90 gp
+Garnet; 80 gp
+Tourmaline; 110 gp
+Amethyst; 110 gp
+Tourmaline; 100 gp
+Spinel, deep blue; 110 gp
+Amethyst; 110 gp
+Spinel, deep blue; 110 gp
+Coral; 80 gp
+Aquamarine; 500 gp
+Opal; 350 gp
+Opal; 600 gp
+Opal; 600 gp
+Emerald; 800 gp
+Diamond, small; 1,000 gp
+Diamond, small; 1,000 gp
+Emerald; 1,200 gp
+Sapphire; 900 gp
+Ruby, small; 1,100 gp
+Ruby, large; 5,000 gp
+Emerald, brilliant green; 4,500 gp
+Ruby, large; 6,000 gp
+Emerald, brilliant green; 5,000 gp
+Sapphire, star; 6,000 gp
+Emerald, brilliant green; 6,000 gp
+Sapphire, star; 5,000 gp
+Sapphire, star; 5,000 gp
+4d4 × 10 pp: 120 pp
+Pearl, saltwater; 100 gp
+Jet; 100 gp
+Amethyst; 70 gp
+Amber; 110 gp
+Amber; 110 gp
+Pearl, saltwater; 90 gp
+Amber; 110 gp
+Amber; 100 gp
+Chrysoberyl; 100 gp
+Spinel, deep blue; 100 gp
+Pearl, black; 550 gp
+Pearl, black; 550 gp
+Opal; 400 gp
+Pearl, black; 500 gp
+Sapphire; 1,000 gp
+Diamond, small; 1,000 gp
+Sapphire; 900 gp
+Sapphire; 1,200 gp
+Sapphire; 900 gp
+Diamond, small; 1,300 gp
+Sapphire, star; 5,000 gp
+Diamond, large; 5,500 gp
+Emerald, brilliant green; 5,500 gp
+Emerald, brilliant green; 6,000 gp
+Emerald, brilliant green; 6,500 gp
+Sapphire, star; 4,500 gp
+Ruby, large; 5,000 gp
+Emerald, brilliant green; 5,000 gp
+4d4 × 10 pp: 90 pp
+Jet; 110 gp
+Pearl, saltwater; 110 gp
+Coral; 120 gp
+Chrysoberyl; 120 gp
+Garnet; 90 gp
+Tourmaline; 70 gp
+Jet; 80 gp
+Amethyst; 90 gp
+Coral; 90 gp
+Pearl, saltwater; 90 gp
+Pearl, black; 450 gp
+Pearl, black; 600 gp
+Opal; 500 gp
+Topaz; 350 gp
+Ruby, small; 800 gp
+Sapphire; 800 gp
+Ruby, small; 900 gp
+Ruby, small; 800 gp
+Diamond, small; 1,100 gp
+Diamond, small; 1,200 gp
+Emerald, brilliant green; 6,000 gp
+Ruby, large; 4,000 gp
+Ruby, large; 5,000 gp
+Emerald, brilliant green; 6,000 gp
+Emerald, brilliant green; 4,000 gp
+Diamond, large; 4,500 gp
+Ruby, large; 5,000 gp
+Diamond, large; 5,500 gp
+4d4 × 10 pp: 100 pp
+Jet; 120 gp
+Tourmaline; 110 gp
+Garnet; 100 gp
+Garnet; 120 gp
+Garnet; 120 gp
+Chrysoberyl; 90 gp
+Garnet; 110 gp
+Coral; 80 gp
+Coral; 80 gp
+Amethyst; 130 gp
+Topaz; 550 gp
+Opal; 500 gp
+Topaz; 600 gp
+Aquamarine; 500 gp
+Emerald; 1,000 gp
+Emerald; 800 gp
+Ruby, small; 1,200 gp
+Diamond, small; 1,000 gp
+Emerald; 1,000 gp
+Diamond, small; 1,100 gp
+Emerald, brilliant green; 6,500 gp
+Diamond, large; 4,500 gp
+Sapphire, star; 4,500 gp
+Sapphire, star; 6,000 gp
+Sapphire, star; 5,500 gp
+Sapphire, star; 5,000 gp
+Ruby, large; 4,500 gp
+Ruby, large; 4,500 gp
+4d4 × 10 pp: 90 pp
+Coral; 70 gp
+Amethyst; 100 gp
+Spinel, deep blue; 90 gp
+Spinel, deep blue; 90 gp
+Garnet; 80 gp
+Jet; 110 gp
+Chrysoberyl; 130 gp
+Chrysoberyl; 90 gp
+Chrysoberyl; 100 gp
+Amber; 100 gp
+Pearl, black; 350 gp
+Opal; 450 gp
+Opal; 500 gp
+Pearl, black; 650 gp
+Emerald; 1,000 gp
+Sapphire; 700 gp
+Sapphire; 1,000 gp
+Diamond, small; 1,100 gp
+Diamond, small; 700 gp
+Emerald; 1,000 gp
+Emerald, brilliant green; 6,500 gp
+Sapphire, star; 5,000 gp
+Diamond, large; 3,500 gp
+Ruby, large; 5,500 gp
+Emerald, brilliant green; 6,500 gp
+Emerald, brilliant green; 6,000 gp
+Ruby, large; 4,500 gp
+Emerald, brilliant green; 4,500 gp
+Chain shirt +1; 1,250 gp
+Mithral shirt; 1,100 gp
+Heavy flail +1; 2,315 gp
+Searing arrow; 1,516 gp
+Heavy mace +1; 2,312 gp
+Otyugh hide; 2,565 gp
+Otyugh hide; 2,565 gp
+Studded leather armor +1/Impervious; 4,175 gp
+Spear +1; 2,302 gp
+Longbow +1; 2,375 gp
+Dagger +1; 2,300 gp
+Buckler +1; 1,155 gp
+Javelin of lightning; 1,500 gp
+Full Plate +1; 1,150 gp
+Scythe +1; 2,318 gp
+Half-plate +1; 1,750 gp
+Shortspear +1; 2,301 gp
+Leather armor +1; 1,160 gp
+Longbow +1; 2,375 gp
+Leather armor +1; 1,160 gp
+Quarterstaff +1; 2,300 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+Greataxe +1; 2,320 gp
+Full plate +1; 2,650 gp
+Hushing arrow; 547 gp
+Heavy wooden shield +1; 1,157 gp
+Shortsword +1; 2,310 gp
+Zombie skin shield; 2,159 gp
+MW silver dagger; 322 gp
+Heavy Steel Shield +1/Mirrored; 4,150 gp
+Trident +1; 2,315 gp
+Scale mail +1/Impervious; 4,200 gp
+Shortsword +1; 2,310 gp
+Light wooden shield +2; 4,153 gp
+Falchion +1; 2,375 gp
+Otyugh hide; 2,565 gp
+Longbow +1; 2,375 gp
+Light steel shield +2; 4,159 gp
+Dust bolt; 1,730 gp
+Zombie skin shield; 2,159 gp
+Lance +1; 2,310 gp
+Otyugh hide; 2,565 gp
+Rapier +1; 2,320 gp
+Heavy wooden shield +1/Bashing; 4,157 gp
+Quarterstaff +1; 2,300 gp
+Otyugh hide; 2,565 gp
+Morningstar +1; 2,308 gp
+Leather armor +1/Brawling; 4,160 gp
+Light crossbow +1; 2,335 gp
+Greataxe +1/Throwing; 8,320 gp
+Longbow +2; 8,375 gp
+Shatterspike; 4,315 gp
+Dwarven waraxe +1; 2,330 gp
+Heavy wooden shield +1; 1,157 gp
+Battleaxe +1/Cruel; 8,310 gp
+Chain shirt +1; 1,250 gp
+Battleaxe +2; 8,310 gp
+Mithral shirt; 1,100 gp
+Greatsword +2; 8,350 gp
+Hide +1; 1,165 gp
+Heavy mace +1; 2,312 gp
+Scythe +1; 2,318 gp
+Tower shield +1/Poison-resistant; 3,430 gp
+Hushing arrow; 547 gp
+Scythe +1; 2,318 gp
+Full Plate +2; 4,150 gp
+Longspear +1; 2,305 gp
+Warhammer +1; 2,312 gp
+Breastplate +1; 1,350 gp
+Greataxe +1; 2,320 gp
+Bastard sword +1; 2,335 gp
+Chainmail +2; 4,300 gp
+Lance of jousting; 4,310 gp
+Heavy steel shield +2; 4,170 gp
+Gauntlet +1; 2,302 gp
+Scale mail +2; 4,200 gp
+Morningstar +1; 2,308 gp
+Chain shirt +1; 1,250 gp
+Greatsword +1; 2,350 gp
+Morlock hide; 8,910 gp
+Screaming bolt; 267 gp
+Light wooden shield +1/Merging; 9,153 gp
+Shortsword +1; 2,310 gp
+Elven chain; 5,150 gp
+Bastard sword +1; 2,335 gp
+Heavy mace +1/Guardian; 8,312 gp
+Scythe +1; 2,318 gp
+Light flail +1; 2,308 gp
+Full Plate +2/Defiant; 9,150 gp
+Club +1; 2,300 gp
+Breastplate +1/Deathless; 4,350 gp
+Falchion +2; 8,375 gp
+Studded leather armor +1; 1,175 gp
+Shortspear +2; 8,301 gp
+Half-plate +3/Dastard; 16,750 gp
+Morningstar +1; 2,308 gp
+Full plate +2/Fortification (light); 10,650 gp
+Spear +1; 2,302 gp
+Half-plate +1/Impervious; 4,750 gp
+Cold iron masterwork longsword; 330 gp
+Tempest shield; 15,170 gp
+MW silver dagger; 322 gp
+Chainmail +1/Mirrored; 4,300 gp
+Dart +1; 2,305 gp
+Celestial shield; 13,170 gp
+MW silver dagger; 322 gp
+Tempest shield; 15,170 gp
+Tangle bolt; 226 gp
+Chain shirt +1/Expeditious; 5,250 gp
+Sickle +1; 2,306 gp
+Padded armor +2; 4,155 gp
+Rapier +1; 2,320 gp
+Breastplate +1/Shadow; 5,100 gp
+Longsword +1; 2,315 gp
+Hide +1/Dastard; 4,165 gp
+Spear +1; 2,302 gp
+Full plate +2/Champion; 10,650 gp
+Shuriken +1; 2,301 gp
+Full plate +2; 5,650 gp
+Longsword +1; 2,315 gp
+Full plate +3/Warding; 17,650 gp
+Javelin of lightning; 1,500 gp
+Studded Leather +3/Benevolent; 11,150 gp
+Heavy mace +1; 2,312 gp
+Light wooden shield +1/Grinding; 4,153 gp
+Light mace +1; 2,305 gp
+Studded leather armor +1/Shadow; 4,925 gp
+Shortbow +1; 2,330 gp
+Chain shirt +1/Fortification (light); 4,250 gp
+Greatclub +1; 2,305 gp
+Chainmail +2/Spell resistance (13); 16,300 gp
+Burrowing bullet, lesser; 1,722 gp
+Light wooden shield +2/Mirrored; 9,153 gp
+Light flail +1/Called; 8,308 gp
+Hide +1/Impervious; 4,165 gp
+Shifter’s sorrow; 12,780 gp
+Otyugh hide; 2,565 gp
+Dagger +2/Impervious; 11,302 gp
+Heavy steel shield +1; 1,170 gp
+Longsword +2; 8,315 gp
+Avalanche shield; 19,170 gp
+Shortbow +1; 2,330 gp
+Heavy crossbow +2; 8,350 gp
+Padded armor +3/Spell storing; 16,155 gp
+MW silver dagger; 322 gp
+Lance +1/Shock; 8,310 gp
+Morlock hide; 8,910 gp
+Rapier +1/Unholy; 18,320 gp
+Studded leather armor +3; 9,175 gp
+Halberd +2/Shocking burst; 32,310 gp
+Winged shield; 17,257 gp
+Polarity hammer; 12,310 gp
+Chainmail +4; 16,300 gp
+Rapier +2/Cunning; 18,320 gp
+Full plate +3; 10,650 gp
+Light crossbow +2/Shock; 18,335 gp
+Celestial armor; 22,400 gp
+Light flail +1; 2,308 gp
+Studded leather armor +1; 1,175 gp
+Sling +3/Thundering; 32,300 gp
+Buckler +1; 1,155 gp
+Light mace +2/Shocking burst; 32,305 gp
+Heavy wooden shield +1; 1,157 gp
+Glaive +2/Anchoring; 32,308 gp
+Hide +1; 1,165 gp
+Longsword +1/Repositioning; 32,315 gp
+Scale mail +1; 1,200 gp
+Cutthroat’s apprentice; 33,910 gp
+Full plate +5/Titanic; 65,650 gp
+Gauntlet +1/Shock; 8,302 gp
+Half-plate +4/Delving; 26,750 gp
+Composite shortbow +2; 8,375 gp
+Heavy Steel Shield +4/Spell resistance (17); 64,150 gp
+Slaying arrow, greater; 4,057 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 4 gp
+Potion of Magic stone (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 6 gp
+Potion of Invigorate (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 8 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 7 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 80 sp
+2d4 gp: 5 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 5 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 4 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 6 gp
+Potion of Protection from good (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 8 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 4 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 3 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 5 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 2 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 5 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 7 gp
+Potion of Invigorate (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 5 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 6 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 80 sp
+2d4 gp: 7 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 5 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 6 gp
+MW Shortbow; 330 gp
+Potion of Touch of the sea (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 20 sp
+2d4 gp: 6 gp
+MW Glaive; 308 gp
+Potion of Ant haul (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 6 gp
+MW Lance; 310 gp
+Potion of Feather step (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 6 gp
+MW Composite shortbow; 375 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 6 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 6 gp
+MW Longbow; 375 gp
+Potion of Sanctify corpse (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 4 gp
+MW Shortsword; 310 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 3 gp
+MW Shortbow; 330 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+MW Longspear; 305 gp
+Potion of Darkvision (2nd Level, CL 3rd); 300 gp
+MW Greatsword; 350 gp
+Potion of Resist energy, fire (2nd Level, CL 3rd); 300 gp
+MW Longbow; 375 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+MW Glaive; 308 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+MW Morningstar; 308 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+MW Shortbow; 330 gp
+Potion of Warp wood (2nd Level, CL 3rd); 300 gp
+6d6 gp: 20 gp
+MW Dagger; 302 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+Potion of Magic weapon (1st Level, CL 1st); 50 gp
+6d6 gp: 26 gp
+MW Bolas; 305 gp
+Potion of Goodberry (1st Level, CL 1st); 50 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+6d6 gp: 23 gp
+MW Light hammer; 301 gp
+Potion of Remove sickness (1st Level, CL 1st); 50 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+6d6 gp: 17 gp
+MW Sai; 301 gp
+Potion of Feather step (1st Level, CL 1st); 50 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+6d6 gp: 21 gp
+MW Light pick; 304 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+6d6 gp: 18 gp
+MW Battleaxe; 310 gp
+Potion of Vanish (1st Level, CL 1st); 50 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+6d6 gp: 25 gp
+MW Shortbow; 330 gp
+Potion of Sanctify corpse (1st Level, CL 1st); 50 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+MW Composite shortbow; 375 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+MW Shortspear; 301 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+MW Dart; 305 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+MW Morningstar; 308 gp
+Potion of Guidance (0 Level, CL 1st); 25 gp
+MW Dagger; 302 gp
+Potion of Remove fear (1st Level, CL 1st); 50 gp
+Breastplate +1; 1,150 gp
+MW Lance; 310 gp
+Potion of Guidance (0 Level, CL 1st); 25 gp
+Potion of Guidance (0 Level, CL 1st); 25 gp
+Full plate +1; 2,650 gp
+MW Longbow; 375 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+Heavy Steel Shield +1; 1,150 gp
+MW Club; 300 gp
+Potion of Resist energy, fire (2nd Level, CL 3rd); 300 gp
+Potion of Resist energy, acid (2nd Level, CL 3rd); 300 gp
+Chainmail +1; 1,300 gp
+MW Longsword; 315 gp
+Potion of Magic weapon (1st Level, CL 1st); 50 gp
+Potion of Aid (2nd Level, CL 3rd); 300 gp
+Heavy steel shield +1; 1,170 gp
+MW Dwarven waraxe; 330 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Potion of Keen senses (1st Level, CL 1st); 50 gp
+Scale mail +1; 1,200 gp
+MW Shortsword; 310 gp
+Potion of Keen senses (1st Level, CL 1st); 50 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Full plate +1; 2,650 gp
+MW Trident; 315 gp
+Potion of Rope trick (2nd Level, CL 3rd); 300 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+Breastplate +1; 1,350 gp
+MW Longbow; 375 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+Potion of Grease (1st Level, CL 1st); 50 gp
+Studded Leather +1; 1,150 gp
+MW Dwarven waraxe; 330 gp
+Potion of Magic stone (1st Level, CL 1st); 50 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Heavy steel shield +1; 1,170 gp
+MW Quarterstaff; 300 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+Potion of Protection from good (1st Level, CL 1st); 50 gp
+Mithral shirt; 1,100 gp
+MW Sap; 301 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+MW Battleaxe; 310 gp
+Potion of Spider climb (2nd Level, CL 3rd); 300 gp
+Potion of Touch of the sea (1st Level, CL 1st); 50 gp
+Full plate +1; 2,650 gp
+MW Shortsword; 310 gp
+Potion of Status (2nd Level, CL 3rd); 300 gp
+Potion of Goodberry (1st Level, CL 1st); 50 gp
+Mithral heavy shield; 1,020 gp
+MW Light crossbow; 335 gp
+Potion of Make whole (2nd Level, CL 3rd); 300 gp
+Potion of Delay poison (2nd Level, CL 3rd); 300 gp
+Mithral shirt; 1,100 gp
+MW Quarterstaff; 300 gp
+Potion of Resist energy, fire (2nd Level, CL 3rd); 300 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+Studded leather armor +1; 1,175 gp
+MW Shortspear; 301 gp
+Potion of Animate rope (1st Level, CL 1st); 50 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+MW silver dagger; 322 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Dwarven waraxe +1; 2,330 gp
+Potion of Bull’s strength (2nd Level, CL 3rd); 300 gp
+Searing arrow; 1,516 gp
+Potion of Obscure object (2nd Level, CL 3rd); 300 gp
+Chainmail +1; 1,300 gp
+MW Whip; 301 gp
+Hands: Assisting gloves; 180 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+Breastplate +1; 1,150 gp
+MW Greatclub; 305 gp
+Shoulders: Cloak of elvenkind; 2,500 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Banded mail +1; 1,400 gp
+MW Shortbow; 330 gp
+Slotless: Bag of holding (type I); 2,500 gp
+Potion of Continual flame (2nd Level, CL 3rd); 350 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+MW Dagger; 302 gp
+Slotless: Pearl of Power (1st); 1,000 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Studded leather armor +1; 1,175 gp
+MW Shortbow; 330 gp
+Slotless: Bead of force; 3,000 gp
+Potion of Corruption resistance (2nd Level, CL 3rd); 300 gp
+Mithral shirt; 1,100 gp
+MW Dagger; 300 gp
+Belts: Meridian belt; 1,000 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+Mithral shirt; 1,100 gp
+MW Longsword; 315 gp
+Wrists: Shackles of compliance; 3,280 gp
+Potion of Feather step (1st Level, CL 1st); 50 gp
+Breastplate +1; 1,350 gp
+MW Longsword; 315 gp
+Slotless: Horn of fog; 2,000 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+Dagger +1; 2,302 gp
+Slotless: Goblin skull bomb; 1,200 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+Sizzling arrow; 1,516 gp
+Head: Buffering cap; 2,000 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Light hammer +1; 2,301 gp
+Chest: All tools vest; 1,800 gp
+Potion of Blur (2nd Level, CL 3rd); 300 gp
+Battleaxe +1; 2,310 gp
+Chest: Bandages of rapid recovery; 200 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Scythe +1; 2,318 gp
+Feet: Horseshoes of speed; 3,000 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+Dagger +1; 2,300 gp
+Wrists: Bracers of armor +1; 1,000 gp
+Potion of Sanctify corpse (1st Level, CL 1st); 50 gp
+Slaying arrow; 2,282 gp
+Chest: All tools vest; 1,800 gp
+Potion of Bull’s strength (2nd Level, CL 3rd); 300 gp
+Sleep arrow; 132 gp
+Slotless: Bead of newt prevention; 1,000 gp
+Potion of Darkvision (2nd Level, CL 3rd); 300 gp
+Spear +1; 2,302 gp
+Slotless: Bead of force; 3,000 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Heavy crossbow +1; 2,350 gp
+Shoulders: Cloak of elvenkind; 2,500 gp
+Potion of Slipstream (2nd Level, CL 3rd); 300 gp
+Morningstar +1; 2,308 gp
+Belts: Heavyload belt; 2,000 gp
+Potion of Spider climb (2nd Level, CL 3rd); 300 gp
+Cold iron masterwork longsword; 330 gp
+Neck: Swarmbane clasp; 3,000 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Dust bolt; 1,730 gp
+Slotless: Figurine of wondrous power (silver raven); 3,800 gp
+Potion of Warp wood (2nd Level, CL 3rd); 300 gp
+Bastard sword +1; 2,335 gp
+Necklace of fireballs (type II); 2,700 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+Warhammer +1; 2,312 gp
+Neck: Aegis of recovery; 1,500 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+Heavy mace +1; 2,312 gp
+Hands: Gloves of reconnaissance; 2,000 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Shortspear +1; 2,301 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Magic weapon (1st Level, CL 1st); 50 gp
+Shortsword +1; 2,310 gp
+Head: Stalker’s mask; 3,500 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+Battleaxe +1; 2,310 gp
+Slotless: Rope of climbing; 3,000 gp
+Potion of Aid (2nd Level, CL 3rd); 300 gp
+Dagger +1; 2,300 gp
+Wrists: Shackles of compliance; 3,280 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Hide +2; 4,165 gp
+Dart +1/Bane; 8,305 gp
+Potion of Water walk (3rd Level, CL 5th); 750 gp
+Potion of Invigorate (1st Level, CL 1st); 50 gp
+Studded Leather +1; 1,150 gp
+Longsword +1/Spell storing; 8,315 gp
+Potion of Delay poison (2nd Level, CL 3rd); 300 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Half-plate +1/Poison-resistant; 4,000 gp
+Spear +1/Defending; 8,302 gp
+Potion of Arcane lock (2nd Level, CL 3rd); 300 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+Scroll of Magic missile (arcane, 1st Level, CL 1st); 25 gp
+Scroll of Silence (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Shocking grasp (arcane, 1st Level, CL 1st); 25 gp
+Scroll of darkvision (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of minor image (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of bull’s strength (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of web (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Magic weapon (arcane, 1st Level, CL 1st); 25 gp
+Scroll of blur (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Restoration, lesser (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Sleep (arcane, 1st Level, CL 1st); 25 gp
+Scroll of owl’s wisdom (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Heat metal (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Cure moderate wounds (divine, 2nd Level, CL 3rd); 150 gp
+Hands: Glowing glove; 2,000 gp
+Potion of Neutralize poison (3rd Level, CL 5th); 750 gp
+Wand of Detect animals or plants (1st Level, CL 1st); 750 gp
+Slotless: Wasp nest of swarming; 1,000 gp
+Potion of Slipstream (2nd Level, CL 3rd); 300 gp
+Wand of Hold person (2nd Level, CL 3rd); 4,500 gp
+Headband: Dead man’s headband; 3,600 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Wand of Sleep (1st Level, CL 1st); 750 gp
+Hands: Engineer’s workgloves; 3,000 gp
+Potion of Resist energy, fire (2nd Level, CL 3rd); 300 gp
+Wand of Magic weapon (1st Level, CL 1st); 750 gp
+Slotless: Rope of climbing; 3,000 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Wand of Doom (1st Level, CL 1st); 750 gp
+Slotless: Bag of tricks (gray); 3,400 gp
+Potion of Burrow (3rd Level, CL 5th); 750 gp
+Wand of Delay poison (2nd Level, CL 3rd); 4,500 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Protection from energy, acid (3rd Level, CL 5th); 750 gp
+Wand of Pass without trace (1st Level, CL 1st); 750 gp
+Body: Druid’s vestment; 3,750 gp
+Potion of Rage (3rd Level, CL 5th); 750 gp
+Wand of Goodberry (1st Level, CL 1st); 750 gp
+Neck: Brooch of shielding; 1,500 gp
+Potion of Remove paralysis (2nd Level, CL 3rd); 300 gp
+Wand of Magic weapon (1st Level, CL 1st); 750 gp
+Necklace of fireballs (type II); 2,700 gp
+Potion of Magic vestment (3rd Level, CL 5th); 750 gp
+Wand of Magic fang (1st Level, CL 1st); 750 gp
+Neck: Swarmbane clasp; 3,000 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Wand of Shocking grasp (1st Level, CL 1st); 750 gp
+Slotless: Volatile vaporizer (1st); 2,200 gp
+Potion of Delay poison (2nd Level, CL 3rd); 300 gp
+Wand of Bless (1st Level, CL 1st); 750 gp
+Shoulders: Cloak of resistance +1; 1,000 gp
+Potion of Burrow (3rd Level, CL 5th); 750 gp
+Wand of Mirror image (2nd Level, CL 3rd); 4,500 gp
+Slotless: Dust of disappearance; 3,500 gp
+Potion of Magic fang, greater (3rd Level, CL 5th); 750 gp
+Wand of Gentle repose (2nd Level, CL 3rd); 4,500 gp
+Slotless: Concealing pocket; 1,000 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Wand of Protection from law (1st Level, CL 1st); 750 gp
+Slotless: Anatomy doll; 1,000 gp
+Potion of Protection from energy, acid (3rd Level, CL 5th); 750 gp
+Wand of Burning hands (1st Level, CL 1st); 750 gp
+Slotless: Boro bead (1st); 1,000 gp
+Potion of Slipstream (2nd Level, CL 3rd); 300 gp
+Wand of Enlarge person (1st Level, CL 1st); 750 gp
+Slotless: Concealing pocket; 1,000 gp
+Potion of Cure serious wounds (3rd Level, CL 5th); 750 gp
+Wand of Bless (1st Level, CL 1st); 750 gp
+Slotless: Horn of fog; 2,000 gp
+Potion of Heroism (3rd Level, CL 5th); 750 gp
+Wand of Grease (1st Level, CL 1st); 750 gp
+Slotless: Wasp nest of swarming; 1,000 gp
+Potion of Vanish (1st Level, CL 1st); 50 gp
+Wand of Entropic shield (1st Level, CL 1st); 750 gp
+Ring of feather falling; 2,200 gp
+Belts: Heavyload belt; 2,000 gp
+Scroll of Magic circle against law (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Dispel magic (arcane, 3rd Level, CL 5th); 375 gp
+Ring of the grasping grave; 2,000 gp
+Slotless: Bag of tricks (gray); 3,400 gp
+Scroll of Unholy blight (divine, 4th Level, CL 7th); 700 gp
+Scroll of Daylight (divine, 3rd Level, CL 5th); 375 gp
+Ring of the grasping grave; 2,000 gp
+Hands: Assisting gloves; 180 gp
+Scroll of Guiding star (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Fireball (arcane, 3rd Level, CL 5th); 375 gp
+Ring of protection +1; 2,000 gp
+Shoulders: Shawl of life-keeping; 1,000 gp
+Scroll of Wall of fire (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Protection from energy, communal (divine, 4th Level, CL 7th); 700 gp
+Ring of the grasping grave; 2,000 gp
+Headband: Dead man’s headband; 3,600 gp
+Scroll of Vampiric touch (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Prayer (divine, 3rd Level, CL 5th); 375 gp
+Ring of arcane signets; 1,000 gp
+Feet: Boots of the cat; 1,000 gp
+Potion of Countless eyes (3rd Level, CL 5th); 750 gp
+Wand of Comprehend languages (1st Level, CL 1st); 750 gp
+Ring of protection +1; 2,000 gp
+Feet: Boots of the mire; 3,500 gp
+Potion of Cure serious wounds (3rd Level, CL 5th); 750 gp
+Wand of Pass without trace (1st Level, CL 1st); 750 gp
+Ring of spell knowledge I; 1,500 gp
+Feet: Boots of friendly terrain; 2,400 gp
+Potion of Feather step (1st Level, CL 1st); 50 gp
+Wand of Urban grace (1st Level, CL 1st); 750 gp
+Potion of Darkvision (2nd Level, CL 3rd); 300 gp
+Potion of Nondetection (3rd Level, CL 5th); 800 gp
+Scroll of Bless (divine, 1st Level, CL 1st); 25 gp
+Wand of Darkness (2nd Level, CL 3rd); 4,500 gp
+Potion of Bull’s strength (2nd Level, CL 3rd); 300 gp
+Potion of Protection from energy, acid (3rd Level, CL 5th); 750 gp
+Scroll of Summon monster I (arcane, 1st Level, CL 1st); 25 gp
+Wand of Spider climb (2nd Level, CL 3rd); 4,500 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Scroll of Prestidigitation (arcane, 0 Level, CL 1st); 12.50 gp
+Wand of Sound burst (2nd Level, CL 3rd); 4,500 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Potion of Water walk (3rd Level, CL 5th); 750 gp
+Scroll of Cure light wounds (divine, 1st Level, CL 1st); 25 gp
+Wand of Bestow curse (3rd Level, CL 5th); 11,250 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Scroll of Forbid action (divine, 1st Level, CL 1st); 25 gp
+Wand of Summon nature’s ally II (2nd Level, CL 3rd); 4,500 gp
+Ring of the grasping grave; 2,000 gp
+Slotless: Dust of disappearance; 3,500 gp
+Wand of Flame blade (2nd Level, CL 3rd); 4,500 gp
+Ring of swimming; 2,500 gp
+Slotless: Pipes of the sewers; 1,150 gp
+Wand of Bear’s endurance (2nd Level, CL 3rd); 4,500 gp
+Ring of the grasping grave; 2,000 gp
+Slotless: Alluring golden apple; 400 gp
+Wand of Vampiric touch (3rd Level, CL 5th); 11,250 gp
+Ring of climbing; 2,500 gp
+Slotless: Pearl of Power (1st); 1,000 gp
+Wand of Resist energy (2nd Level, CL 3rd); 4,500 gp
+Ring of ferocious action; 3,000 gp
+Body: Robe of useful items; 7,000 gp
+Scroll of Beast shape II (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Scrying (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Bless (1st Level, CL 1st); 750 gp
+Wand of Remove fear (1st Level, CL 1st); 750 gp
+Ring: Dungeon ring, prisoner’s; 250 gp
+Chest: Vest of escape; 5,200 gp
+Scroll of Righteous might (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Planar ally, lesser (divine, 4th Level, CL 7th); 1,200 gp
+Wand of Shatter (2nd Level, CL 3rd); 4,500 gp
+Wand of True strike (1st Level, CL 1st); 750 gp
+Ring of spell knowledge I; 1,500 gp
+Rod of cancellation; 11,000 gp
+Wand of Shield other (2nd Level, CL 3rd); 4,500 gp
+Ring of jumping; 2,500 gp
+Rod: Metamagic (+1 spell level), normal; 11,000 gp
+Wand of Resist energy (2nd Level, CL 3rd); 4,500 gp
+Ring of arcane signets; 1,000 gp
+Rod of cancellation; 11,000 gp
+Wand of Acid arrow (2nd Level, CL 3rd); 4,500 gp
+Ring of ferocious action; 3,000 gp
+Rod: Immovable rod; 5,000 gp
+Wand of Protection from energy (3rd Level, CL 5th); 11,250 gp
+Ring of ferocious action; 3,000 gp
+Rod: Metamagic (+1 spell level), minor; 3,000 gp
+Wand of Magic circle against chaos (3rd Level, CL 5th); 11,250 gp
+Ring of feather falling; 2,200 gp
+Wand of Warp wood (2nd Level, CL 3rd); 4,500 gp
+Wand of Slow (3rd Level, CL 5th); 11,250 gp
+Shoulders: Cloak of resistance +2; 4,000 gp
+Ring of swarming stabs; 6,000 gp
+Wrists: Charm bracelet; 8,000 gp
+Hands: Glyphbane gloves; 9,000 gp
+Potion of Countless eyes (3rd Level, CL 5th); 750 gp
+Scroll of Feeblemind (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Major image (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Symbol of pain (arcane, 5th Level, CL 9th); 2,125 gp
+Wand of Gaseous form (3rd Level, CL 5th); 11,250 gp
+Ring of maniacal devices; 5,000 gp
+Wrists: Bracers of armor +3; 9,000 gp
+Wrists: Bracelet of second chances; 15,750 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Scroll of Keen edge (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Archon’s aura (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Wall of force (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Enervation (4th Level, CL 7th); 21,000 gp
+Ring of sacred mistletoe; 6,000 gp
+Headband of ninjitsu; 15,000 gp
+Slotless: Scabbard of keen edges; 16,000 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Scroll of Heroism (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Breath of life (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Break enchantment (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Suggestion (3rd Level, CL 5th); 11,250 gp
+Ring of swarming stabs; 6,000 gp
+Shoulders: Cloak of resistance +3; 9,000 gp
+Neck: Collar of the true companion; 10,000 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Scroll of Fabricate (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Wall of force (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Scrying (arcane, 4th Level, CL 7th); 700 gp
+Wand of Vampiric touch (3rd Level, CL 5th); 11,250 gp
+Ring of sacred mistletoe; 6,000 gp
+Body: Blazing robes; 11,000 gp
+Head: Mask of a thousand tomes; 10,000 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Scroll of Divine power (divine, 4th Level, CL 7th); 700 gp
+Scroll of Slay living (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Wall of ice (arcane, 4th Level, CL 7th); 700 gp
+Wand of Deep slumber (3rd Level, CL 5th); 11,250 gp
+Ring of counterspells; 4,000 gp
+Headband of ninjitsu; 15,000 gp
+Shoulders: Shawl of the crone; 16,000 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Scroll of Fly (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Awaken (divine, 5th Level, CL 9th); 3,125 gp
+Scroll of Transmute mud to rock (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Dominate person (4th Level, CL 7th); 30,000 gp
+Ring of spell knowledge II; 6,000 gp
+Head: Veil of fleeting glances; 9,000 gp
+Slotless: Scabbard of keen edges; 16,000 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Scroll of Wall of stone (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Phantom chariot (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Fire shield (arcane, 4th Level, CL 7th); 700 gp
+Wand of Heal mount (3rd Level, CL 5th); 15,750 gp
+Staff of blessed relief; 7,200 gp
+Rod of nettles; 18,000 gp
+Headband of arcane energy; 20,000 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Scroll of Arcane eye (arcane, 4th Level, CL 7th); 700 gp
+Scroll of True seeing (arcane, 6th Level, CL 11th); 1,900 gp
+Wand of Darkness (2nd Level, CL 3rd); 4,500 gp
+Staff of charming; 17,600 gp
+Rod: Conduit rod; 12,000 gp
+Slotless: Manual of bodily health +1; 27,500 gp
+Potion of Flame arrow (3rd Level, CL 5th); 750 gp
+Scroll of Icy prison (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Wall of force (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Cat’s grace (2nd Level, CL 3rd); 4,500 gp
+Staff of blessed relief; 7,200 gp
+Rod of flame extinguishing; 15,000 gp
+Neck: Amulet of natural armor +3; 18,000 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Scroll of Dominate person (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Heroism, greater (arcane, 6th Level, CL 11th); 1,650 gp
+Wand of Disguise other (2nd Level, CL 3rd); 4,500 gp
+Falchion +1; 2,375 gp
+Staff of fire; 18,950 gp
+Head: Helm of underwater action; 24,000 gp
+Scroll of Forcecage (arcane, 7th Level, CL 13th); 2,775 gp
+Scroll of Earthquake (divine, 8th Level, CL 15th); 3,000 gp
+Scroll of Form of the dragon II (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Black tentacles (4th Level, CL 7th); 21,000 gp
+Sap +1; 2,301 gp
+Staff of radiance; 23,200 gp
+Headband of knucklebones; 27,500 gp
+Scroll of Summon monster VIII (divine, 8th Level, CL 15th); 3,000 gp
+Scroll of Prismatic sphere (arcane, 9th Level, CL 17th); 3,825 gp
+Scroll of Plane shift (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Ash storm (3rd Level, CL 5th); 11,250 gp
+Ring of freedom of movement; 40,000 gp
+Rod of escape; 15,000 gp
+Staff of curses; 43,500 gp
+Scroll of Resurrection (divine, 7th Level, CL 13th); 12,275 gp
+Wand of Magic circle against law (3rd Level, CL 5th); 11,250 gp
+Ring of energy resistance, greater; 44,000 gp
+Rod of the viper; 19,000 gp
+Staff of curses; 43,500 gp
+Scroll of Freedom of movement (divine, 4th Level, CL 7th); 700 gp
+Wand of Fireball (3rd Level, CL 5th); 11,250 gp
+Ring of wizardry II; 40,000 gp
+Rod of the python; 13,000 gp
+Staff of the master; 30,000 gp
+Scroll of Summon monster V (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Slow (3rd Level, CL 5th); 11,250 gp
+Ring of freedom of movement; 40,000 gp
+Rod of ruin; 16,000 gp
+Staff: Chaotic staff; 29,600 gp
+Scroll of Breath of life (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Haste (3rd Level, CL 5th); 11,250 gp
+Ring of inner fortitude, major; 42,000 gp
+Rod of ruin; 16,000 gp
+Staff of healing; 29,600 gp
+Scroll of Planar ally, lesser (divine, 4th Level, CL 7th); 1,200 gp
+Wand of Enervation (4th Level, CL 7th); 21,000 gp
+Ring of energy resistance, major; 28,000 gp
+Rod of wonder; 12,000 gp
+Staff of healing; 29,600 gp
+Scroll of Permanency (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Ash storm (3rd Level, CL 5th); 11,250 gp
+Ring of delayed doom; 45,000 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Staff of speaking; 39,600 gp
+Scroll of Giant vermin (divine, 4th Level, CL 7th); 700 gp
+Wand of Inflict critical wounds (4th Level, CL 7th); 21,000 gp
+Ring of protection +4; 32,000 gp
+Rod of wonder; 12,000 gp
+Staff: Unholy staff; 29,600 gp
+Scroll of Slay living (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Suggestion (3rd Level, CL 5th); 11,250 gp
+4d4 × 100 cp: 900 cp
+3d6 × 10 sp: 110 sp
+2d4 × 10 gp: 50 gp
+MW Greataxe; 320 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+Scroll of web (arcane, 2nd Level, CL 3rd); 150 gp
+Citrine; 50 gp
+2d4 × 100 cp: 200 cp
+2d6 × 100 sp: 300 sp
+6d6 gp: 17 gp
+Potion of Magic weapon (1st Level, CL 1st); 50 gp
+Scroll of see invisibility (arcane, 2nd Level, CL 3rd); 150 gp
+Wand of Protection from chaos (1st Level, CL 1st); 750 gp
+Shell; 11 gp
+Pearl, irregular freshwater; 13 gp
+Agate; 8 gp
+2d4 × 100 cp: 700 cp
+2d6 × 100 sp: 600 sp
+6d6 gp: 21 gp
+Potion of Ant haul (1st Level, CL 1st); 50 gp
+Scroll of scorching ray (arcane, 2nd Level, CL 3rd); 150 gp
+Wand of Disrupt undead (0 Level, CL 1st); 375 gp
+Rhodochrosite; 11 gp
+Pearl, irregular freshwater; 11 gp
+Pyrite; 8 gp
+2d4 × 10 gp: 50 gp
+4d6 pp: 13 pp
+MW Shortsword; 310 gp
+Ring of feather falling; 2,200 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Scroll of Silence (divine, 2nd Level, CL 3rd); 150 gp
+Wand of True strike (1st Level, CL 1st); 750 gp
+2d4 × 10 gp: 40 gp
+4d6 pp: 15 pp
+MW Bastard sword; 335 gp
+Ring of jumping; 2,500 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Scroll of Blink (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Speak with animals (1st Level, CL 1st); 750 gp
+4d4 × 10 gp: 90 gp
+6d6 pp: 18 pp
+Dagger +1; 2,300 gp
+Slotless: Pipes of the sewers; 1,150 gp
+Potion of Barkskin (2nd Level, CL 3rd); 300 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Wand of Magic weapon (1st Level, CL 1st); 750 gp
+Jade; 80 gp
+Garnet; 80 gp
+4d4 × 10 gp: 70 gp
+6d6 pp: 17 pp
+Bolas +1; 2,305 gp
+Shoulders: Cloak of resistance +1; 1,000 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Potion of Remove paralysis (2nd Level, CL 3rd); 300 gp
+Wand of Bless weapon (1st Level, CL 1st); 750 gp
+Jet; 100 gp
+Garnet; 90 gp
+4d4 × 10 gp: 100 gp
+6d6 pp: 21 pp
+Dart +1; 2,305 gp
+Neck: Amulet of natural armor +1; 2,000 gp
+Potion of Neutralize poison (3rd Level, CL 5th); 750 gp
+Potion of Warp wood (2nd Level, CL 3rd); 300 gp
+Wand of Bless (1st Level, CL 1st); 750 gp
+Chrysoberyl; 110 gp
+Spinel, deep blue; 100 gp
+4d8 × 10 gp: 160 gp
+6d10 pp: 30 pp
+Leather armor +1; 1,160 gp
+Ring of protection +1; 2,000 gp
+Necklace of fireballs (type I); 1,650 gp
+Scroll of Poison (divine, 3rd Level, CL 5th); 375 gp
+Wand of Magic missile (1st Level, CL 1st); 750 gp
+Aquamarine; 550 gp
+4d8 × 10 gp: 220 gp
+6d10 pp: 43 pp
+Scale mail +2; 4,200 gp
+Ring: Dungeon ring, prisoner’s; 250 gp
+Feet: Boots of friendly terrain; 2,400 gp
+Scroll of Fireball (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Magic missile (1st Level, CL 1st); 750 gp
+Aquamarine; 350 gp
+4d4 × 10 gp: 120 gp
+4d4 × 10 pp: 120 pp
+Otyugh hide; 2,565 gp
+Belts: Bladed belt; 2,000 gp
+Potion of Arcane lock (2nd Level, CL 3rd); 300 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Scroll of Waves of fatigue (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Imbue with spell ability (divine, 4th Level, CL 7th); 700 gp
+Wand of Displacement (3rd Level, CL 5th); 11,250 gp
+Amethyst; 90 gp
+4d4 × 10 gp: 140 gp
+4d4 × 10 pp: 100 pp
+Banded mail +2; 4,400 gp
+Slotless: Dust of illusion; 1,200 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Potion of Bullet shield (2nd Level, CL 3rd); 300 gp
+Scroll of Summon monster III (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Magic circle against good (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Archon’s aura (3rd Level, CL 5th); 11,250 gp
+Jet; 110 gp
+2d4 × 10 pp: 50 pp
+Ring of sacred mistletoe; 6,000 gp
+Slotless: Volatile vaporizer (1st); 2,200 gp
+Hands: Apprentice’s cheating gloves; 2,200 gp
+Potion of Fire trap (3rd Level, CL 5th); 775 gp
+Potion of Protection from energy, sonic (3rd Level, CL 5th); 750 gp
+Scroll of Cure critical wounds (divine, 4th Level, CL 7th); 700 gp
+Scroll of Shadow conjuration (arcane, 4th Level, CL 7th); 700 gp
+Wand of Fog cloud (2nd Level, CL 3rd); 4,500 gp
+6d6 × 10 gp: 200 gp
+2d4 × 10 pp: 60 pp
+Morningstar +1; 2,308 gp
+Neck: Periapt of wound closure; 15,000 gp
+Wand of Cure serious wounds (3rd Level, CL 5th); 11,250 gp
+Jade; 110 gp
+Pearl, saltwater; 100 gp
+Jet; 90 gp
+6d6 × 10 gp: 290 gp
+2d4 × 10 pp: 60 pp
+Longbow +1; 2,375 gp
+Necklace of fireballs (type VI); 8,100 gp
+Wand of Modify memory (4th Level, CL 7th); 30,000 gp
+Coral; 130 gp
+Pearl, saltwater; 80 gp
+Spinel, deep blue; 90 gp
+6d6 × 10 gp: 200 gp
+2d4 × 10 pp: 70 pp
+Dagger +1/Called; 8,302 gp
+Belts: Belt of physical might +2; 10,000 gp
+Wand of Beast shape I (3rd Level, CL 5th); 11,250 gp
+Spinel, deep blue; 110 gp
+Jet; 100 gp
+Tourmaline; 110 gp
+4d4 × 10 gp: 70 gp
+4d4 × 10 pp: 80 pp
+Ring of strength sapping; 8,000 gp
+Rod: Immovable rod; 5,000 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Scroll of Regenerate (divine, 7th Level, CL 13th); 2,275 gp
+Scroll of Planar binding, lesser (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Cure serious wounds (3rd Level, CL 5th); 11,250 gp
+4d4 × 10 pp: 110 pp
+Splint mail +3/Fortification (light); 16,350 gp
+Staff of charming; 17,600 gp
+Necklace of fireballs (type VI); 8,100 gp
+Scroll of Cure critical wounds, mass (divine, 8th Level, CL 15th); 3,000 gp
+Wand of Hostile levitation (3rd Level, CL 5th); 11,250 gp
+Sapphire; 1,200 gp
+4d4 × 10 pp: 80 pp
+Scale mail +2/Glamered; 6,900 gp
+Staff of accompaniment; 14,800 gp
+Slotless: Cauldron of plenty; 15,000 gp
+Scroll of Frightful aspect (divine, 8th Level, CL 15th); 3,000 gp
+Wand of Resist energy (2nd Level, CL 3rd); 4,500 gp
+Diamond, small; 900 gp
+4d4 × 10 pp: 100 pp
+Breastplate +3; 9,350 gp
+Staff of accompaniment; 14,800 gp
+Head: Mask of a thousand tomes; 10,000 gp
+Scroll of Summon monster VIII (divine, 8th Level, CL 15th); 3,000 gp
+Wand of Resist energy (2nd Level, CL 3rd); 4,500 gp
+Emerald; 1,200 gp
+8d6 × 100 gp: 2700 gp
+4d4 × 10 pp: 70 pp
+Ring of energy resistance, major; 28,000 gp
+Feet: Boots of teleportation; 49,000 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Potion of Countless eyes (3rd Level, CL 5th); 750 gp
+Potion of Continual flame (2nd Level, CL 3rd); 350 gp
+Scroll of Unholy aura (divine, 8th Level, CL 15th); 3,000 gp
+Wand of Bear’s endurance (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 1,200 gp
+Diamond, small; 1,000 gp
+Sapphire, star; 4,000 gp
+8d6 × 100 gp: 2800 gp
+4d4 × 10 pp: 90 pp
+Ring of protection +4; 32,000 gp
+Head: Mask of giants, lesser; 30,000 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+Scroll of Symbol of stunning (divine, 7th Level, CL 13th); 7,275 gp
+Wand of Invisibility (2nd Level, CL 3rd); 4,500 gp
+Ruby, small; 800 gp
+Diamond, small; 1,000 gp
+Emerald, brilliant green; 5,000 gp
+8d6 × 100 gp: 3100 gp
+4d4 × 10 pp: 100 pp
+Ring of delayed doom; 45,000 gp
+Shoulders: Juggernaut’s pauldrons; 40,000 gp
+Potion of Heroism (3rd Level, CL 5th); 750 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Scroll of Symbol of death (arcane, 8th Level, CL 15th); 8,000 gp
+Wand of Fog cloud (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 1,300 gp
+Diamond, small; 900 gp
+Diamond, large; 4,500 gp
+8d6 × 100 gp: 2500 gp
+4d4 × 10 pp: 100 pp
+Ring of wizardry II; 40,000 gp
+Slotless: Ioun stone (vibrant purple prism); 36,000 gp
+Potion of Continual flame (2nd Level, CL 3rd); 350 gp
+Potion of Remove blindness/deafness (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, fire (3rd Level, CL 5th); 750 gp
+Scroll of Create demiplane, greater (divine, 9th Level, CL 17th); 3,825 gp
+Wand of Bull’s strength (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 1,100 gp
+Emerald; 1,200 gp
+Diamond, large; 4,000 gp
+8d6 × 100 gp: 2700 gp
+4d4 × 10 pp: 70 pp
+Ring of energy resistance, greater; 44,000 gp
+Slotless: Preserving flask (6th); 36,000 gp
+Potion of Stone shape (3rd Level, CL 5th); 750 gp
+Potion of Protection from arrows (2nd Level, CL 3rd); 300 gp
+Potion of Countless eyes (3rd Level, CL 5th); 750 gp
+Scroll of Heroic invocation (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Web (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 900 gp
+Sapphire; 1,000 gp
+Emerald, brilliant green; 4,000 gp
+8d6 × 100 gp: 2900 gp
+4d4 × 10 pp: 90 pp
+Ring of protection +4; 32,000 gp
+Wrists: Bracers of armor +6; 36,000 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Potion of Keen edge (3rd Level, CL 5th); 750 gp
+Potion of Magic fang, greater (3rd Level, CL 5th); 750 gp
+Scroll of Elemental body IV (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Aqueous orb (3rd Level, CL 5th); 11,250 gp
+Ruby, small; 700 gp
+Diamond, small; 900 gp
+Emerald, brilliant green; 5,500 gp
+8d6 × 100 gp: 2700 gp
+4d4 × 10 pp: 150 pp
+Ring of energy resistance, greater; 44,000 gp
+Head: Laurel of command; 30,000 gp
+Potion of Neutralize poison (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, electricity (3rd Level, CL 5th); 750 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Scroll of Incendiary cloud (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Poison (3rd Level, CL 5th); 11,250 gp
+Sapphire; 900 gp
+Diamond, small; 900 gp
+Diamond, large; 4,500 gp
+8d6 × 100 gp: 3000 gp
+4d4 × 10 pp: 90 pp
+Ring of return; 33,600 gp
+Slotless: Page of spell knowledge (7th); 49,000 gp
+Potion of Remove curse (3rd Level, CL 5th); 750 gp
+Potion of Rage (3rd Level, CL 5th); 750 gp
+Potion of Magic vestment (3rd Level, CL 5th); 750 gp
+Scroll of Scrying, greater (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Alter self (2nd Level, CL 3rd); 4,500 gp
+Ruby, small; 800 gp
+Ruby, small; 800 gp
+Sapphire, star; 3,500 gp
+8d6 × 100 gp: 3400 gp
+4d4 × 10 pp: 130 pp
+Ring of wizardry II; 40,000 gp
+Wrists: Dimensional shackles; 28,000 gp
+Potion of Continual flame (2nd Level, CL 3rd); 350 gp
+Potion of Remove curse (3rd Level, CL 5th); 750 gp
+Potion of Neutralize poison (3rd Level, CL 5th); 750 gp
+Scroll of Flesh to stone (arcane, 6th Level, CL 11th); 1,650 gp
+Wand of Effortless armor (2nd Level, CL 3rd); 4,500 gp
+Ruby, small; 900 gp
+Sapphire; 800 gp
+Emerald, brilliant green; 4,000 gp
+8d6 × 100 gp: 3100 gp
+4d4 × 10 pp: 130 pp
+Ring of freedom of movement; 40,000 gp
+Slotless: Ioun stone (orange prism); 30,000 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, fire (3rd Level, CL 5th); 750 gp
+Potion of Keen edge (3rd Level, CL 5th); 750 gp
+Scroll of Iron body (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Invisibility (2nd Level, CL 3rd); 4,500 gp
+Diamond, small; 1,000 gp
+Sapphire; 1,300 gp
+Emerald, brilliant green; 6,500 gp
+5d10 sp: 23 sp
+1d4 gp: 3 gp
+Lapis lazuli; 13 gp
+Hematite; 9 gp
+3d6 × 10 sp: 80 sp
+3d6 gp: 12 gp
+Turquoise; 8 gp
+Malachite; 13 gp
+Lapis lazuli; 9 gp
+Spinel, deep blue; 100 gp
+Jade; 90 gp
+Jade; 90 gp
+Pearl, saltwater; 90 gp
+2d4 × 10 gp: 80 gp
+Ivory; 45 gp
+Moonstone; 55 gp
+Chrysoberyl; 100 gp
+Topaz; 400 gp
+Topaz; 450 gp
+Aquamarine; 500 gp
+Topaz; 500 gp
+3d6 × 10 gp: 80 gp
+4d4 pp: 8 pp
+Jet; 110 gp
+Chrysoberyl; 110 gp
+Amber; 110 gp
+Pearl, black; 500 gp
+3d6 × 10 gp: 60 gp
+4d4 pp: 7 pp
+Amber; 100 gp
+Amber; 100 gp
+Chrysoberyl; 100 gp
+Topaz; 600 gp
+3d6 × 10 gp: 110 gp
+4d4 pp: 15 pp
+Pearl, saltwater; 70 gp
+Garnet; 120 gp
+Jet; 120 gp
+Opal; 500 gp
+2d4 × 100 gp: 700 gp
+Topaz; 400 gp
+Pearl, black; 550 gp
+Ruby, small; 1,100 gp
+2d4 × 100 gp: 400 gp
+Opal; 400 gp
+Topaz; 500 gp
+Sapphire; 700 gp
+Ruby, large; 5,000 gp
+Ruby, large; 4,500 gp
+Sapphire, star; 5,000 gp
+Sapphire, star; 4,500 gp
+Sapphire, star; 4,500 gp
+4d4 × 10 pp: 70 pp
+Jet; 80 gp
+Jade; 100 gp
+Jet; 100 gp
+Spinel, deep blue; 130 gp
+Tourmaline; 80 gp
+Jade; 120 gp
+Jet; 70 gp
+Amber; 90 gp
+Amethyst; 120 gp
+Chrysoberyl; 110 gp
+Aquamarine; 400 gp
+Opal; 450 gp
+Opal; 350 gp
+Topaz; 450 gp
+Ruby, small; 700 gp
+Emerald; 1,300 gp
+Emerald; 1,000 gp
+Sapphire; 1,000 gp
+Sapphire; 1,100 gp
+Diamond, small; 1,000 gp
+Ruby, large; 6,000 gp
+Sapphire, star; 5,500 gp
+Ruby, large; 4,500 gp
+Ruby, large; 6,500 gp
+Diamond, large; 3,500 gp
+Ruby, large; 6,000 gp
+Ruby, large; 5,000 gp
+Emerald, brilliant green; 4,500 gp
+4d4 × 10 pp: 120 pp
+Amber; 110 gp
+Spinel, deep blue; 80 gp
+Chrysoberyl; 70 gp
+Tourmaline; 100 gp
+Spinel, deep blue; 100 gp
+Tourmaline; 70 gp
+Amethyst; 110 gp
+Garnet; 80 gp
+Tourmaline; 100 gp
+Garnet; 80 gp
+Aquamarine; 400 gp
+Pearl, black; 550 gp
+Pearl, black; 500 gp
+Aquamarine; 500 gp
+Sapphire; 1,200 gp
+Ruby, small; 1,100 gp
+Sapphire; 1,100 gp
+Ruby, small; 800 gp
+Diamond, small; 1,300 gp
+Emerald; 1,200 gp
+Sapphire, star; 5,500 gp
+Diamond, large; 4,500 gp
+Diamond, large; 5,500 gp
+Diamond, large; 3,500 gp
+Sapphire, star; 4,500 gp
+Emerald, brilliant green; 5,500 gp
+Sapphire, star; 3,500 gp
+Emerald, brilliant green; 4,000 gp
+4d4 × 10 pp: 90 pp
+Coral; 70 gp
+Amethyst; 110 gp
+Jade; 110 gp
+Pearl, saltwater; 130 gp
+Garnet; 110 gp
+Tourmaline; 70 gp
+Jet; 110 gp
+Tourmaline; 90 gp
+Chrysoberyl; 110 gp
+Garnet; 110 gp
+Topaz; 400 gp
+Pearl, black; 450 gp
+Topaz; 450 gp
+Opal; 550 gp
+Ruby, small; 900 gp
+Diamond, small; 700 gp
+Emerald; 900 gp
+Diamond, small; 900 gp
+Emerald; 1,000 gp
+Diamond, small; 1,100 gp
+Diamond, large; 5,500 gp
+Emerald, brilliant green; 6,000 gp
+Sapphire, star; 5,000 gp
+Sapphire, star; 4,500 gp
+Diamond, large; 4,000 gp
+Sapphire, star; 3,500 gp
+Diamond, large; 5,000 gp
+Emerald, brilliant green; 5,500 gp
+4d4 × 10 pp: 120 pp
+Jade; 110 gp
+Jet; 90 gp
+Garnet; 80 gp
+Jade; 80 gp
+Spinel, deep blue; 100 gp
+Amethyst; 130 gp
+Jade; 90 gp
+Tourmaline; 90 gp
+Chrysoberyl; 90 gp
+Jade; 100 gp
+Opal; 450 gp
+Pearl, black; 600 gp
+Opal; 450 gp
+Pearl, black; 550 gp
+Ruby, small; 1,100 gp
+Sapphire; 1,000 gp
+Ruby, small; 800 gp
+Diamond, small; 1,200 gp
+Emerald; 1,200 gp
+Sapphire; 1,100 gp
+Ruby, large; 4,500 gp
+Sapphire, star; 4,000 gp
+Emerald, brilliant green; 3,500 gp
+Diamond, large; 5,000 gp
+Emerald, brilliant green; 6,500 gp
+Ruby, large; 4,000 gp
+Ruby, large; 6,000 gp
+Emerald, brilliant green; 4,500 gp
+4d4 × 10 pp: 120 pp
+Amethyst; 90 gp
+Pearl, saltwater; 80 gp
+Coral; 110 gp
+Jade; 110 gp
+Chrysoberyl; 90 gp
+Pearl, saltwater; 80 gp
+Chrysoberyl; 90 gp
+Amethyst; 80 gp
+Jade; 100 gp
+Pearl, saltwater; 100 gp
+Aquamarine; 550 gp
+Topaz; 400 gp
+Opal; 450 gp
+Topaz; 550 gp
+Diamond, small; 800 gp
+Emerald; 800 gp
+Ruby, small; 700 gp
+Emerald; 1,100 gp
+Sapphire; 1,100 gp
+Ruby, small; 1,000 gp
+Diamond, large; 5,000 gp
+Diamond, large; 5,500 gp
+Emerald, brilliant green; 6,000 gp
+Emerald, brilliant green; 5,000 gp
+Sapphire, star; 3,500 gp
+Sapphire, star; 5,000 gp
+Diamond, large; 3,500 gp
+Sapphire, star; 5,000 gp
+Breastplate +1; 1,150 gp
+Breastplate +1; 1,350 gp
+Gauntlet +1; 2,302 gp
+Heavy crossbow +1; 2,350 gp
+Longbow +1; 2,375 gp
+Dragonhide plate; 3,300 gp
+Studded Leather +1/Mirrored; 4,150 gp
+Splint mail +1; 1,350 gp
+Longbow +1; 2,375 gp
+Dagger +1; 2,300 gp
+Heavy flail +1; 2,315 gp
+Breastplate +1; 1,350 gp
+Dagger +1; 2,302 gp
+Scale mail +1; 1,200 gp
+Light crossbow +1; 2,335 gp
+Leather armor +1; 1,160 gp
+Light mace +1; 2,305 gp
+Heavy steel shield +1; 1,170 gp
+Longsword +1; 2,315 gp
+Darkwood buckler; 203 gp
+Searing arrow; 1,516 gp
+Studded Leather +1; 1,150 gp
+Shortbow +1; 2,330 gp
+Full plate +1; 2,650 gp
+Longspear +1; 2,305 gp
+Studded Leather +1; 1,150 gp
+Greatsword +1; 2,300 gp
+Heavy steel shield +1/Defiant; 4,170 gp
+Greatsword +1; 2,300 gp
+Breastplate +1/Stanching; 4,350 gp
+Dagger +1; 2,302 gp
+Scale mail +1; 1,200 gp
+Lance +1; 2,310 gp
+Otyugh hide; 2,565 gp
+Club +1; 2,300 gp
+Light wooden shield +1/Mirrored; 4,153 gp
+Screaming bolt; 267 gp
+Chain shirt +2; 4,250 gp
+Battleaxe +1; 2,310 gp
+Otyugh hide; 2,565 gp
+Rapier +1; 2,320 gp
+Breastplate +1; 1,150 gp
+Heavy mace +1; 2,312 gp
+Light steel shield +2; 4,159 gp
+Longspear +1; 2,305 gp
+Caster’s shield; 3,153 gp
+Scythe +1; 2,318 gp
+Light wooden shield +1/Arrow catching; 4,153 gp
+Warhammer +1; 2,312 gp
+Slaying arrow, greater; 4,057 gp
+Shortsword +1; 2,310 gp
+Composite longbow +1/Distance; 8,400 gp
+Quarterstaff +2; 8,300 gp
+Hide +1; 1,165 gp
+Spear +1; 2,302 gp
+Banded mail +1; 1,400 gp
+Spear +1/Spell storing; 8,302 gp
+Mithral heavy shield; 1,020 gp
+Shatterspike; 4,315 gp
+Full plate +2; 5,650 gp
+Light flail +1; 2,308 gp
+Dustburst bullet; 196 gp
+Breastplate +1/Deathless; 4,350 gp
+Battleaxe +1; 2,310 gp
+Trident +1; 2,315 gp
+Light wooden shield +1; 1,153 gp
+Battleaxe +1; 2,310 gp
+Warhammer +1; 2,312 gp
+Dragonhide plate; 3,300 gp
+Dagger +1; 2,300 gp
+Longsword +1; 2,315 gp
+Buckler +1; 1,155 gp
+Shortbow +1/Flaming; 8,330 gp
+Scale mail +1; 1,200 gp
+Slaying arrow, greater; 4,057 gp
+Heavy wooden shield +1/Defiant; 4,157 gp
+Handaxe +2; 8,306 gp
+Buckler +1; 1,155 gp
+Heavy Crossbow +2; 8,300 gp
+Lion’s shield; 9,170 gp
+Dagger +1; 2,300 gp
+Heavy wooden shield +1; 1,157 gp
+Composite longbow +1; 2,400 gp
+Full plate +1/Rallying; 7,650 gp
+Glaive +1; 2,308 gp
+Composite longbow +1/Shock; 8,400 gp
+Light hammer +2; 8,301 gp
+Trident of warning; 10,115 gp
+Studded Leather +2/Dastard; 9,150 gp
+Shortbow +2; 8,330 gp
+Full Plate +3; 9,150 gp
+Spear +2; 8,302 gp
+Light wooden shield +2/Arrow catching; 9,153 gp
+Battleaxe +2; 8,310 gp
+Tempest shield; 15,170 gp
+Dust bolt; 1,730 gp
+Chain shirt +2/Jousting; 8,000 gp
+Shortsword +1; 2,310 gp
+Splint mail +2/Slick; 8,100 gp
+Spear +1; 2,302 gp
+Buckler +2; 4,155 gp
+Trident +1; 2,315 gp
+Half-plate +1/Creeping; 6,750 gp
+Composite shortbow +1; 2,375 gp
+Studded leather armor +1/Shadow; 4,925 gp
+Light mace +1; 2,305 gp
+Full plate +2/Expeditious; 9,650 gp
+Longspear +1; 2,305 gp
+Scale mail +1/Creeping; 6,200 gp
+Greataxe +1; 2,320 gp
+Padded armor +1/Benevolent; 3,155 gp
+Sleep arrow; 132 gp
+Studded Leather +3/Defiant; 16,150 gp
+Sickle +1; 2,306 gp
+Murderer’s blackcloth; 12,405 gp
+Dagger +1; 2,302 gp
+Breastplate +2/Deathless; 9,350 gp
+Tangle bolt; 226 gp
+Chain shirt +3/Brawling; 16,250 gp
+Dagger +1; 2,302 gp
+Murderer’s blackcloth; 12,405 gp
+Morningstar +1; 2,308 gp
+Banded mail +1/Slick; 5,150 gp
+Tangle bolt; 226 gp
+Leather armor +3; 9,160 gp
+Dust bolt; 1,730 gp
+Full Plate +2/Bolstering; 9,150 gp
+Light pick +1; 2,304 gp
+Splint mail +1/Poison-resistant; 3,600 gp
+Hushing arrow; 547 gp
+Splint mail +3/Champion; 16,350 gp
+Quarterstaff +1; 2,300 gp
+Heavy wooden shield +1/Rallying; 6,157 gp
+Greatsword +1; 2,300 gp
+Leather armor +2/Defiant; 9,160 gp
+Shortbow +1; 2,330 gp
+Burglar’s buckler; 4,655 gp
+Mace of smiting, lesser; 16,012 gp
+Studded Leather +2; 4,150 gp
+Sword of subtlety; 22,310 gp
+Avalanche shield; 19,170 gp
+Longsword +1; 2,315 gp
+Dagger +1; 2,302 gp
+Chain shirt +2/Creeping; 9,250 gp
+Shortsword +1; 2,310 gp
+Battleaxe +2; 8,310 gp
+Rhino hide; 5,165 gp
+Warhammer +2/Mighty cleaving; 18,312 gp
+Breastplate +1/Expeditious; 5,150 gp
+Longsword +2/Dispelling; 18,315 gp
+Light wooden shield +3/Clangorous; 16,153 gp
+Greataxe +1/Mighty cleaving/Impervious; 11,320 gp
+Studded leather armor +4/Brawling; 25,175 gp
+Nunchaku +1/Anchoring; 18,302 gp
+Avalanche shield; 19,170 gp
+Dagger of doubling; 10,302 gp
+Chain shirt +3; 9,250 gp
+Halberd +1/Vicious; 8,310 gp
+Full Plate +1; 1,150 gp
+Spear +1/Nullifying; 32,302 gp
+Chainmail +1; 1,300 gp
+Longsword +4; 32,315 gp
+Chain shirt +1; 1,250 gp
+Morningstar +3/Vicious; 32,308 gp
+Banded mail +1; 1,400 gp
+Light crossbow +4; 32,335 gp
+Padded armor +1; 1,155 gp
+Battleaxe +3; 18,310 gp
+Leather armor +5/Energy resistance; 43,160 gp
+Greataxe +1/Heartseeker; 8,320 gp
+Half-plate +5; 25,750 gp
+Heavy Crossbow +2; 8,300 gp
+Full Plate +5; 25,150 gp
+Shortspear +2; 8,301 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 5 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 20 sp
+2d4 gp: 4 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 4 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 5 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 20 sp
+2d4 gp: 8 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 4 gp
+Potion of Shillelagh (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 7 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 4 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 5 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 4 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 80 sp
+2d4 gp: 8 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 80 sp
+2d4 gp: 6 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 5 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 3 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 4 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 5 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 8 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 3 gp
+Potion of Protection from evil (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 6 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 8 gp
+MW Dagger; 302 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 2 gp
+MW Shortbow; 330 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 6 gp
+MW Shortbow; 330 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 5 gp
+MW Composite longbow; 400 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 7 gp
+MW Rapier; 320 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 5 gp
+MW Spear; 302 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 5 gp
+MW Battleaxe; 310 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 20 sp
+2d4 gp: 7 gp
+MW Shortsword; 310 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+MW Halberd; 310 gp
+Potion of Obscure object (2nd Level, CL 3rd); 300 gp
+MW Shortspear; 301 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+MW Light crossbow; 335 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+MW Heavy Crossbow; 300 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+MW Dagger; 300 gp
+Potion of Gentle repose (2nd Level, CL 3rd); 300 gp
+6d6 gp: 19 gp
+MW Dagger; 300 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+6d6 gp: 18 gp
+MW Greatclub; 305 gp
+Potion of Invigorate (1st Level, CL 1st); 50 gp
+Potion of Guidance (0 Level, CL 1st); 25 gp
+6d6 gp: 19 gp
+MW Halberd; 310 gp
+Potion of Hide from undead (1st Level, CL 1st); 50 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+6d6 gp: 27 gp
+MW Morningstar; 308 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+6d6 gp: 23 gp
+MW Heavy flail; 315 gp
+Potion of Erase (1st Level, CL 1st); 50 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+6d6 gp: 23 gp
+MW Greatsword; 300 gp
+Potion of Remove fear (1st Level, CL 1st); 50 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+6d6 gp: 25 gp
+MW Trident; 315 gp
+Potion of Guidance (0 Level, CL 1st); 25 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+MW Sickle; 306 gp
+Potion of Warp wood (2nd Level, CL 3rd); 300 gp
+MW Longsword; 315 gp
+Potion of Spider climb (2nd Level, CL 3rd); 300 gp
+MW Light hammer; 301 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+MW Sai; 301 gp
+Potion of Resist energy, fire (2nd Level, CL 3rd); 300 gp
+MW Dagger; 302 gp
+Potion of Barkskin (2nd Level, CL 3rd); 300 gp
+Studded Leather +1; 1,150 gp
+MW Greatsword; 350 gp
+Potion of Wood shape (2nd Level, CL 3rd); 300 gp
+Potion of Resist energy, acid (2nd Level, CL 3rd); 300 gp
+Living steel heavy shield; 120 gp
+MW Heavy mace; 312 gp
+Potion of Undetectable alignment (2nd Level, CL 3rd); 300 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Scale mail +1; 1,200 gp
+MW Dagger; 300 gp
+Potion of Make whole (2nd Level, CL 3rd); 300 gp
+Potion of Bless weapon (1st Level, CL 1st); 50 gp
+Mithral shirt; 1,100 gp
+MW Battleaxe; 310 gp
+Potion of Shillelagh (1st Level, CL 1st); 50 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Full Plate +1; 1,150 gp
+MW Greataxe; 320 gp
+Potion of Ablative barrier (2nd Level, CL 3rd); 300 gp
+Potion of Continual flame (2nd Level, CL 3rd); 350 gp
+Full plate +1; 2,650 gp
+MW Falchion; 375 gp
+Potion of Gentle repose (2nd Level, CL 3rd); 300 gp
+Potion of Resist energy, acid (2nd Level, CL 3rd); 300 gp
+Chainmail +1; 1,300 gp
+MW Greatsword; 350 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Full plate +1; 2,650 gp
+MW Heavy flail; 315 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+Full Plate +1; 1,150 gp
+MW Spear; 302 gp
+Potion of Resist energy, acid (2nd Level, CL 3rd); 300 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+Chain shirt +1; 1,250 gp
+MW Warhammer; 312 gp
+Potion of Magic weapon (1st Level, CL 1st); 50 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+Hide +1; 1,165 gp
+MW Longsword; 315 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Leather armor +1; 1,160 gp
+MW Composite shortbow; 375 gp
+Potion of Hold portal (1st Level, CL 1st); 50 gp
+Potion of Arcane lock (2nd Level, CL 3rd); 300 gp
+Studded Leather +1; 1,150 gp
+MW Dagger; 302 gp
+Potion of Guidance (0 Level, CL 1st); 25 gp
+Potion of Goodberry (1st Level, CL 1st); 50 gp
+Heavy Steel Shield +1; 1,150 gp
+MW Shortbow; 330 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+Mithral heavy shield; 1,020 gp
+MW Dagger; 300 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Potion of Shillelagh (1st Level, CL 1st); 50 gp
+Mithral shirt; 1,100 gp
+MW Shortsword; 310 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Potion of Magic weapon (1st Level, CL 1st); 50 gp
+Greatsword +1; 2,350 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Morningstar +1; 2,308 gp
+Potion of Keen senses (1st Level, CL 1st); 50 gp
+Javelin of lightning; 1,500 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+Chain shirt +1; 1,250 gp
+MW Longsword; 315 gp
+Wrists: Bracers of steadiness; 2,000 gp
+Potion of Ablative barrier (2nd Level, CL 3rd); 300 gp
+Studded leather armor +1; 1,175 gp
+MW Light crossbow; 335 gp
+Shoulders: Cloak of fangs; 2,800 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+Half-plate +1; 1,750 gp
+MW Longsword; 315 gp
+Neck: Hand of the mage; 900 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+Darkwood shield; 257 gp
+MW Light mace; 305 gp
+Slotless: Boro bead (1st); 1,000 gp
+Potion of Hide from animals (1st Level, CL 1st); 50 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+MW Dwarven waraxe; 330 gp
+Belts: Bladed belt; 2,000 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+MW Battleaxe; 310 gp
+Slotless: Pyxes of redirected focus; 1,000 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+Breastplate +1; 1,150 gp
+MW Rapier; 320 gp
+Slotless: Word bottle; 1,500 gp
+Potion of Slipstream (2nd Level, CL 3rd); 300 gp
+Scale mail +1; 1,200 gp
+MW Dwarven waraxe; 330 gp
+Slotless: Bag of holding (type I); 2,500 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Handaxe +1; 2,306 gp
+Body: Robe of needles; 1,000 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+Greatsword +1; 2,350 gp
+Wrists: Bracers of steadiness; 2,000 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+Longsword +1; 2,315 gp
+Belts: Meridian belt; 1,000 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Longsword +1; 2,315 gp
+Neck: Hand of the mage; 900 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Greataxe +1; 2,320 gp
+Shoulders: Shield cloak; 1,000 gp
+Potion of Remove fear (1st Level, CL 1st); 50 gp
+MW silver dagger; 322 gp
+Slotless: Figurine of wondrous power (silver raven); 3,800 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Gauntlet +1; 2,302 gp
+Body: Druid’s vestment; 3,750 gp
+Potion of Undetectable alignment (2nd Level, CL 3rd); 300 gp
+Falchion +1; 2,375 gp
+Bodywrap of mighty strikes +1; 3,000 gp
+Potion of Bull’s strength (2nd Level, CL 3rd); 300 gp
+Screaming bolt; 267 gp
+Body: Druid’s vestment; 3,750 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Longbow +1; 2,375 gp
+Necklace of fireballs (type II); 2,700 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Longspear +1; 2,305 gp
+Slotless: Preserving flask (1st); 1,000 gp
+Potion of Align weapon (2nd Level, CL 3rd); 300 gp
+Tracer bullet; 100 gp
+Head: Cap of human guise; 800 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+Light mace +1; 2,305 gp
+Bodywrap of mighty strikes +1; 3,000 gp
+Potion of Cat’s grace (2nd Level, CL 3rd); 300 gp
+Sai +1; 2,301 gp
+Slotless: Boro bead (1st); 1,000 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+Light crossbow +1; 2,335 gp
+Slotless: Pipes of sounding; 1,800 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Rapier +1; 2,320 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+MW silver dagger; 322 gp
+Neck: Mummer’s ruff; 3,500 gp
+Potion of Hide from undead (1st Level, CL 1st); 50 gp
+Glaive +1; 2,308 gp
+Belts: Aquatic cummerbund; 2,600 gp
+Potion of Feather step (1st Level, CL 1st); 50 gp
+Morningstar +1; 2,308 gp
+Chest: Endless bandolier; 1,500 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Lance +1; 2,310 gp
+Slotless: Elixir of fire breath; 1,100 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+Full Plate +1/Mirrored; 4,150 gp
+Bolas +1; 2,305 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Half-plate +1/Grinding; 4,750 gp
+Dart +2; 8,305 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Heavy Steel Shield +1/Poison-resistant; 3,400 gp
+Warhammer +2; 8,312 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Scroll of Animal aspect (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Jump (divine, 1st Level, CL 1st); 25 gp
+Scroll of Sleep (arcane, 1st Level, CL 1st); 25 gp
+Scroll of Cause fear (arcane, 1st Level, CL 1st); 25 gp
+Scroll of owl’s wisdom (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Know direction (divine, 0 Level, CL 1st); 12.50 gp
+Scroll of Barkskin (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Owl’s wisdom (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Flame arrow (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of see invisibility (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Shield other (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Animal trance (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Grease (arcane, 1st Level, CL 1st); 25 gp
+Scroll of levitate (arcane, 2nd Level, CL 3rd); 150 gp
+Slotless: Knight’s pennon (honor); 2,200 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Wand of Remove paralysis (2nd Level, CL 3rd); 4,500 gp
+Feet: Boots of friendly terrain; 2,400 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Wand of Stone shield (1st Level, CL 1st); 750 gp
+Shoulders: Shield cloak; 1,000 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Wand of Urban grace (1st Level, CL 1st); 750 gp
+Chest: Vest of surgery; 3,000 gp
+Potion of Protection from good (1st Level, CL 1st); 50 gp
+Wand of Remove fear (1st Level, CL 1st); 750 gp
+Shoulders: Cloak of fangs; 2,800 gp
+Potion of Water walk (3rd Level, CL 5th); 750 gp
+Wand of Bless water (1st Level, CL 1st); 2,000 gp
+Slotless: Dust of appearance; 1,800 gp
+Potion of Burrow (3rd Level, CL 5th); 750 gp
+Wand of Magic fang (1st Level, CL 1st); 750 gp
+Neck: Brooch of shielding; 1,500 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Wand of Urban grace (1st Level, CL 1st); 750 gp
+Slotless: Chime of opening; 3,000 gp
+Potion of Remove paralysis (2nd Level, CL 3rd); 300 gp
+Wand of Cat’s grace (2nd Level, CL 3rd); 4,500 gp
+Body: Robe of needles; 1,000 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+Wand of Magic missile (1st Level, CL 1st); 750 gp
+Slotless: Figurine of wondrous power (silver raven); 3,800 gp
+Potion of Darkvision (2nd Level, CL 3rd); 300 gp
+Wand of Confusion, lesser (1st Level, CL 1st); 750 gp
+Slotless: Pearl of Power (1st); 1,000 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Wand of Charm person (1st Level, CL 1st); 750 gp
+Wrists: Sleeves of many garments; 200 gp
+Potion of Remove blindness/deafness (3rd Level, CL 5th); 750 gp
+Wand of Jump (1st Level, CL 1st); 750 gp
+Eyes of the eagle; 2,500 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+Wand of Bless (1st Level, CL 1st); 750 gp
+Shoulders: Pauldrons of the serpent; 3,000 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Wand of Mage armor (1st Level, CL 1st); 750 gp
+Wrists: Bracers of steadiness; 2,000 gp
+Potion of Align weapon (2nd Level, CL 3rd); 300 gp
+Wand of Magic weapon (1st Level, CL 1st); 750 gp
+Head: Cap of human guise; 800 gp
+Potion of Keen edge (3rd Level, CL 5th); 750 gp
+Wand of Summon minor monster (1st Level, CL 1st); 750 gp
+Slotless: Feather token (bird); 300 gp
+Potion of Status (2nd Level, CL 3rd); 300 gp
+Wand of True strike (1st Level, CL 1st); 750 gp
+Body: Robe of infinite twine; 1,000 gp
+Potion of Remove curse (3rd Level, CL 5th); 750 gp
+Wand of Silence (2nd Level, CL 3rd); 4,500 gp
+Slotless: Page of spell knowledge (1st); 1,000 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Wand of Barkskin (2nd Level, CL 3rd); 4,500 gp
+Eyes of the eagle; 2,500 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Wand of Remove fear (1st Level, CL 1st); 750 gp
+Ring of spell knowledge I; 1,500 gp
+Slotless: Dust of weighty burdens; 3,600 gp
+Scroll of Air walk (divine, 4th Level, CL 7th); 700 gp
+Scroll of Lightning bolt (arcane, 3rd Level, CL 5th); 375 gp
+Ring of climbing; 2,500 gp
+Body: Robe of infinite twine; 1,000 gp
+Scroll of Darkvision, greater (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Resilient sphere (arcane, 4th Level, CL 7th); 700 gp
+Ring of sustenance; 2,500 gp
+Belts: Equestrian belt; 3,200 gp
+Scroll of Versatile weapon (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Dispel magic (arcane, 3rd Level, CL 5th); 375 gp
+Ring of protection +1; 2,000 gp
+Head: Hat of disguise; 1,800 gp
+Scroll of Neutralize poison (divine, 4th Level, CL 7th); 700 gp
+Scroll of Magic vestment (divine, 3rd Level, CL 5th); 375 gp
+Ring of the grasping grave; 2,000 gp
+Body: Druid’s vestment; 3,750 gp
+Scroll of Summon monster III (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Volcanic storm (arcane, 4th Level, CL 7th); 700 gp
+Ring of ferocious action; 3,000 gp
+Wrists: Bracers of armor +1; 1,000 gp
+Potion of Aid (2nd Level, CL 3rd); 300 gp
+Wand of Cure light wounds (1st Level, CL 1st); 750 gp
+Ring of feather falling; 2,200 gp
+Slotless: Abjurant salt; 600 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Wand of Color spray (1st Level, CL 1st); 750 gp
+Ring of climbing; 2,500 gp
+Slotless: Volatile vaporizer (2nd); 3,000 gp
+Potion of Cure serious wounds (3rd Level, CL 5th); 750 gp
+Wand of Summon nature’s ally I (1st Level, CL 1st); 750 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+Scroll of Detect undead (arcane, 1st Level, CL 1st); 25 gp
+Wand of Spectral hand (2nd Level, CL 3rd); 4,500 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Potion of Status (2nd Level, CL 3rd); 300 gp
+Scroll of Resistance (divine, 0 Level, CL 1st); 12.50 gp
+Wand of Detect thoughts (2nd Level, CL 3rd); 4,500 gp
+Potion of Spider climb (2nd Level, CL 3rd); 300 gp
+Potion of Draconic reservoir (3rd Level, CL 5th); 750 gp
+Scroll of Disguise self (arcane, 1st Level, CL 1st); 25 gp
+Wand of Fireball (3rd Level, CL 5th); 11,250 gp
+Potion of Burrow (3rd Level, CL 5th); 750 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+Scroll of Bless (divine, 1st Level, CL 1st); 25 gp
+Wand of Hold animal (2nd Level, CL 3rd); 4,500 gp
+Potion of Remove curse (3rd Level, CL 5th); 750 gp
+Potion of Fire trap (3rd Level, CL 5th); 775 gp
+Scroll of Protection from evil (divine, 1st Level, CL 1st); 25 gp
+Wand of Augury (2nd Level, CL 3rd); 5,750 gp
+Ring of the grasping grave; 2,000 gp
+Slotless: Elemental gem; 2,250 gp
+Wand of Darkness (2nd Level, CL 3rd); 4,500 gp
+Ring of protection +1; 2,000 gp
+Slotless: Volatile vaporizer (1st); 2,200 gp
+Wand of Shield other (2nd Level, CL 3rd); 4,500 gp
+Ring: Dungeon ring, prisoner’s; 250 gp
+Shoulders: Quickchange cloak; 1,500 gp
+Wand of Darkness (2nd Level, CL 3rd); 4,500 gp
+Ring of protection +1; 2,000 gp
+Belts: Belt of tumbling; 800 gp
+Wand of Speak with dead (3rd Level, CL 5th); 11,250 gp
+Ring: Dungeon ring, prisoner’s; 250 gp
+Neck: Amulet of bullet protection +2; 6,000 gp
+Scroll of Daylight (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Chaos hammer (divine, 4th Level, CL 7th); 700 gp
+Wand of Shocking grasp (1st Level, CL 1st); 750 gp
+Wand of Detect snares and pits (1st Level, CL 1st); 750 gp
+Ring of climbing; 2,500 gp
+Slotless: Horn of battle clarity; 6,000 gp
+Scroll of Absorb toxicity (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Dimensional anchor (divine, 4th Level, CL 7th); 700 gp
+Wand of Magic fang (1st Level, CL 1st); 750 gp
+Wand of Knock (2nd Level, CL 3rd); 4,500 gp
+Ring of jumping; 2,500 gp
+Rod: Metamagic (+1 spell level), minor; 3,000 gp
+Wand of Fireball (3rd Level, CL 5th); 11,250 gp
+Ring of sustenance; 2,500 gp
+Rod of cancellation; 11,000 gp
+Wand of Weapon of awe (2nd Level, CL 3rd); 4,500 gp
+Ring of swimming; 2,500 gp
+Rod: Metamagic (+1 spell level), minor; 3,000 gp
+Wand of Blindness/deafness (2nd Level, CL 3rd); 4,500 gp
+Ring of feather falling; 2,200 gp
+Rod of thunderous force; 5,400 gp
+Wand of Shield other (2nd Level, CL 3rd); 4,500 gp
+Ring of protection +1; 2,000 gp
+Rod of metal and mineral detection; 10,500 gp
+Wand of Alter self (2nd Level, CL 3rd); 4,500 gp
+Ring of feather falling; 2,200 gp
+Wand of Gentle repose (2nd Level, CL 3rd); 4,500 gp
+Wand of Magic vestment (3rd Level, CL 5th); 11,250 gp
+Chest: Resplendent uniform coat; 7,000 gp
+Ring of spell knowledge II; 6,000 gp
+Chest: Snakeskin tunic; 8,000 gp
+Neck: Collar of the true companion; 10,000 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Scroll of Globe of invulnerability, lesser (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Aqueous orb (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Force punch (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Cure serious wounds (3rd Level, CL 5th); 11,250 gp
+Ring of spell knowledge II; 6,000 gp
+Eyes: Goggles of brilliant light; 8,800 gp
+Feet: Horseshoes of crushing blows +2; 16,000 gp
+Potion of Good hope (3rd Level, CL 5th); 750 gp
+Scroll of Speak with plants (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Transmute rock to mud (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Animal growth (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Magic weapon, greater (3rd Level, CL 5th); 11,250 gp
+Ring of maniacal devices; 5,000 gp
+Slotless: Figurine of wondrous power (marble elephant); 17,000 gp
+Shoulders: Cape of the mountebank; 10,800 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Scroll of Symbol of sleep (arcane, 5th Level, CL 9th); 2,125 gp
+Scroll of Break enchantment (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Magic circle against evil (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Remove disease (3rd Level, CL 5th); 11,250 gp
+Ring of maniacal devices; 5,000 gp
+Slotless: Golem manual (flesh); 8,000 gp
+Chest: Snakeskin tunic; 8,000 gp
+Potion of Nondetection (3rd Level, CL 5th); 800 gp
+Scroll of Black tentacles (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Beast shape III (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Symbol of pain (arcane, 5th Level, CL 9th); 2,125 gp
+Wand of Imbue with spell ability (4th Level, CL 7th); 21,000 gp
+Ring of sacred mistletoe; 6,000 gp
+Belts: Security belt; 12,500 gp
+Slotless: Werewhistle; 8,000 gp
+Potion of Fire trap (3rd Level, CL 5th); 775 gp
+Scroll of Awaken (divine, 5th Level, CL 9th); 3,125 gp
+Scroll of Animate dead (arcane, 4th Level, CL 7th); 1,050 gp
+Scroll of Tongues (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Fire shield (4th Level, CL 7th); 21,000 gp
+Ring of counterspells; 4,000 gp
+Eyes: Lenses of figment piercing; 12,000 gp
+Body: Shocking robe; 11,000 gp
+Potion of Warp wood (2nd Level, CL 3rd); 300 gp
+Scroll of Cure light wounds, mass (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Confusion (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Flame strike (divine, 4th Level, CL 7th); 700 gp
+Wand of Flame strike (4th Level, CL 7th); 21,000 gp
+Ring of spell knowledge II; 6,000 gp
+Head: Halo of inner calm; 16,000 gp
+Neck: Brooch of amber sparks; 16,800 gp
+Potion of Remove paralysis (2nd Level, CL 3rd); 300 gp
+Scroll of Water breathing (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Dream (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Dominate person (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Fly (3rd Level, CL 5th); 11,250 gp
+Staff of accompaniment; 14,800 gp
+Rod of ruin; 16,000 gp
+Neck: Ampoule of false blood; 20,000 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Scroll of Shout (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Elemental body II (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Fox’s cunning (2nd Level, CL 3rd); 4,500 gp
+Staff of blessed relief; 7,200 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Hands: Vampiric gloves; 18,000 gp
+Potion of Fox’s cunning (2nd Level, CL 3rd); 300 gp
+Scroll of Flame strike (divine, 4th Level, CL 7th); 700 gp
+Scroll of Jolting portent (divine, 7th Level, CL 13th); 2,275 gp
+Wand of Sound burst (2nd Level, CL 3rd); 4,500 gp
+Staff of tricks; 8,800 gp
+Rod of ruin; 16,000 gp
+Headband of counterspelling; 20,000 gp
+Potion of Blur (2nd Level, CL 3rd); 300 gp
+Scroll of Shadow conjuration (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Crushing despair (arcane, 4th Level, CL 7th); 700 gp
+Wand of Restoration, lesser (2nd Level, CL 3rd); 4,500 gp
+Slaying arrow; 2,282 gp
+Staff of fire; 18,950 gp
+Hands: Gloves of the shortened path; 27,000 gp
+Scroll of Teleportation circle (arcane, 9th Level, CL 17th); 4,825 gp
+Scroll of Reverse gravity (arcane, 7th Level, CL 13th); 2,275 gp
+Scroll of Scintillating pattern (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Secure shelter (4th Level, CL 7th); 21,000 gp
+Spear +1; 2,302 gp
+Staff of size alteration; 26,150 gp
+Slotless: Tome of clear thought +1; 27,500 gp
+Scroll of Form of the dragon II (arcane, 7th Level, CL 13th); 2,275 gp
+Scroll of Telekinetic sphere (arcane, 8th Level, CL 15th); 3,000 gp
+Scroll of Moment of prescience (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Air walk (4th Level, CL 7th); 21,000 gp
+Ring of protection +4; 32,000 gp
+Rod of flame extinguishing; 15,000 gp
+Staff of spiders; 30,200 gp
+Scroll of Flesh to stone (arcane, 6th Level, CL 11th); 1,650 gp
+Wand of Halt undead (3rd Level, CL 5th); 11,250 gp
+Ring of protection +4; 32,000 gp
+Rod of wonder; 12,000 gp
+Staff of acid; 28,600 gp
+Scroll of Contagion (arcane, 4th Level, CL 7th); 700 gp
+Wand of Plant growth (3rd Level, CL 5th); 11,250 gp
+Ring of delayed doom; 45,000 gp
+Rod of the python; 13,000 gp
+Staff of spiders; 30,200 gp
+Scroll of Dominate person (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Slow (3rd Level, CL 5th); 11,250 gp
+Ring of freedom of movement; 40,000 gp
+Rod of the wayang; 12,000 gp
+Staff of electricity; 31,900 gp
+Scroll of Divine power (divine, 4th Level, CL 7th); 700 gp
+Wand of Magic vestment (3rd Level, CL 5th); 11,250 gp
+Ring of energy resistance, major; 28,000 gp
+Rod of the viper; 19,000 gp
+Staff of speaking; 39,600 gp
+Scroll of Secret chest (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Speak with dead (3rd Level, CL 5th); 11,250 gp
+Ring of energy resistance, greater; 44,000 gp
+Rod of the viper; 19,000 gp
+Staff of souls; 32,800 gp
+Scroll of Magic jar (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Restoration (can dispel permanent negative levels) (4th Level, CL 7th); 71,000 gp
+Ring of energy resistance, major; 28,000 gp
+Rod of nettles; 18,000 gp
+Staff of aspects; 37,600 gp
+Scroll of Dominate person (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Gaseous form (3rd Level, CL 5th); 11,250 gp
+Ring of the ecclesiarch; 28,500 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Staff of frost; 41,400 gp
+Scroll of Dominate person (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Lightning bolt (3rd Level, CL 5th); 11,250 gp
+4d4 × 100 cp: 1000 cp
+3d6 × 10 sp: 110 sp
+2d4 × 10 gp: 60 gp
+MW Halberd; 310 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+Scroll of Expeditious retreat (arcane, 1st Level, CL 1st); 25 gp
+Ivory; 50 gp
+2d4 × 100 cp: 400 cp
+2d6 × 100 sp: 400 sp
+6d6 gp: 32 gp
+Potion of Bull’s strength (2nd Level, CL 3rd); 300 gp
+Scroll of Mount (arcane, 1st Level, CL 1st); 25 gp
+Wand of Message (0 Level, CL 1st); 375 gp
+Tigereye; 9 gp
+Alabaster; 12 gp
+Quartz, rock crystal; 10 gp
+2d4 × 100 cp: 400 cp
+2d6 × 100 sp: 800 sp
+6d6 gp: 21 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Scroll of Sift (arcane, 0 Level, CL 1st); 12.50 gp
+Wand of Summon nature’s ally I (1st Level, CL 1st); 750 gp
+Agate; 12 gp
+Pearl, irregular freshwater; 10 gp
+Quartz, rock crystal; 9 gp
+2d4 × 10 gp: 30 gp
+4d6 pp: 21 pp
+MW Dagger; 302 gp
+Ring of the grasping grave; 2,000 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Scroll of daze monster (arcane, 2nd Level, CL 3rd); 150 gp
+Wand of Disguise self (1st Level, CL 1st); 750 gp
+2d4 × 10 gp: 30 gp
+4d6 pp: 13 pp
+MW Greatsword; 350 gp
+Ring of climbing; 2,500 gp
+Potion of Darkvision (2nd Level, CL 3rd); 300 gp
+Scroll of Charm monster (arcane, 4th Level, CL 7th); 700 gp
+Wand of Longstrider (1st Level, CL 1st); 750 gp
+4d4 × 10 gp: 100 gp
+6d6 pp: 21 pp
+Cold iron masterwork longsword; 330 gp
+Slotless: Elixir of fire breath; 1,100 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Wand of Shield (1st Level, CL 1st); 750 gp
+Garnet; 80 gp
+Tourmaline; 110 gp
+4d4 × 10 gp: 100 gp
+6d6 pp: 23 pp
+Heavy flail +1; 2,315 gp
+Chest: Bandages of rapid recovery; 200 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Potion of Cure serious wounds (3rd Level, CL 5th); 750 gp
+Wand of Grease (1st Level, CL 1st); 750 gp
+Spinel, deep blue; 80 gp
+Chrysoberyl; 100 gp
+4d4 × 10 gp: 60 gp
+6d6 pp: 16 pp
+Light mace +1; 2,305 gp
+Chest: All tools vest; 1,800 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Potion of Water walk (3rd Level, CL 5th); 750 gp
+Wand of Alarm (1st Level, CL 1st); 750 gp
+Chrysoberyl; 100 gp
+Garnet; 90 gp
+4d8 × 10 gp: 190 gp
+6d10 pp: 31 pp
+Chainmail +2; 4,300 gp
+Ring of protection +1; 2,000 gp
+Headband: Dead man’s headband; 3,600 gp
+Scroll of Keen edge (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Protection from law (1st Level, CL 1st); 750 gp
+Opal; 450 gp
+4d8 × 10 gp: 210 gp
+6d10 pp: 43 pp
+Buckler +1; 1,155 gp
+Ring of climbing; 2,500 gp
+Hands: Assisting gloves; 180 gp
+Scroll of Bestow curse (arcane, 4th Level, CL 7th); 700 gp
+Wand of Hold portal (1st Level, CL 1st); 750 gp
+Pearl, black; 500 gp
+4d4 × 10 gp: 100 gp
+4d4 × 10 pp: 70 pp
+Studded leather armor +1; 1,175 gp
+Body: Corset of the vishkanya; 3,000 gp
+Potion of Protection from energy, electricity (3rd Level, CL 5th); 750 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Scroll of Teleport (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Ghost wolf (arcane, 4th Level, CL 7th); 700 gp
+Wand of Ash storm (3rd Level, CL 5th); 11,250 gp
+Jet; 90 gp
+4d4 × 10 gp: 80 gp
+4d4 × 10 pp: 60 pp
+Chainmail +2; 4,300 gp
+Slotless: Candle of truth; 2,500 gp
+Potion of Remove paralysis (2nd Level, CL 3rd); 300 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Scroll of Magic vestment (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Animate dead (arcane, 4th Level, CL 7th); 1,050 gp
+Wand of Web (2nd Level, CL 3rd); 4,500 gp
+Coral; 110 gp
+2d4 × 10 pp: 80 pp
+Ring of sacred mistletoe; 6,000 gp
+Head: Cap of human guise; 800 gp
+Wrists: Burglar’s bracers; 1,000 gp
+Potion of Hide from undead (1st Level, CL 1st); 50 gp
+Potion of Fire trap (3rd Level, CL 5th); 775 gp
+Scroll of Eagle’s splendor, mass (arcane, 6th Level, CL 11th); 1,650 gp
+Scroll of Globe of invulnerability, lesser (arcane, 4th Level, CL 7th); 700 gp
+Wand of Groundswell (2nd Level, CL 3rd); 4,500 gp
+6d6 × 10 gp: 210 gp
+2d4 × 10 pp: 50 pp
+Slaying arrow, greater; 4,057 gp
+Belts: Minotaur belt; 11,000 gp
+Wand of Ghoul touch (2nd Level, CL 3rd); 4,500 gp
+Spinel, deep blue; 70 gp
+Spinel, deep blue; 100 gp
+Tourmaline; 100 gp
+6d6 × 10 gp: 150 gp
+2d4 × 10 pp: 40 pp
+Slaying arrow, greater; 4,057 gp
+Wrists: Charm bracelet; 8,000 gp
+Wand of Sepia snake sigil (3rd Level, CL 5th); 36,250 gp
+Garnet; 100 gp
+Spinel, deep blue; 80 gp
+Jade; 110 gp
+6d6 × 10 gp: 200 gp
+2d4 × 10 pp: 50 pp
+Trident +1/Keen; 8,315 gp
+Hands: Form-fixing gauntlets; 8,000 gp
+Wand of Fear (4th Level, CL 7th); 21,000 gp
+Coral; 110 gp
+Jet; 90 gp
+Tourmaline; 80 gp
+4d4 × 10 gp: 100 gp
+4d4 × 10 pp: 80 pp
+Ring of spell knowledge III; 13,500 gp
+Rod: Immovable rod; 5,000 gp
+Potion of Good hope (3rd Level, CL 5th); 750 gp
+Potion of Draconic reservoir (3rd Level, CL 5th); 750 gp
+Scroll of Spell immunity, communal (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Fox’s cunning, mass (arcane, 6th Level, CL 11th); 1,650 gp
+Wand of Quench (3rd Level, CL 5th); 11,250 gp
+4d4 × 10 pp: 100 pp
+Half-plate +2/Bitter; 9,750 gp
+Staff of the scout; 9,600 gp
+Belts: Belt of mighty hurling, lesser; 14,000 gp
+Scroll of Earthquake (divine, 8th Level, CL 15th); 3,000 gp
+Wand of Flame blade (2nd Level, CL 3rd); 4,500 gp
+Diamond, small; 1,300 gp
+4d4 × 10 pp: 140 pp
+Chain shirt +2; 4,250 gp
+Staff of understanding; 16,000 gp
+Hands: Gauntlet of rust; 11,500 gp
+Scroll of Imprisonment (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Flame arrow (3rd Level, CL 5th); 11,250 gp
+Sapphire; 700 gp
+4d4 × 10 pp: 90 pp
+Hide +2; 4,165 gp
+Staff of charming; 17,600 gp
+Eyes: Goggles of night; 12,000 gp
+Scroll of Demand (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Rage (3rd Level, CL 5th); 11,250 gp
+Emerald; 800 gp
+8d6 × 100 gp: 2200 gp
+4d4 × 10 pp: 100 pp
+Ring of the ecclesiarch; 28,500 gp
+Slotless: Golem manual (iron); 35,000 gp
+Potion of Keen edge (3rd Level, CL 5th); 750 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Potion of Countless eyes (3rd Level, CL 5th); 750 gp
+Scroll of Arcane sight, greater (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Resist energy (2nd Level, CL 3rd); 4,500 gp
+Emerald; 1,000 gp
+Sapphire; 800 gp
+Emerald, brilliant green; 6,000 gp
+8d6 × 100 gp: 2600 gp
+4d4 × 10 pp: 80 pp
+Ring of freedom of movement; 40,000 gp
+Shoulders: Highwayman’s cape; 32,500 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, cold (3rd Level, CL 5th); 750 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Scroll of Control weather (divine, 7th Level, CL 13th); 2,275 gp
+Wand of Hold person (2nd Level, CL 3rd); 4,500 gp
+Ruby, small; 900 gp
+Diamond, small; 700 gp
+Diamond, large; 6,000 gp
+8d6 × 100 gp: 2100 gp
+4d4 × 10 pp: 120 pp
+Ring of energy resistance, major; 28,000 gp
+Belts: Belt of mighty constitution +6; 36,000 gp
+Potion of Protection from energy, fire (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, electricity (3rd Level, CL 5th); 750 gp
+Potion of Shrink item (3rd Level, CL 5th); 750 gp
+Scroll of Weird (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Resist energy (2nd Level, CL 3rd); 4,500 gp
+Ruby, small; 700 gp
+Sapphire; 1,100 gp
+Diamond, large; 5,000 gp
+8d6 × 100 gp: 2200 gp
+4d4 × 10 pp: 70 pp
+Ring of freedom of movement; 40,000 gp
+Slotless: Drums of haste; 45,000 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Potion of Neutralize poison (3rd Level, CL 5th); 750 gp
+Scroll of Storm of vengeance (divine, 9th Level, CL 17th); 3,825 gp
+Wand of Levitate (2nd Level, CL 3rd); 4,500 gp
+Diamond, small; 900 gp
+Sapphire; 1,000 gp
+Emerald, brilliant green; 5,000 gp
+8d6 × 100 gp: 2800 gp
+4d4 × 10 pp: 120 pp
+Ring of protection +4; 32,000 gp
+Necklace of netted stars; 42,000 gp
+Potion of Nondetection (3rd Level, CL 5th); 800 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Scroll of Power word kill (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Meld into stone (3rd Level, CL 5th); 11,250 gp
+Ruby, small; 1,000 gp
+Ruby, small; 900 gp
+Sapphire, star; 4,000 gp
+8d6 × 100 gp: 2500 gp
+4d4 × 10 pp: 120 pp
+Ring of freedom of movement; 40,000 gp
+Slotless: Cauldron of seeing; 42,000 gp
+Potion of Good hope (3rd Level, CL 5th); 750 gp
+Potion of Heroism (3rd Level, CL 5th); 750 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Scroll of Summon monster VIII (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Inflict moderate wounds (2nd Level, CL 3rd); 4,500 gp
+Emerald; 1,200 gp
+Diamond, small; 1,200 gp
+Diamond, large; 5,000 gp
+8d6 × 100 gp: 3500 gp
+4d4 × 10 pp: 80 pp
+Ring of wizardry II; 40,000 gp
+Hands: Gloves of the commanding conjurer; 30,000 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Potion of Remove curse (3rd Level, CL 5th); 750 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Scroll of Prismatic sphere (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Desecrate (2nd Level, CL 3rd); 5,750 gp
+Ruby, small; 1,200 gp
+Sapphire; 1,300 gp
+Ruby, large; 4,500 gp
+8d6 × 100 gp: 2000 gp
+4d4 × 10 pp: 70 pp
+Ring of wizardry II; 40,000 gp
+Body: Gunman’s duster; 36,000 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Potion of Cure serious wounds (3rd Level, CL 5th); 750 gp
+Scroll of Repulsion (divine, 7th Level, CL 13th); 2,275 gp
+Wand of Bestow weapon proficiency (2nd Level, CL 3rd); 4,500 gp
+Emerald; 1,000 gp
+Ruby, small; 1,000 gp
+Ruby, large; 5,000 gp
+8d6 × 100 gp: 2500 gp
+4d4 × 10 pp: 100 pp
+Ring of energy resistance, greater; 44,000 gp
+Slotless: Cauldron of seeing; 42,000 gp
+Potion of Draconic reservoir (3rd Level, CL 5th); 750 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Fire trap (3rd Level, CL 5th); 775 gp
+Scroll of Moment of prescience (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Mirror image (2nd Level, CL 3rd); 4,500 gp
+Emerald; 1,200 gp
+Sapphire; 1,300 gp
+Ruby, large; 4,500 gp
+8d6 × 100 gp: 3000 gp
+4d4 × 10 pp: 90 pp
+Ring of energy resistance, greater; 44,000 gp
+Slotless: Orb of storms; 48,000 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Potion of Magic vestment (3rd Level, CL 5th); 750 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Scroll of Heroism, greater (arcane, 6th Level, CL 11th); 1,650 gp
+Wand of Blindness/deafness (2nd Level, CL 3rd); 4,500 gp
+Ruby, small; 1,000 gp
+Sapphire; 1,000 gp
+Sapphire, star; 4,000 gp
+5d10 sp: 25 sp
+1d4 gp: 4 gp
+Shell; 9 gp
+Shell; 8 gp
+3d6 × 10 sp: 110 sp
+3d6 gp: 7 gp
+Obsidian; 11 gp
+Shell; 10 gp
+Rhodochrosite; 9 gp
+Spinel, deep blue; 90 gp
+Jet; 100 gp
+Coral; 80 gp
+Tourmaline; 100 gp
+2d4 × 10 gp: 80 gp
+Bloodstone; 40 gp
+Spinel, red or green; 55 gp
+Pearl, saltwater; 100 gp
+Topaz; 450 gp
+Pearl, black; 450 gp
+Topaz; 500 gp
+Opal; 600 gp
+3d6 × 10 gp: 60 gp
+4d4 pp: 10 pp
+Amber; 110 gp
+Tourmaline; 110 gp
+Jade; 80 gp
+Topaz; 500 gp
+3d6 × 10 gp: 90 gp
+4d4 pp: 8 pp
+Chrysoberyl; 100 gp
+Tourmaline; 120 gp
+Amethyst; 70 gp
+Pearl, black; 650 gp
+3d6 × 10 gp: 150 gp
+4d4 pp: 11 pp
+Garnet; 130 gp
+Jet; 90 gp
+Amber; 70 gp
+Opal; 600 gp
+2d4 × 100 gp: 300 gp
+Aquamarine; 500 gp
+Opal; 650 gp
+Diamond, small; 1,000 gp
+2d4 × 100 gp: 700 gp
+Opal; 450 gp
+Topaz; 500 gp
+Emerald; 800 gp
+Sapphire, star; 5,000 gp
+Ruby, large; 5,000 gp
+Sapphire, star; 5,500 gp
+Emerald, brilliant green; 4,500 gp
+Diamond, large; 4,000 gp
+4d4 × 10 pp: 90 pp
+Jet; 100 gp
+Amethyst; 110 gp
+Tourmaline; 70 gp
+Chrysoberyl; 120 gp
+Chrysoberyl; 90 gp
+Coral; 100 gp
+Tourmaline; 100 gp
+Tourmaline; 90 gp
+Coral; 100 gp
+Tourmaline; 100 gp
+Pearl, black; 350 gp
+Topaz; 450 gp
+Pearl, black; 550 gp
+Topaz; 450 gp
+Emerald; 900 gp
+Ruby, small; 800 gp
+Emerald; 1,000 gp
+Sapphire; 800 gp
+Diamond, small; 1,200 gp
+Sapphire; 1,000 gp
+Diamond, large; 3,500 gp
+Emerald, brilliant green; 5,500 gp
+Ruby, large; 5,500 gp
+Emerald, brilliant green; 6,000 gp
+Ruby, large; 5,500 gp
+Sapphire, star; 5,500 gp
+Sapphire, star; 4,500 gp
+Sapphire, star; 5,000 gp
+4d4 × 10 pp: 100 pp
+Amethyst; 110 gp
+Garnet; 90 gp
+Amber; 110 gp
+Tourmaline; 100 gp
+Chrysoberyl; 70 gp
+Chrysoberyl; 70 gp
+Coral; 80 gp
+Tourmaline; 100 gp
+Jade; 90 gp
+Jet; 120 gp
+Pearl, black; 550 gp
+Aquamarine; 500 gp
+Topaz; 450 gp
+Topaz; 450 gp
+Sapphire; 1,100 gp
+Emerald; 1,000 gp
+Ruby, small; 1,200 gp
+Ruby, small; 1,100 gp
+Ruby, small; 1,000 gp
+Sapphire; 1,000 gp
+Diamond, large; 5,000 gp
+Sapphire, star; 5,500 gp
+Diamond, large; 6,000 gp
+Ruby, large; 4,500 gp
+Ruby, large; 4,500 gp
+Sapphire, star; 5,000 gp
+Diamond, large; 4,000 gp
+Diamond, large; 4,500 gp
+4d4 × 10 pp: 80 pp
+Amber; 100 gp
+Spinel, deep blue; 120 gp
+Tourmaline; 100 gp
+Garnet; 80 gp
+Coral; 90 gp
+Jet; 90 gp
+Chrysoberyl; 110 gp
+Chrysoberyl; 100 gp
+Chrysoberyl; 120 gp
+Garnet; 100 gp
+Opal; 500 gp
+Topaz; 500 gp
+Pearl, black; 400 gp
+Topaz; 500 gp
+Sapphire; 1,000 gp
+Emerald; 1,000 gp
+Sapphire; 1,000 gp
+Ruby, small; 1,100 gp
+Sapphire; 1,000 gp
+Emerald; 800 gp
+Sapphire, star; 6,000 gp
+Ruby, large; 4,000 gp
+Ruby, large; 6,000 gp
+Sapphire, star; 4,000 gp
+Emerald, brilliant green; 5,500 gp
+Diamond, large; 5,000 gp
+Diamond, large; 5,000 gp
+Diamond, large; 4,000 gp
+4d4 × 10 pp: 130 pp
+Amber; 120 gp
+Pearl, saltwater; 120 gp
+Jet; 120 gp
+Chrysoberyl; 100 gp
+Jet; 130 gp
+Amber; 120 gp
+Coral; 70 gp
+Chrysoberyl; 80 gp
+Garnet; 100 gp
+Tourmaline; 110 gp
+Topaz; 550 gp
+Aquamarine; 650 gp
+Aquamarine; 450 gp
+Opal; 550 gp
+Sapphire; 1,000 gp
+Diamond, small; 1,000 gp
+Ruby, small; 1,100 gp
+Sapphire; 800 gp
+Sapphire; 1,000 gp
+Emerald; 900 gp
+Diamond, large; 5,000 gp
+Emerald, brilliant green; 5,500 gp
+Diamond, large; 6,000 gp
+Diamond, large; 5,500 gp
+Emerald, brilliant green; 5,000 gp
+Emerald, brilliant green; 5,500 gp
+Emerald, brilliant green; 5,500 gp
+Ruby, large; 5,000 gp
+4d4 × 10 pp: 110 pp
+Chrysoberyl; 120 gp
+Spinel, deep blue; 110 gp
+Chrysoberyl; 110 gp
+Chrysoberyl; 90 gp
+Spinel, deep blue; 70 gp
+Spinel, deep blue; 100 gp
+Garnet; 100 gp
+Coral; 120 gp
+Jade; 90 gp
+Amethyst; 120 gp
+Opal; 650 gp
+Opal; 650 gp
+Pearl, black; 500 gp
+Opal; 400 gp
+Emerald; 1,100 gp
+Sapphire; 1,000 gp
+Ruby, small; 1,000 gp
+Sapphire; 800 gp
+Emerald; 1,200 gp
+Diamond, small; 1,200 gp
+Ruby, large; 4,500 gp
+Ruby, large; 5,500 gp
+Ruby, large; 5,500 gp
+Emerald, brilliant green; 5,000 gp
+Ruby, large; 5,000 gp
+Emerald, brilliant green; 6,000 gp
+Ruby, large; 4,000 gp
+Diamond, large; 5,000 gp
+Studded leather armor +1; 1,175 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+Composite longbow +1; 2,400 gp
+Dagger +1; 2,302 gp
+Morningstar +1; 2,308 gp
+Breastplate +1/Bitter; 4,350 gp
+Full plate +2; 5,650 gp
+Buckler +1; 1,155 gp
+Dustburst bullet; 196 gp
+Rapier +1; 2,320 gp
+Greataxe +1; 2,320 gp
+Splint mail +1; 1,350 gp
+Dagger +1; 2,300 gp
+Breastplate +1; 1,350 gp
+Light crossbow +1; 2,335 gp
+Breastplate +1; 1,350 gp
+Cold iron masterwork longsword; 330 gp
+Full plate +1; 2,650 gp
+Handaxe +1; 2,306 gp
+Light wooden shield +1; 1,153 gp
+Longbow +1; 2,375 gp
+Chainmail +1; 1,300 gp
+Slaying arrow; 2,282 gp
+Splint mail +1; 1,350 gp
+Morningstar +1; 2,308 gp
+Chain shirt +1; 1,250 gp
+Shortbow +1; 2,330 gp
+Light steel shield +1/Grinding; 4,159 gp
+Dart +1; 2,305 gp
+Leather armor +1/Benevolent; 3,160 gp
+Greataxe +1; 2,320 gp
+Heavy wooden shield +1; 1,157 gp
+Longsword +1; 2,315 gp
+Scale mail +2; 4,200 gp
+Dagger +1; 2,300 gp
+Studded leather armor +1; 1,175 gp
+Sleep arrow; 132 gp
+Half-plate +1; 1,750 gp
+Longbow +1; 2,375 gp
+Mistmail; 2,250 gp
+Spear +1; 2,302 gp
+Light wooden shield +2; 4,153 gp
+Cold iron masterwork longsword; 330 gp
+Tower shield +1/Clangorous; 4,180 gp
+Composite shortbow +1; 2,375 gp
+Mistmail; 2,250 gp
+Club +1; 2,300 gp
+Breastplate +1; 1,350 gp
+Longsword +1; 2,315 gp
+Adamantine battleaxe; 3,010 gp
+Shortbow +2; 8,330 gp
+Shortsword +1; 2,310 gp
+Heavy crossbow +1/Flaming; 8,350 gp
+Breastplate +1; 1,350 gp
+Nunchaku +2; 8,302 gp
+Chainmail +1; 1,300 gp
+Adamantine dagger; 3,002 gp
+Splint mail +1; 1,350 gp
+Shortspear +2; 8,301 gp
+Tower shield +1/Poison-resistant; 3,430 gp
+Dagger +1; 2,300 gp
+Javelin of lightning; 1,500 gp
+Heavy steel shield +2; 4,170 gp
+Greatsword +1; 2,300 gp
+Dagger +1; 2,302 gp
+Chain shirt +1; 1,250 gp
+Light mace +1; 2,305 gp
+Longbow +1; 2,375 gp
+Chain shirt +1; 1,250 gp
+Greatsword +1; 2,300 gp
+Longsword +1; 2,315 gp
+Splint mail +2; 4,350 gp
+Morningstar +1/Conductive; 8,308 gp
+Burglar’s buckler; 4,655 gp
+Nunchaku +2; 8,302 gp
+Breastplate +1/Mirrored; 4,350 gp
+Burrowing bullet, greater; 3,447 gp
+Dragonhide plate; 3,300 gp
+Slaying arrow, greater; 4,057 gp
+Heavy Steel Shield +1; 1,150 gp
+Greatsword +1; 2,300 gp
+Heavy wooden shield +1/Bashing/Poison-resistant; 6,407 gp
+Longbow +1; 2,375 gp
+Chainmail +1/Benevolent/Defiant; 6,300 gp
+Longbow +1; 2,375 gp
+Boulderhead mace; 6,812 gp
+Shortsword +1; 2,310 gp
+Gauntlet +3; 18,302 gp
+Buckler +2; 4,155 gp
+Greataxe +1/Mighty cleaving; 8,320 gp
+Morlock hide; 8,910 gp
+Light crossbow +2; 8,335 gp
+Tower shield +1; 1,180 gp
+Warhammer +2; 8,312 gp
+Breastplate +2/Glamered; 7,050 gp
+Longsword +1; 2,315 gp
+Tower shield +2/Arrow deflection; 16,180 gp
+Shortspear +1; 2,301 gp
+Hide +2; 4,165 gp
+Quarterstaff +1; 2,300 gp
+Half-plate +2/Jousting; 8,500 gp
+Greatsword +1; 2,350 gp
+Light wooden shield +1/Ramming; 4,153 gp
+Tracer bullet; 100 gp
+Scale mail +2/Shadow; 7,950 gp
+Battleaxe +1; 2,310 gp
+Scale mail +1/Balanced; 4,200 gp
+Light crossbow +1; 2,335 gp
+Banded mail +2/Rallying; 9,400 gp
+Gauntlet +1; 2,302 gp
+Studded leather armor +3; 9,175 gp
+Dagger +1; 2,302 gp
+Scale mail +1/Expeditious; 5,200 gp
+Greatsword +1; 2,300 gp
+Chainmail +1/Expeditious; 5,300 gp
+Scythe +1; 2,318 gp
+Hide +1/Expeditious; 5,165 gp
+Burrowing bullet, lesser; 1,722 gp
+Soothsayer’s raiment; 10,300 gp
+Javelin of lightning; 1,500 gp
+Scale mail +1/Slick; 4,950 gp
+Light crossbow +1; 2,335 gp
+Studded leather armor +3/Champion; 16,175 gp
+Greatclub +1; 2,305 gp
+Studded leather armor +2; 4,175 gp
+Shortbow +1; 2,330 gp
+Buckler +3/Mirrored; 16,155 gp
+Heavy crossbow +1; 2,350 gp
+Maelstrom shield; 14,170 gp
+Spear +1; 2,302 gp
+Full Plate +1/Spell resistance (13); 9,150 gp
+Glaive +1; 2,308 gp
+Hide +1/Bolstering/Grinding; 9,165 gp
+Shuriken +1/Flaming burst; 18,301 gp
+Hide +1; 1,165 gp
+Nunchaku +2/Throwing; 18,302 gp
+Zombie skin shield; 2,159 gp
+Light hammer +2/Seaborne; 18,301 gp
+Leather armor +1/Grinding; 4,160 gp
+Battleaxe +2/Corrosive; 18,310 gp
+Breastplate +1/Ghost touch; 16,350 gp
+Sai +1; 2,301 gp
+Spear +2; 8,302 gp
+Plate armor of the deep; 24,650 gp
+Gauntlet +1; 2,302 gp
+Greataxe +1/Planar; 8,320 gp
+Light steel shield +1/Fortification (light); 4,159 gp
+Handaxe +2/Thundering; 18,306 gp
+Elven chain; 5,150 gp
+Composite longbow +2/Anarchic; 32,400 gp
+Full Plate +2/Slick; 7,900 gp
+Warhammer +2; 8,312 gp
+Full Plate +4; 16,150 gp
+Beaststrike club; 7,300 gp
+Heavy wooden shield +3/Grinding; 16,157 gp
+Warhammer +1/Spell storing/Thawing; 18,312 gp
+Full plate +4; 17,650 gp
+Dagger +2/Conductive; 18,300 gp
+Half-plate +1; 1,750 gp
+Battleaxe +2/Unholy; 32,310 gp
+Heavy steel shield +1; 1,170 gp
+Battleaxe +4; 32,310 gp
+Leather armor +1; 1,160 gp
+Dagger +1/Anchoring; 18,300 gp
+Chain shirt +1; 1,250 gp
+Dwarfbond hammer; 25,312 gp
+Darkwood shield; 257 gp
+Greataxe +4/Frost; 50,320 gp
+Hide +4/Glamered; 18,865 gp
+Dagger +1/Grounding; 8,300 gp
+Force tower; 46,030 gp
+Trident +1; 2,315 gp
+Scarab breastplate; 32,350 gp
+Battleaxe +1/Vicious; 8,310 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 6 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 20 sp
+2d4 gp: 5 gp
+Potion of Protection from good (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 6 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 3 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 2 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 3 gp
+Potion of Grease (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 5 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 2 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 6 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 20 sp
+2d4 gp: 6 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 2 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 6 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 4 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 3 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 20 sp
+2d4 gp: 5 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 5 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 2 gp
+Potion of Guidance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 6 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 6 gp
+Potion of Bless weapon (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 5 gp
+MW Greataxe; 320 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 4 gp
+MW Lance; 310 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 7 gp
+MW Trident; 315 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 6 gp
+MW Heavy crossbow; 350 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 6 gp
+MW Scythe; 318 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 80 sp
+2d4 gp: 6 gp
+MW Quarterstaff; 300 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 5 gp
+MW Greataxe; 320 gp
+Potion of Guidance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 5 gp
+MW Trident; 315 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+MW Composite shortbow; 375 gp
+Potion of Animate rope (1st Level, CL 1st); 50 gp
+MW Club; 300 gp
+Potion of Protection from good (1st Level, CL 1st); 50 gp
+MW Battleaxe; 310 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+MW Heavy crossbow; 350 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+MW Composite longbow; 400 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+MW Dagger; 300 gp
+Potion of Hide from animals (1st Level, CL 1st); 50 gp
+6d6 gp: 15 gp
+MW Whip; 301 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+Potion of Protection from good (1st Level, CL 1st); 50 gp
+6d6 gp: 25 gp
+MW Warhammer; 312 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+6d6 gp: 23 gp
+MW Dart; 305 gp
+Potion of Protection from good (1st Level, CL 1st); 50 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+6d6 gp: 31 gp
+MW Rapier; 320 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+6d6 gp: 16 gp
+MW Shortspear; 301 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+6d6 gp: 20 gp
+MW Greatsword; 350 gp
+Potion of Protection from good (1st Level, CL 1st); 50 gp
+Potion of Sanctify corpse (1st Level, CL 1st); 50 gp
+6d6 gp: 23 gp
+MW Longbow; 375 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+MW Spear; 302 gp
+Potion of Cloak of the shade (1st Level, CL 1st); 50 gp
+MW Shortspear; 301 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+MW Shortbow; 330 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+MW Shortsword; 310 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+MW Falchion; 375 gp
+Potion of Ant haul (1st Level, CL 1st); 50 gp
+Breastplate +1; 1,350 gp
+MW Light mace; 305 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Potion of Resist energy, sonic (2nd Level, CL 3rd); 300 gp
+Chainmail +1; 1,300 gp
+MW Heavy crossbow; 350 gp
+Potion of Resist energy, fire (2nd Level, CL 3rd); 300 gp
+Potion of Cat’s grace (2nd Level, CL 3rd); 300 gp
+Breastplate +1; 1,350 gp
+MW Warhammer; 312 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+Potion of Invigorate (1st Level, CL 1st); 50 gp
+Chain shirt +1; 1,250 gp
+MW Longsword; 315 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Full plate +1; 2,650 gp
+MW Greatsword; 300 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+Mithral shirt; 1,100 gp
+MW Shortbow; 330 gp
+Potion of Status (2nd Level, CL 3rd); 300 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+Light wooden shield +1; 1,153 gp
+MW Warhammer; 312 gp
+Potion of Slipstream (2nd Level, CL 3rd); 300 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+Chain shirt +1; 1,250 gp
+MW Falchion; 375 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Potion of Fox’s cunning (2nd Level, CL 3rd); 300 gp
+Mithral shirt; 1,100 gp
+MW Shortspear; 301 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Potion of Cloak of the shade (1st Level, CL 1st); 50 gp
+Full plate +1; 2,650 gp
+MW Shortbow; 330 gp
+Potion of Obscure object (2nd Level, CL 3rd); 300 gp
+Potion of Undetectable alignment (2nd Level, CL 3rd); 300 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+MW Falchion; 375 gp
+Potion of Resist energy, sonic (2nd Level, CL 3rd); 300 gp
+Potion of Sanctify corpse (1st Level, CL 1st); 50 gp
+Darkwood shield; 257 gp
+MW Sling; 300 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Heavy steel shield +1; 1,170 gp
+MW Battleaxe; 310 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Darkwood buckler; 203 gp
+MW Greatsword; 350 gp
+Potion of Hide from undead (1st Level, CL 1st); 50 gp
+Potion of Resist energy, acid (2nd Level, CL 3rd); 300 gp
+Padded armor +1; 1,155 gp
+MW Handaxe; 306 gp
+Potion of Resist energy, acid (2nd Level, CL 3rd); 300 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Full plate +1; 2,650 gp
+MW Trident; 315 gp
+Potion of Blur (2nd Level, CL 3rd); 300 gp
+Potion of Hide from animals (1st Level, CL 1st); 50 gp
+Longsword +1; 2,315 gp
+Potion of Obscure object (2nd Level, CL 3rd); 300 gp
+Morningstar +1; 2,308 gp
+Potion of Corruption resistance (2nd Level, CL 3rd); 300 gp
+Heavy crossbow +1; 2,350 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Chain shirt +1; 1,250 gp
+MW Lance; 310 gp
+Body: Robe of bones; 2,400 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+Banded mail +1; 1,400 gp
+MW Light mace; 305 gp
+Slotless: Pyxes of redirected focus; 1,000 gp
+Potion of Sanctify corpse (1st Level, CL 1st); 50 gp
+Heavy steel shield +1; 1,170 gp
+MW Club; 300 gp
+Feet: Boots of friendly terrain; 2,400 gp
+Potion of Ablative barrier (2nd Level, CL 3rd); 300 gp
+Breastplate +1; 1,350 gp
+MW Longsword; 315 gp
+Slotless: Bag of holding (type I); 2,500 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Buckler +1; 1,155 gp
+MW Lance; 310 gp
+Shoulders: Cloak of elvenkind; 2,500 gp
+Potion of Align weapon (2nd Level, CL 3rd); 300 gp
+Leather armor +1; 1,160 gp
+MW Sai; 301 gp
+Slotless: Chime of opening; 3,000 gp
+Potion of Barkskin (2nd Level, CL 3rd); 300 gp
+Studded leather armor +1; 1,175 gp
+MW Heavy crossbow; 350 gp
+Slotless: Flying ointment; 2,250 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+Breastplate +1; 1,350 gp
+MW Light hammer; 301 gp
+Wrists: Bracers of armor +1; 1,000 gp
+Potion of Hide from undead (1st Level, CL 1st); 50 gp
+Dagger +1; 2,300 gp
+Chest: Vest of surgery; 3,000 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Spear +1; 2,302 gp
+Neck: Amulet of natural armor +1; 2,000 gp
+Potion of Resist energy, acid (2nd Level, CL 3rd); 300 gp
+Longsword +1; 2,315 gp
+Slotless: Page of spell knowledge (1st); 1,000 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Battleaxe +1; 2,310 gp
+Slotless: Rope of climbing; 3,000 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Screaming bolt; 267 gp
+Slotless: Goblin skull bomb; 1,200 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Dagger +1; 2,300 gp
+Slotless: Pyxes of redirected focus; 1,000 gp
+Potion of Barkskin (2nd Level, CL 3rd); 300 gp
+Dagger +1; 2,300 gp
+Slotless: Figurine of wondrous power (silver raven); 3,800 gp
+Potion of Protection from evil (1st Level, CL 1st); 50 gp
+Heavy flail +1; 2,315 gp
+Feet: Boots of the cat; 1,000 gp
+Potion of Wood shape (2nd Level, CL 3rd); 300 gp
+Rapier +1; 2,320 gp
+Eyes of the eagle; 2,500 gp
+Potion of Cat’s grace (2nd Level, CL 3rd); 300 gp
+Heavy flail +1; 2,315 gp
+Slotless: Pearl of Power (1st); 1,000 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+Light flail +1; 2,308 gp
+Slotless: Pearl of Power (1st); 1,000 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+Screaming bolt; 267 gp
+Belts: Meridian belt; 1,000 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Bolas +1; 2,305 gp
+Body: Robe of infinite twine; 1,000 gp
+Potion of Resist energy, fire (2nd Level, CL 3rd); 300 gp
+Greatsword +1; 2,350 gp
+Slotless: Sovereign glue; 2,400 gp
+Potion of Gentle repose (2nd Level, CL 3rd); 300 gp
+Sling +1; 2,300 gp
+Slotless: Bag of holding (type I); 2,500 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Dagger +1; 2,302 gp
+Slotless: Pyxes of redirected focus; 1,000 gp
+Potion of Vanish (1st Level, CL 1st); 50 gp
+Longsword +1; 2,315 gp
+Slotless: Goblin fire drum (normal); 2,000 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+Greatsword +1; 2,350 gp
+Slotless: Volatile vaporizer (2nd); 3,000 gp
+Potion of Ant haul (1st Level, CL 1st); 50 gp
+Morningstar +1; 2,308 gp
+Slotless: Efficient quiver; 1,800 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Alchemist’s bullet; 330 gp
+Chest: All tools vest; 1,800 gp
+Potion of Hide from animals (1st Level, CL 1st); 50 gp
+Hide +1/Stanching; 4,165 gp
+Light flail +1; 2,308 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Heavy steel shield +1; 1,170 gp
+Lance of jousting; 4,310 gp
+Potion of Water walk (3rd Level, CL 5th); 750 gp
+Potion of Rage (3rd Level, CL 5th); 750 gp
+Studded leather armor +2; 4,175 gp
+Shuriken +1; 2,301 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Potion of Wood shape (2nd Level, CL 3rd); 300 gp
+Scroll of minor image (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Animal aspect (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Cure moderate wounds (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Magic stone (divine, 1st Level, CL 1st); 25 gp
+Scroll of knock (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Augury (divine, 2nd Level, CL 3rd); 175 gp
+Scroll of burning gaze (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Hold person (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of owl’s wisdom (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Mage armor (arcane, 1st Level, CL 1st); 25 gp
+Scroll of Stone shield (divine, 1st Level, CL 1st); 25 gp
+Scroll of Protection from evil (arcane, 1st Level, CL 1st); 25 gp
+Scroll of Daylight (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Shocking grasp (arcane, 1st Level, CL 1st); 25 gp
+Wrists: Bracers of steadiness; 2,000 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Wand of Identify (1st Level, CL 1st); 750 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Wand of Sanctuary (1st Level, CL 1st); 750 gp
+Eyes: Deathwatch eyes; 2,000 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Wand of Aspect of the falcon (1st Level, CL 1st); 750 gp
+Slotless: Pyxes of redirected focus; 1,000 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Wand of Comprehend languages (1st Level, CL 1st); 750 gp
+Shoulders: Cloak of resistance +1; 1,000 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Wand of Sleep (1st Level, CL 1st); 750 gp
+Belts: Meridian belt; 1,000 gp
+Potion of Darkvision (2nd Level, CL 3rd); 300 gp
+Wand of Shocking grasp (1st Level, CL 1st); 750 gp
+Chest: All tools vest; 1,800 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Wand of Magic stone (1st Level, CL 1st); 750 gp
+Belts: Meridian belt; 1,000 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Wand of Enlarge person (1st Level, CL 1st); 750 gp
+Slotless: Volatile vaporizer (2nd); 3,000 gp
+Potion of Remove blindness/deafness (3rd Level, CL 5th); 750 gp
+Wand of Entangle (1st Level, CL 1st); 750 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+Wand of Alarm (1st Level, CL 1st); 750 gp
+Slotless: Incense of transcendence; 1,000 gp
+Potion of Protection from energy, sonic (3rd Level, CL 5th); 750 gp
+Wand of Tongues (2nd Level, CL 3rd); 4,500 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Align weapon (2nd Level, CL 3rd); 300 gp
+Wand of Whispering wind (2nd Level, CL 3rd); 4,500 gp
+Eyes: Goggles of minute seeing; 2,500 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Wand of Command (1st Level, CL 1st); 750 gp
+Slotless: Stone of alarm; 2,700 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Wand of Endure elements (1st Level, CL 1st); 750 gp
+Neck: Golembane scarab; 2,500 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Wand of Comprehend languages (1st Level, CL 1st); 750 gp
+Wrists: Shackles of compliance; 3,280 gp
+Potion of Remove blindness/deafness (3rd Level, CL 5th); 750 gp
+Wand of Shocking grasp (1st Level, CL 1st); 750 gp
+Belts: Beneficial bandolier; 1,000 gp
+Potion of Shrink item (3rd Level, CL 5th); 750 gp
+Wand of Burning hands (1st Level, CL 1st); 750 gp
+Eyes: Spectacles of understanding; 3,000 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Wand of Spiritual weapon (2nd Level, CL 3rd); 4,500 gp
+Chest: Quick runner’s shirt; 1,000 gp
+Potion of Aid (2nd Level, CL 3rd); 300 gp
+Wand of Bless (1st Level, CL 1st); 750 gp
+Hands: Engineer’s workgloves; 3,000 gp
+Potion of Darkvision (2nd Level, CL 3rd); 300 gp
+Wand of Burning hands (1st Level, CL 1st); 750 gp
+Ring of protection +1; 2,000 gp
+Shoulders: Cowardly crouching cloak; 1,800 gp
+Scroll of Inflict serious wounds (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Volcanic storm (arcane, 4th Level, CL 7th); 700 gp
+Ring: Dungeon ring, prisoner’s; 250 gp
+Hands: Gloves of reconnaissance; 2,000 gp
+Scroll of Magic circle against evil (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Remove blindness/deafness (divine, 3rd Level, CL 5th); 375 gp
+Ring of sustenance; 2,500 gp
+Head: Buffering cap; 2,000 gp
+Scroll of Inflict critical wounds (divine, 4th Level, CL 7th); 700 gp
+Scroll of Sleet storm (divine, 3rd Level, CL 5th); 375 gp
+Ring of swimming; 2,500 gp
+Slotless: Goblin skull bomb; 1,200 gp
+Scroll of Delay poison (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of Tongues (arcane, 3rd Level, CL 5th); 375 gp
+Ring of spell knowledge I; 1,500 gp
+Neck: Amulet of natural armor +1; 2,000 gp
+Scroll of Reduce person, mass (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Blindness/deafness (divine, 3rd Level, CL 5th); 375 gp
+Ring: Dungeon ring, prisoner’s; 250 gp
+Slotless: Stone of alarm; 2,700 gp
+Potion of Fox’s cunning (2nd Level, CL 3rd); 300 gp
+Wand of Command (1st Level, CL 1st); 750 gp
+Ring of spell knowledge I; 1,500 gp
+Wrists: Bracers of steadiness; 2,000 gp
+Potion of Blur (2nd Level, CL 3rd); 300 gp
+Wand of Faerie fire (1st Level, CL 1st); 750 gp
+Ring of ferocious action; 3,000 gp
+Wrists: Bracers of steadiness; 2,000 gp
+Potion of Fox’s cunning (2nd Level, CL 3rd); 300 gp
+Wand of Expeditious retreat (1st Level, CL 1st); 750 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Potion of Magic vestment (3rd Level, CL 5th); 750 gp
+Scroll of Daze (arcane, 0 Level, CL 1st); 12.50 gp
+Wand of Gentle repose (2nd Level, CL 3rd); 4,500 gp
+Potion of Remove blindness/deafness (3rd Level, CL 5th); 750 gp
+Potion of Vanish (1st Level, CL 1st); 50 gp
+Scroll of Sleep (arcane, 1st Level, CL 1st); 25 gp
+Wand of See invisibility (2nd Level, CL 3rd); 4,500 gp
+Potion of Bless weapon (1st Level, CL 1st); 50 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Scroll of Light (arcane, 0 Level, CL 1st); 12.50 gp
+Wand of Defensive shock (2nd Level, CL 3rd); 4,500 gp
+Potion of Ablative barrier (2nd Level, CL 3rd); 300 gp
+Potion of Protection from energy, acid (3rd Level, CL 5th); 750 gp
+Scroll of Feather step (divine, 1st Level, CL 1st); 25 gp
+Wand of Daylight (3rd Level, CL 5th); 11,250 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Scroll of Restoration, lesser (divine, 2nd Level, CL 3rd); 150 gp
+Wand of Hold person (2nd Level, CL 3rd); 4,500 gp
+Ring of sustenance; 2,500 gp
+Eyes: Pirate’s eye patch; 2,600 gp
+Wand of Helping hand (3rd Level, CL 5th); 11,250 gp
+Ring of swimming; 2,500 gp
+Slotless: Book of extended summoning (standard); 2,750 gp
+Wand of Inflict moderate wounds (2nd Level, CL 3rd); 4,500 gp
+Ring: Dungeon ring, prisoner’s; 250 gp
+Wrists: Sleeves of many garments; 200 gp
+Wand of Levitate (2nd Level, CL 3rd); 4,500 gp
+Ring of spell knowledge I; 1,500 gp
+Feet: Boots of the winterlands; 2,500 gp
+Wand of Gentle repose (2nd Level, CL 3rd); 4,500 gp
+Ring of spell knowledge I; 1,500 gp
+Head: Crown of blasting, minor; 6,480 gp
+Scroll of Bestow curse (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Nightmare (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Grease (1st Level, CL 1st); 750 gp
+Wand of Spider climb (2nd Level, CL 3rd); 4,500 gp
+Ring of the grasping grave; 2,000 gp
+Headband of inspired wisdom +2; 4,000 gp
+Scroll of Discern lies (divine, 4th Level, CL 7th); 700 gp
+Scroll of Summon monster III (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Magic weapon (1st Level, CL 1st); 750 gp
+Wand of Magic weapon (1st Level, CL 1st); 750 gp
+Ring of swimming; 2,500 gp
+Rod of thunderous force; 5,400 gp
+Wand of Spiritual weapon (2nd Level, CL 3rd); 4,500 gp
+Ring of protection +1; 2,000 gp
+Rod: Metamagic (+1 spell level), minor; 3,000 gp
+Wand of False life (2nd Level, CL 3rd); 4,500 gp
+Ring of ferocious action; 3,000 gp
+Rod: Metamagic (+1 spell level), minor; 3,000 gp
+Wand of Cure moderate wounds (2nd Level, CL 3rd); 4,500 gp
+Ring of feather falling; 2,200 gp
+Rod of cancellation; 11,000 gp
+Wand of Heat metal (2nd Level, CL 3rd); 4,500 gp
+Ring of the grasping grave; 2,000 gp
+Rod of thunderous force; 5,400 gp
+Wand of Heal mount (3rd Level, CL 5th); 15,750 gp
+Ring of the grasping grave; 2,000 gp
+Wand of Web (2nd Level, CL 3rd); 4,500 gp
+Wand of Cure critical wounds (4th Level, CL 7th); 21,000 gp
+Slotless: Pipes of haunting; 6,000 gp
+Ring of rat fangs; 5,000 gp
+Slotless: Scabbard of keen edges; 16,000 gp
+Slotless: Broom of flying; 17,000 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+Scroll of Lightning bolt (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Flame strike (divine, 4th Level, CL 7th); 700 gp
+Scroll of Enervation (arcane, 4th Level, CL 7th); 700 gp
+Wand of Magic vestment (3rd Level, CL 5th); 11,250 gp
+Ring of sacred mistletoe; 6,000 gp
+Head: Veil of fleeting glances; 9,000 gp
+Shoulders: Cloak of resistance +3; 9,000 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+Scroll of Poison (divine, 4th Level, CL 7th); 700 gp
+Scroll of Control winds (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Shout (arcane, 4th Level, CL 7th); 700 gp
+Wand of Globe of invulnerability, lesser (4th Level, CL 7th); 21,000 gp
+Ring of swarming stabs; 6,000 gp
+Feet: Boots of speed; 12,000 gp
+Slotless: Page of spell knowledge (4th); 16,000 gp
+Potion of Neutralize poison (3rd Level, CL 5th); 750 gp
+Scroll of Black tentacles (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Resinous skin (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Ball lightning (divine, 4th Level, CL 7th); 700 gp
+Wand of Inflict critical wounds (4th Level, CL 7th); 21,000 gp
+Ring of counterspells; 4,000 gp
+Slotless: Stone horse (destrier); 14,800 gp
+Slotless: Pipes of dissolution; 12,000 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Scroll of Dimensional anchor (arcane, 4th Level, CL 7th); 700 gp
+Scroll of Planar binding, lesser (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Daylight (divine, 3rd Level, CL 5th); 375 gp
+Wand of Death ward (4th Level, CL 7th); 21,000 gp
+Ring of maniacal devices; 5,000 gp
+Slotless: Treasurer’s seal; 10,000 gp
+Neck: Forge fist amulet; 13,000 gp
+Potion of Flame arrow (3rd Level, CL 5th); 750 gp
+Scroll of Spike stones (divine, 4th Level, CL 7th); 700 gp
+Scroll of Rage (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Command plants (divine, 4th Level, CL 7th); 700 gp
+Wand of Sleet storm (3rd Level, CL 5th); 11,250 gp
+Ring of grit mastery; 6,840 gp
+Slotless: Pearl of Power (3rd); 9,000 gp
+Chest: Vest of the cockroach; 16,000 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Scroll of Sonic thrust (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Symbol of sleep (arcane, 5th Level, CL 9th); 2,125 gp
+Scroll of Baleful polymorph (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Magic vestment (3rd Level, CL 5th); 11,250 gp
+Ring of grit mastery; 6,840 gp
+Hands: Spellstrike gloves; 8,000 gp
+Slotless: Pearl of Power (3rd); 9,000 gp
+Potion of Magic vestment (3rd Level, CL 5th); 750 gp
+Scroll of Disrupting weapon (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Symbol of sleep (divine, 5th Level, CL 9th); 2,125 gp
+Scroll of Baleful polymorph (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Ball lightning (4th Level, CL 7th); 21,000 gp
+Staff of eidolons; 14,400 gp
+Rod of wonder; 12,000 gp
+Eyes of doom; 25,000 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Scroll of Flame strike (divine, 4th Level, CL 7th); 700 gp
+Scroll of Shadow conjuration (arcane, 4th Level, CL 7th); 700 gp
+Wand of Resist energy (2nd Level, CL 3rd); 4,500 gp
+Staff of blessed relief; 7,200 gp
+Rod of flame extinguishing; 15,000 gp
+Feet: Horseshoes of the mist; 27,000 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Scroll of Inflict critical wounds (divine, 4th Level, CL 7th); 700 gp
+Scroll of Magic jar (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Major image (3rd Level, CL 5th); 11,250 gp
+Staff of eidolons; 14,400 gp
+Rod of the python; 13,000 gp
+Slotless: Necromancer’s athame; 20,000 gp
+Potion of Protection from energy, sonic (3rd Level, CL 5th); 750 gp
+Scroll of Dispel magic, greater (arcane, 6th Level, CL 11th); 1,650 gp
+Scroll of Form of the dragon II (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Hold person (2nd Level, CL 3rd); 4,500 gp
+Longbow +1; 2,375 gp
+Staff of radiance; 23,200 gp
+Headband of knucklebones; 27,500 gp
+Scroll of Shadow conjuration, greater (arcane, 7th Level, CL 13th); 2,275 gp
+Scroll of Resurrection (divine, 7th Level, CL 13th); 12,275 gp
+Scroll of Ethereal jaunt (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Zone of silence (4th Level, CL 7th); 30,000 gp
+Hushing arrow, greater; 1,047 gp
+Staff of feast and famine; 20,800 gp
+Eyes: Darklands goggles; 20,000 gp
+Scroll of Holy aura (divine, 8th Level, CL 15th); 3,000 gp
+Scroll of Scrying, greater (arcane, 7th Level, CL 13th); 2,275 gp
+Scroll of Create demiplane, greater (divine, 9th Level, CL 17th); 3,825 gp
+Wand of Call lightning (3rd Level, CL 5th); 11,250 gp
+Ring of the ecclesiarch; 28,500 gp
+Rod of the python; 13,000 gp
+Staff of performance; 48,800 gp
+Scroll of Scouring winds (divine, 7th Level, CL 13th); 2,275 gp
+Wand of Restoration, lesser (2nd Level, CL 3rd); 4,500 gp
+Ring of delayed doom; 45,000 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Staff: Unholy staff; 29,600 gp
+Scroll of Eyebite (arcane, 6th Level, CL 11th); 1,650 gp
+Wand of Minor image (2nd Level, CL 3rd); 4,500 gp
+Ring of energy resistance, greater; 44,000 gp
+Rod: Trap-stealer’s rod; 13,500 gp
+Staff: Holy staff; 29,600 gp
+Scroll of Elemental body I (arcane, 4th Level, CL 7th); 700 gp
+Wand of Magic circle against chaos (3rd Level, CL 5th); 11,250 gp
+Ring of wizardry II; 40,000 gp
+Rod of flame extinguishing; 15,000 gp
+Staff of performance; 48,800 gp
+Scroll of Summon monster IV (arcane, 4th Level, CL 7th); 700 gp
+Wand of Elemental body I (4th Level, CL 7th); 21,000 gp
+Ring of freedom of movement; 40,000 gp
+Rod of wonder; 12,000 gp
+Staff of spiders; 30,200 gp
+Scroll of Animate dead (arcane, 4th Level, CL 7th); 1,050 gp
+Wand of Wall of fire (4th Level, CL 7th); 21,000 gp
+Ring of freedom of movement; 40,000 gp
+Rod of the python; 13,000 gp
+Staff of dark flame; 47,000 gp
+Scroll of Invisibility, greater (arcane, 4th Level, CL 7th); 700 gp
+Wand of Fly (3rd Level, CL 5th); 11,250 gp
+Ring of return; 33,600 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Staff of stealth; 36,800 gp
+Scroll of Wall of stone (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Shrink item (3rd Level, CL 5th); 11,250 gp
+Ring of energy resistance, major; 28,000 gp
+Rod of flame extinguishing; 15,000 gp
+Staff: Heretic’s bane; 32,000 gp
+Scroll of Cloudkill (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Confusion (4th Level, CL 7th); 21,000 gp
+4d4 × 100 cp: 900 cp
+3d6 × 10 sp: 90 sp
+2d4 × 10 gp: 50 gp
+MW Halberd; 310 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Scroll of Cause fear (divine, 1st Level, CL 1st); 25 gp
+Sardonyx; 50 gp
+2d4 × 100 cp: 300 cp
+2d6 × 100 sp: 400 sp
+6d6 gp: 29 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+Scroll of Entangle (divine, 1st Level, CL 1st); 25 gp
+Wand of Color spray (1st Level, CL 1st); 750 gp
+Turquoise; 9 gp
+Pyrite; 8 gp
+Agate; 11 gp
+2d4 × 100 cp: 500 cp
+2d6 × 100 sp: 1100 sp
+6d6 gp: 19 gp
+Potion of Bless weapon (1st Level, CL 1st); 50 gp
+Scroll of Summon monster II (divine, 2nd Level, CL 3rd); 150 gp
+Wand of True strike (1st Level, CL 1st); 750 gp
+Pearl, irregular freshwater; 12 gp
+Pearl, irregular freshwater; 9 gp
+Pyrite; 9 gp
+2d4 × 10 gp: 50 gp
+4d6 pp: 15 pp
+MW Shortsword; 310 gp
+Ring of jumping; 2,500 gp
+Potion of Bull’s strength (2nd Level, CL 3rd); 300 gp
+Scroll of Animate dead (divine, 3rd Level, CL 5th); 625 gp
+Wand of Bless (1st Level, CL 1st); 750 gp
+2d4 × 10 gp: 60 gp
+4d6 pp: 17 pp
+MW Scythe; 318 gp
+Ring of climbing; 2,500 gp
+Potion of Heroism (3rd Level, CL 5th); 750 gp
+Scroll of Slow (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Protection from evil (1st Level, CL 1st); 750 gp
+4d4 × 10 gp: 110 gp
+6d6 pp: 20 pp
+MW silver dagger; 322 gp
+Slotless: Volatile vaporizer (1st); 2,200 gp
+Potion of Neutralize poison (3rd Level, CL 5th); 750 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Wand of Resist energy (2nd Level, CL 3rd); 4,500 gp
+Pearl, saltwater; 100 gp
+Tourmaline; 80 gp
+4d4 × 10 gp: 140 gp
+6d6 pp: 26 pp
+Alchemist’s bullet; 330 gp
+Shoulders: Cloak of resistance +1; 1,000 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Wand of Blur (2nd Level, CL 3rd); 4,500 gp
+Spinel, deep blue; 110 gp
+Garnet; 100 gp
+4d4 × 10 gp: 100 gp
+6d6 pp: 16 pp
+Greatsword +1; 2,350 gp
+Bodywrap of mighty strikes +1; 3,000 gp
+Potion of Status (2nd Level, CL 3rd); 300 gp
+Potion of Bear’s endurance (2nd Level, CL 3rd); 300 gp
+Wand of Bane (1st Level, CL 1st); 750 gp
+Spinel, deep blue; 70 gp
+Jade; 110 gp
+4d8 × 10 gp: 200 gp
+6d10 pp: 36 pp
+Hide +1/Impervious; 4,165 gp
+Ring of sustenance; 2,500 gp
+Head: Miser’s mask; 3,000 gp
+Scroll of Aqueous orb (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Bane (1st Level, CL 1st); 750 gp
+Pearl, black; 450 gp
+4d8 × 10 gp: 60 gp
+6d10 pp: 41 pp
+Chain shirt +1/Stanching; 4,250 gp
+Ring of sustenance; 2,500 gp
+Eyes: Spectacles of understanding; 3,000 gp
+Scroll of Quench (divine, 3rd Level, CL 5th); 375 gp
+Wand of Magic weapon (1st Level, CL 1st); 750 gp
+Pearl, black; 450 gp
+4d4 × 10 gp: 130 gp
+4d4 × 10 pp: 100 pp
+Heavy wooden shield +1; 1,157 gp
+Slotless: Elixir of dragon breath; 1,400 gp
+Potion of Acute senses (2nd Level, CL 3rd); 300 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+Scroll of Break enchantment (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Baleful polymorph (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Consecrate (2nd Level, CL 3rd); 5,750 gp
+Chrysoberyl; 90 gp
+4d4 × 10 gp: 90 gp
+4d4 × 10 pp: 90 pp
+Full plate +1/Defiant; 5,650 gp
+Head: Cap of human guise; 800 gp
+Potion of Undetectable alignment (2nd Level, CL 3rd); 300 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Scroll of Flame arrow (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Call lightning storm (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Invisibility (2nd Level, CL 3rd); 4,500 gp
+Jade; 110 gp
+2d4 × 10 pp: 60 pp
+Ring of rat fangs; 5,000 gp
+Slotless: Flying ointment; 2,250 gp
+Slotless: Bookmark of deception; 1,500 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+Potion of Delay poison (2nd Level, CL 3rd); 300 gp
+Scroll of Cone of cold (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Call lightning storm (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Restoration, lesser (2nd Level, CL 3rd); 4,500 gp
+6d6 × 10 gp: 150 gp
+2d4 × 10 pp: 30 pp
+Rapier +1/Flaming; 8,320 gp
+Slotless: Scabbard of keen edges; 16,000 gp
+Wand of Chaos hammer (4th Level, CL 7th); 21,000 gp
+Pearl, saltwater; 90 gp
+Pearl, saltwater; 100 gp
+Spinel, deep blue; 120 gp
+6d6 × 10 gp: 260 gp
+2d4 × 10 pp: 30 pp
+Shatterspike; 4,315 gp
+Necklace of fireballs (type VII); 8,700 gp
+Wand of Confusion (4th Level, CL 7th); 21,000 gp
+Pearl, saltwater; 100 gp
+Coral; 120 gp
+Amethyst; 110 gp
+6d6 × 10 gp: 200 gp
+2d4 × 10 pp: 70 pp
+Spear +2; 8,302 gp
+Head: Mask of a thousand tomes; 10,000 gp
+Wand of Owl’s wisdom (2nd Level, CL 3rd); 4,500 gp
+Amber; 100 gp
+Jade; 120 gp
+Spinel, deep blue; 80 gp
+4d4 × 10 gp: 120 gp
+4d4 × 10 pp: 90 pp
+Ring of animal friendship; 10,800 gp
+Rod of cancellation; 11,000 gp
+Potion of Aid (2nd Level, CL 3rd); 300 gp
+Potion of Rage (3rd Level, CL 5th); 750 gp
+Scroll of Summon monster IV (divine, 4th Level, CL 7th); 700 gp
+Scroll of Fire shield (arcane, 4th Level, CL 7th); 700 gp
+Wand of Major image (3rd Level, CL 5th); 11,250 gp
+4d4 × 10 pp: 110 pp
+Scale mail +3; 9,200 gp
+Staff of eidolons; 14,400 gp
+Slotless: Figurine of wondrous power (ebony fly); 10,000 gp
+Scroll of Weird (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Deep slumber (3rd Level, CL 5th); 11,250 gp
+Sapphire; 900 gp
+4d4 × 10 pp: 130 pp
+Breastplate +3/Stanching; 16,350 gp
+Staff of minor arcana; 8,000 gp
+Shoulders: Cloak of resistance +3; 9,000 gp
+Scroll of Hold person, mass (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Locate object (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 700 gp
+4d4 × 10 pp: 70 pp
+Heavy wooden shield +3; 9,157 gp
+Staff of charming; 17,600 gp
+Chest: Vest of the cockroach; 16,000 gp
+Scroll of Summon nature’s ally IX (divine, 9th Level, CL 17th); 3,825 gp
+Wand of Lightning bolt (3rd Level, CL 5th); 11,250 gp
+Diamond, small; 900 gp
+8d6 × 100 gp: 2600 gp
+4d4 × 10 pp: 110 pp
+Ring of wizardry II; 40,000 gp
+Headband: Winter wolf headband; 32,000 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Potion of Nondetection (3rd Level, CL 5th); 800 gp
+Potion of Heroism (3rd Level, CL 5th); 750 gp
+Scroll of Polar ray (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Hypnotic pattern (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 1,100 gp
+Emerald; 1,000 gp
+Emerald, brilliant green; 5,000 gp
+8d6 × 100 gp: 2700 gp
+4d4 × 10 pp: 120 pp
+Ring of energy resistance, greater; 44,000 gp
+Slotless: Ring gates; 40,000 gp
+Potion of Burrow (3rd Level, CL 5th); 750 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+Scroll of Waves of exhaustion (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Daylight (3rd Level, CL 5th); 11,250 gp
+Emerald; 900 gp
+Sapphire; 1,000 gp
+Ruby, large; 5,500 gp
+8d6 × 100 gp: 2800 gp
+4d4 × 10 pp: 100 pp
+Ring of freedom of movement; 40,000 gp
+Eyes: Sniper goggles, greater; 50,000 gp
+Potion of Nondetection (3rd Level, CL 5th); 800 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Scroll of Soul bind (divine, 9th Level, CL 17th); 3,825 gp
+Wand of Summon monster II (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 1,000 gp
+Sapphire; 1,200 gp
+Sapphire, star; 5,500 gp
+8d6 × 100 gp: 3000 gp
+4d4 × 10 pp: 160 pp
+Ring of delayed doom; 45,000 gp
+Body: Gunman’s duster; 36,000 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+Potion of Flame arrow (3rd Level, CL 5th); 750 gp
+Scroll of Create demiplane, greater (divine, 9th Level, CL 17th); 3,825 gp
+Wand of Prayer (3rd Level, CL 5th); 11,250 gp
+Sapphire; 1,000 gp
+Emerald; 1,000 gp
+Emerald, brilliant green; 5,500 gp
+8d6 × 100 gp: 2400 gp
+4d4 × 10 pp: 140 pp
+Ring of delayed doom; 45,000 gp
+Feet: Boots of teleportation; 49,000 gp
+Potion of Cure serious wounds (3rd Level, CL 5th); 750 gp
+Potion of Water walk (3rd Level, CL 5th); 750 gp
+Potion of Keen edge (3rd Level, CL 5th); 750 gp
+Scroll of Temporal stasis (arcane, 8th Level, CL 15th); 8,000 gp
+Wand of Cat’s grace (2nd Level, CL 3rd); 4,500 gp
+Diamond, small; 1,100 gp
+Ruby, small; 900 gp
+Sapphire, star; 3,500 gp
+8d6 × 100 gp: 3000 gp
+4d4 × 10 pp: 80 pp
+Ring of protection +4; 32,000 gp
+Slotless: Cauldron of seeing; 42,000 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Potion of Stone shape (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, electricity (3rd Level, CL 5th); 750 gp
+Scroll of Wail of the banshee (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Animal aspect, greater (3rd Level, CL 5th); 11,250 gp
+Emerald; 900 gp
+Emerald; 900 gp
+Sapphire, star; 5,500 gp
+8d6 × 100 gp: 3000 gp
+4d4 × 10 pp: 90 pp
+Ring of the ecclesiarch; 28,500 gp
+Slotless: Cauldron of seeing; 42,000 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Scroll of Control weather (divine, 7th Level, CL 13th); 2,275 gp
+Wand of Call lightning (3rd Level, CL 5th); 11,250 gp
+Emerald; 900 gp
+Diamond, small; 1,200 gp
+Diamond, large; 6,500 gp
+8d6 × 100 gp: 2500 gp
+4d4 × 10 pp: 90 pp
+Ring of the ecclesiarch; 28,500 gp
+Slotless: Golem manual (stone guardian); 44,000 gp
+Potion of Neutralize poison (3rd Level, CL 5th); 750 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Scroll of Sunburst (divine, 8th Level, CL 15th); 3,000 gp
+Wand of Minor image (2nd Level, CL 3rd); 4,500 gp
+Emerald; 900 gp
+Diamond, small; 900 gp
+Emerald, brilliant green; 5,000 gp
+8d6 × 100 gp: 2600 gp
+4d4 × 10 pp: 80 pp
+Ring of protection +4; 32,000 gp
+Slotless: Ioun stone (pale green prism); 30,000 gp
+Potion of Cure serious wounds (3rd Level, CL 5th); 750 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Scroll of Shapechange (divine, 9th Level, CL 17th); 3,825 gp
+Wand of Bear’s endurance (2nd Level, CL 3rd); 4,500 gp
+Emerald; 1,300 gp
+Emerald; 800 gp
+Diamond, large; 5,000 gp
+8d6 × 100 gp: 2900 gp
+4d4 × 10 pp: 130 pp
+Ring of energy resistance, greater; 44,000 gp
+Chest: Mantle of immortality; 50,000 gp
+Potion of Keen edge (3rd Level, CL 5th); 750 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, fire (3rd Level, CL 5th); 750 gp
+Scroll of Icy prison, mass (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Invisibility sphere (3rd Level, CL 5th); 11,250 gp
+Ruby, small; 1,200 gp
+Ruby, small; 1,200 gp
+Emerald, brilliant green; 6,000 gp
+5d10 sp: 28 sp
+1d4 gp: 3 gp
+Pearl, irregular freshwater; 10 gp
+Obsidian; 8 gp
+3d6 × 10 sp: 140 sp
+3d6 gp: 7 gp
+Shell; 10 gp
+Hematite; 9 gp
+Lapis lazuli; 11 gp
+Tourmaline; 100 gp
+Tourmaline; 100 gp
+Jade; 110 gp
+Tourmaline; 120 gp
+2d4 × 10 gp: 60 gp
+Quartz, milky, rose, or smoky; 55 gp
+Bloodstone; 50 gp
+Jade; 100 gp
+Topaz; 500 gp
+Pearl, black; 550 gp
+Pearl, black; 500 gp
+Aquamarine; 600 gp
+3d6 × 10 gp: 120 gp
+4d4 pp: 11 pp
+Garnet; 110 gp
+Tourmaline; 90 gp
+Pearl, saltwater; 120 gp
+Pearl, black; 600 gp
+3d6 × 10 gp: 130 gp
+4d4 pp: 10 pp
+Jet; 110 gp
+Garnet; 120 gp
+Coral; 70 gp
+Aquamarine; 500 gp
+3d6 × 10 gp: 160 gp
+4d4 pp: 10 pp
+Jade; 100 gp
+Chrysoberyl; 110 gp
+Amber; 110 gp
+Opal; 350 gp
+2d4 × 100 gp: 300 gp
+Pearl, black; 550 gp
+Topaz; 550 gp
+Sapphire; 800 gp
+2d4 × 100 gp: 400 gp
+Opal; 500 gp
+Opal; 550 gp
+Sapphire; 700 gp
+Ruby, large; 5,500 gp
+Emerald, brilliant green; 5,500 gp
+Ruby, large; 5,000 gp
+Ruby, large; 4,000 gp
+Ruby, large; 4,500 gp
+4d4 × 10 pp: 150 pp
+Jade; 110 gp
+Tourmaline; 100 gp
+Pearl, saltwater; 120 gp
+Pearl, saltwater; 70 gp
+Amethyst; 90 gp
+Garnet; 110 gp
+Jade; 100 gp
+Amethyst; 100 gp
+Tourmaline; 90 gp
+Pearl, saltwater; 110 gp
+Topaz; 450 gp
+Topaz; 550 gp
+Opal; 550 gp
+Topaz; 600 gp
+Sapphire; 1,200 gp
+Sapphire; 900 gp
+Diamond, small; 1,100 gp
+Emerald; 800 gp
+Sapphire; 1,200 gp
+Sapphire; 1,000 gp
+Emerald, brilliant green; 3,500 gp
+Ruby, large; 5,500 gp
+Emerald, brilliant green; 5,500 gp
+Emerald, brilliant green; 5,000 gp
+Diamond, large; 5,000 gp
+Diamond, large; 6,000 gp
+Ruby, large; 6,000 gp
+Emerald, brilliant green; 5,000 gp
+4d4 × 10 pp: 80 pp
+Chrysoberyl; 120 gp
+Spinel, deep blue; 90 gp
+Jet; 100 gp
+Jade; 100 gp
+Spinel, deep blue; 70 gp
+Jade; 100 gp
+Jade; 70 gp
+Amethyst; 90 gp
+Jet; 110 gp
+Garnet; 110 gp
+Aquamarine; 600 gp
+Aquamarine; 500 gp
+Opal; 350 gp
+Pearl, black; 450 gp
+Diamond, small; 800 gp
+Ruby, small; 1,000 gp
+Diamond, small; 900 gp
+Sapphire; 800 gp
+Emerald; 1,100 gp
+Ruby, small; 700 gp
+Ruby, large; 4,500 gp
+Sapphire, star; 3,500 gp
+Sapphire, star; 4,000 gp
+Ruby, large; 6,500 gp
+Diamond, large; 4,500 gp
+Emerald, brilliant green; 6,000 gp
+Diamond, large; 5,000 gp
+Emerald, brilliant green; 5,000 gp
+4d4 × 10 pp: 90 pp
+Chrysoberyl; 70 gp
+Jet; 80 gp
+Jade; 110 gp
+Amber; 110 gp
+Chrysoberyl; 110 gp
+Tourmaline; 80 gp
+Amber; 90 gp
+Pearl, saltwater; 100 gp
+Amber; 70 gp
+Pearl, saltwater; 100 gp
+Opal; 550 gp
+Topaz; 350 gp
+Opal; 500 gp
+Aquamarine; 500 gp
+Emerald; 800 gp
+Ruby, small; 900 gp
+Sapphire; 1,300 gp
+Emerald; 800 gp
+Sapphire; 1,300 gp
+Ruby, small; 1,300 gp
+Ruby, large; 4,500 gp
+Diamond, large; 6,000 gp
+Sapphire, star; 6,000 gp
+Ruby, large; 5,000 gp
+Diamond, large; 5,500 gp
+Diamond, large; 5,500 gp
+Ruby, large; 5,500 gp
+Emerald, brilliant green; 5,000 gp
+4d4 × 10 pp: 120 pp
+Amber; 110 gp
+Jet; 90 gp
+Amber; 90 gp
+Jet; 110 gp
+Amber; 90 gp
+Chrysoberyl; 100 gp
+Pearl, saltwater; 100 gp
+Coral; 100 gp
+Amber; 110 gp
+Pearl, saltwater; 90 gp
+Pearl, black; 500 gp
+Pearl, black; 400 gp
+Topaz; 450 gp
+Topaz; 550 gp
+Emerald; 1,000 gp
+Diamond, small; 900 gp
+Diamond, small; 1,000 gp
+Ruby, small; 900 gp
+Diamond, small; 1,200 gp
+Sapphire; 900 gp
+Sapphire, star; 5,000 gp
+Emerald, brilliant green; 4,500 gp
+Sapphire, star; 5,000 gp
+Diamond, large; 5,500 gp
+Ruby, large; 5,500 gp
+Diamond, large; 4,500 gp
+Diamond, large; 5,000 gp
+Diamond, large; 5,000 gp
+4d4 × 10 pp: 100 pp
+Pearl, saltwater; 90 gp
+Jet; 90 gp
+Amethyst; 90 gp
+Jet; 120 gp
+Tourmaline; 100 gp
+Chrysoberyl; 100 gp
+Garnet; 100 gp
+Amber; 70 gp
+Amethyst; 100 gp
+Pearl, saltwater; 100 gp
+Opal; 450 gp
+Pearl, black; 400 gp
+Topaz; 450 gp
+Aquamarine; 400 gp
+Diamond, small; 1,000 gp
+Emerald; 1,100 gp
+Emerald; 1,000 gp
+Sapphire; 1,000 gp
+Diamond, small; 800 gp
+Sapphire; 1,000 gp
+Sapphire, star; 5,500 gp
+Diamond, large; 5,000 gp
+Sapphire, star; 5,500 gp
+Ruby, large; 6,500 gp
+Diamond, large; 5,000 gp
+Ruby, large; 5,000 gp
+Sapphire, star; 5,000 gp
+Ruby, large; 4,500 gp
+Studded leather armor +1; 1,175 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+Glaive +1; 2,308 gp
+Battleaxe +1; 2,310 gp
+Battleaxe +1; 2,310 gp
+Chain shirt +2; 4,250 gp
+Heavy wooden shield +1; 1,157 gp
+Full plate +2; 5,650 gp
+Greatsword +1; 2,300 gp
+Javelin of lightning; 1,500 gp
+Halberd +1; 2,310 gp
+Buckler +1; 1,155 gp
+Shortbow +1; 2,330 gp
+Leather armor +1; 1,160 gp
+Light mace +1; 2,305 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+Heavy crossbow +1; 2,350 gp
+Mithral shirt; 1,100 gp
+Longsword +1; 2,315 gp
+Hide +1; 1,165 gp
+Searing arrow; 1,516 gp
+Breastplate +1; 1,350 gp
+Searing arrow; 1,516 gp
+Padded armor +1; 1,155 gp
+Quarterstaff +1; 2,300 gp
+Chain shirt +1; 1,250 gp
+Longsword +1; 2,315 gp
+Light wooden shield +2; 4,153 gp
+Longspear +1; 2,305 gp
+Heavy steel shield +2; 4,170 gp
+Scythe +1; 2,318 gp
+Dragonhide plate; 3,300 gp
+Greataxe +1; 2,320 gp
+Caster’s shield; 3,153 gp
+MW silver dagger; 322 gp
+Splint mail +2; 4,350 gp
+Lance +1; 2,310 gp
+Buckler +1; 1,155 gp
+Greatsword +1; 2,350 gp
+Full plate +2; 5,650 gp
+Greatsword +1; 2,350 gp
+Studded leather armor +2; 4,175 gp
+Greataxe +1; 2,320 gp
+Tower shield +1; 1,180 gp
+Heavy Crossbow +1; 2,300 gp
+Studded leather armor +2; 4,175 gp
+Greataxe +1; 2,320 gp
+Hide +2; 4,165 gp
+Warhammer +1; 2,312 gp
+Dagger +2; 8,302 gp
+Burrowing bullet, greater; 3,447 gp
+Halberd +2; 8,310 gp
+Greatsword +2; 8,300 gp
+Full plate +1; 2,650 gp
+Heavy Crossbow +1; 2,300 gp
+Breastplate +1; 1,350 gp
+Dagger +1/Frost; 8,302 gp
+Scale mail +1; 1,200 gp
+Light mace +2; 8,305 gp
+Breastplate +1; 1,350 gp
+Hushing arrow, greater; 1,047 gp
+Greatclub +1; 2,305 gp
+Chainmail +2; 4,300 gp
+Dagger +1; 2,302 gp
+Longsword +1; 2,315 gp
+Buckler +1; 1,155 gp
+Greatsword +1; 2,300 gp
+Battleaxe +1; 2,310 gp
+Heavy steel shield +1/Arrow catching; 4,170 gp
+Cold iron masterwork longsword; 330 gp
+Composite shortbow +1; 2,375 gp
+Scale mail +1/Benevolent; 3,200 gp
+Greatsword +1; 2,300 gp
+Studded leather armor +2; 4,175 gp
+Heavy Crossbow +1/Seeking; 8,300 gp
+Breastplate +2; 4,350 gp
+Morningstar +2; 8,308 gp
+Studded leather armor +1/Fortification (light); 4,175 gp
+Battleaxe +1/Flaming; 8,310 gp
+Light wooden shield +2; 4,153 gp
+Greataxe +1; 2,320 gp
+Full plate +1/Defiant; 5,650 gp
+Battleaxe +1; 2,310 gp
+Half-plate +1/Champion; 4,750 gp
+Greatsword +1; 2,300 gp
+Greataxe +1/Bane; 8,320 gp
+Greatclub +3; 18,305 gp
+Heavy mace +2; 8,312 gp
+Breastplate +2; 4,350 gp
+Light hammer +1/Shock; 8,301 gp
+Heavy wooden shield +1; 1,157 gp
+Adamantine dagger; 3,002 gp
+Chain shirt +1/Spell storing/Warding; 9,250 gp
+Club +1; 2,300 gp
+Scale mail +1/Rallying; 6,200 gp
+Dust bolt; 1,730 gp
+Leather armor +1/Rallying; 6,160 gp
+MW silver dagger; 322 gp
+Tower shield +1/Wyrmsbreath; 6,180 gp
+Dagger +1; 2,300 gp
+Soothsayer’s raiment; 10,300 gp
+Hushing arrow, greater; 1,047 gp
+Scale mail +3/Deathless; 16,200 gp
+Heavy crossbow +1; 2,350 gp
+Leather armor +1/Mirrored; 4,160 gp
+Morningstar +1; 2,308 gp
+Leather armor +2/Bolstering; 9,160 gp
+Halberd +1; 2,310 gp
+Light wooden shield +1/Arrow deflection; 9,153 gp
+Battleaxe +1; 2,310 gp
+Boneless leather; 12,160 gp
+Longspear +1; 2,305 gp
+Half-plate +3; 9,750 gp
+Shortspear +1; 2,301 gp
+Leather armor +1/Deathless; 4,160 gp
+Javelin of lightning; 1,500 gp
+Breastplate +2/Shadow; 7,900 gp
+Greatsword +1; 2,300 gp
+Chainmail +3; 9,300 gp
+Shuriken +1; 2,301 gp
+Leather armor +2/Creeping; 9,160 gp
+Greatsword +1; 2,350 gp
+Heavy steel shield +3; 9,170 gp
+Sleep arrow; 132 gp
+Full plate +2/Jousting; 9,400 gp
+Longsword +1; 2,315 gp
+Splint mail +2; 4,350 gp
+Light crossbow +1; 2,335 gp
+Studded leather armor +2; 4,175 gp
+Light mace +1; 2,305 gp
+Full plate +2/Bolstering; 10,650 gp
+Heavy flail +1; 2,315 gp
+Chainmail +1; 1,300 gp
+Greataxe +1/Unholy; 18,320 gp
+Scale mail +1/Defiant; 4,200 gp
+Assassin’s dagger; 10,302 gp
+Dragonhide plate; 3,300 gp
+Longsword +3/Called; 32,315 gp
+Breastplate +1; 1,350 gp
+Heavy crossbow +1/Holy; 18,350 gp
+Wyrmslayer’s shield; 20,170 gp
+Shortbow +1; 2,330 gp
+Adamantine battleaxe; 3,010 gp
+Chainmail +4/Defiant; 25,300 gp
+Dagger +1; 2,300 gp
+Spear +1/Throwing; 8,302 gp
+Half-plate +1; 1,750 gp
+Sparkwake starknife; 21,324 gp
+Banded mail +1; 1,400 gp
+Light crossbow +2/Flaming; 18,335 gp
+Full plate +4/Dastard; 26,650 gp
+Heavy mace +2; 8,312 gp
+Tower shield +1/Radiant; 8,680 gp
+Heavy crossbow +1; 2,350 gp
+Chain shirt +1/Delving; 11,250 gp
+Assassin’s dagger; 10,302 gp
+Breastplate +3; 9,350 gp
+Greataxe +2; 8,320 gp
+Padded armor +1; 1,155 gp
+Dagger +1/Spellstealing; 32,300 gp
+Studded leather armor +1; 1,175 gp
+Gauntlet +4/Throwing; 50,302 gp
+Full plate +1; 2,650 gp
+Dagger +4/Thundering; 50,300 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+Shortsword +2/Defiant; 32,310 gp
+Full plate +1; 2,650 gp
+Sword of life stealing; 25,715 gp
+Breastplate of command; 25,400 gp
+Longsword +2; 8,315 gp
+Heavy wooden shield +4/Ramming; 25,157 gp
+Warhammer +1/Called; 8,312 gp
+Giant-hide armor (ogre); 39,165 gp
+Composite shortbow +1/Frost; 8,375 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 4 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 6 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 7 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 2 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 80 sp
+2d4 gp: 4 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 8 gp
+Potion of Bless weapon (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 3 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 4 gp
+Potion of Protection from evil (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 5 gp
+Potion of Hold portal (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 7 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 5 gp
+Potion of Protection from evil (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 5 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 4 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 4 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 5 gp
+Potion of Hold portal (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 5 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 4 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 7 gp
+Potion of Magic stone (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 5 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 60 sp
+2d4 gp: 8 gp
+MW Shuriken; 301 gp
+Potion of Light (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 50 sp
+2d4 gp: 5 gp
+MW Sickle; 306 gp
+Potion of Touch of the sea (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 6 gp
+MW Sling; 300 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 4 gp
+MW Heavy Crossbow; 300 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 5 gp
+MW Greataxe; 320 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 70 sp
+2d4 gp: 5 gp
+MW Longspear; 305 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+2d4 × 10 sp: 30 sp
+2d4 gp: 5 gp
+MW Sling; 300 gp
+Potion of Resistance (0 Level, CL 1st); 25 gp
+2d4 × 10 sp: 40 sp
+2d4 gp: 2 gp
+MW Rapier; 320 gp
+Potion of Protection from evil (1st Level, CL 1st); 50 gp
+MW Rapier; 320 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+MW Bastard sword; 335 gp
+Potion of Protection from evil (1st Level, CL 1st); 50 gp
+MW Gauntlet; 302 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+MW Rapier; 320 gp
+Potion of Ablative barrier (2nd Level, CL 3rd); 300 gp
+MW Longsword; 315 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+MW Rapier; 320 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+6d6 gp: 18 gp
+MW Light flail; 308 gp
+Potion of Vanish (1st Level, CL 1st); 50 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+6d6 gp: 27 gp
+MW Sai; 301 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+6d6 gp: 16 gp
+MW Rapier; 320 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+6d6 gp: 22 gp
+MW Dagger; 302 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+6d6 gp: 19 gp
+MW Dagger; 300 gp
+Potion of Reduce person (1st Level, CL 1st); 50 gp
+Potion of Magic stone (1st Level, CL 1st); 50 gp
+6d6 gp: 22 gp
+MW Sling; 300 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+6d6 gp: 22 gp
+MW Warhammer; 312 gp
+Potion of Feather step (1st Level, CL 1st); 50 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+MW Club; 300 gp
+Potion of Pass without trace (1st Level, CL 1st); 50 gp
+MW Shuriken; 301 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+MW Sap; 301 gp
+Potion of Cat’s grace (2nd Level, CL 3rd); 300 gp
+MW Dagger; 302 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+MW Shortbow; 330 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Chain shirt +1; 1,250 gp
+MW Composite shortbow; 375 gp
+Potion of Acute senses (2nd Level, CL 3rd); 300 gp
+Potion of Spider climb (2nd Level, CL 3rd); 300 gp
+Light wooden shield +1; 1,153 gp
+MW Dagger; 300 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Full Plate +1; 1,150 gp
+MW Greatsword; 300 gp
+Potion of Cat’s grace (2nd Level, CL 3rd); 300 gp
+Potion of Delay poison (2nd Level, CL 3rd); 300 gp
+Full Plate +1; 1,150 gp
+MW Shortspear; 301 gp
+Potion of Cat’s grace (2nd Level, CL 3rd); 300 gp
+Potion of Cloak of the shade (1st Level, CL 1st); 50 gp
+Banded mail +1; 1,400 gp
+MW Longspear; 305 gp
+Potion of Animate rope (1st Level, CL 1st); 50 gp
+Potion of Erase (1st Level, CL 1st); 50 gp
+Leather armor +1; 1,160 gp
+MW Longsword; 315 gp
+Potion of Stabilize (0 Level, CL 1st); 25 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+Chainmail +1; 1,300 gp
+MW Heavy Crossbow; 300 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+MW Warhammer; 312 gp
+Potion of Resist energy, acid (2nd Level, CL 3rd); 300 gp
+Potion of Magic fang (1st Level, CL 1st); 50 gp
+Chain shirt +1; 1,250 gp
+MW Spear; 302 gp
+Potion of Ablative barrier (2nd Level, CL 3rd); 300 gp
+Potion of Bless weapon (1st Level, CL 1st); 50 gp
+Tower shield +1; 1,180 gp
+MW Morningstar; 308 gp
+Potion of Arcane mark (0 Level, CL 1st); 25 gp
+Potion of Spider climb (2nd Level, CL 3rd); 300 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+MW Light hammer; 301 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+Potion of Sanctify corpse (1st Level, CL 1st); 50 gp
+Mithral shirt; 1,100 gp
+MW Longsword; 315 gp
+Potion of Barkskin (2nd Level, CL 3rd); 300 gp
+Potion of Blur (2nd Level, CL 3rd); 300 gp
+Heavy wooden shield +1; 1,157 gp
+MW Shortbow; 330 gp
+Potion of Cloak of the shade (1st Level, CL 1st); 50 gp
+Potion of Magic weapon (1st Level, CL 1st); 50 gp
+Padded armor +1; 1,155 gp
+MW Quarterstaff; 300 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Potion of Protection from evil (1st Level, CL 1st); 50 gp
+Breastplate +1; 1,150 gp
+MW Light pick; 304 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Potion of Slipstream (2nd Level, CL 3rd); 300 gp
+Leather armor +1; 1,160 gp
+MW Greatsword; 300 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Potion of Keen senses (1st Level, CL 1st); 50 gp
+Longsword +1; 2,315 gp
+Potion of Align weapon (2nd Level, CL 3rd); 300 gp
+Screaming bolt; 267 gp
+Potion of Endure elements (1st Level, CL 1st); 50 gp
+Tangle bolt; 226 gp
+Potion of Delay poison (2nd Level, CL 3rd); 300 gp
+Mithral shirt; 1,100 gp
+MW Greatsword; 350 gp
+Shoulders: Cloak of elvenkind; 2,500 gp
+Potion of Invigorate (1st Level, CL 1st); 50 gp
+Chain shirt +1; 1,250 gp
+MW Greatsword; 300 gp
+Belts: Beneficial bandolier; 1,000 gp
+Potion of Resist energy, cold (2nd Level, CL 3rd); 300 gp
+Scale mail +1; 1,200 gp
+MW Warhammer; 312 gp
+Body: Robe of needles; 1,000 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+MW armor or nonmagical lesser minor armor made with special material; 0 gp
+MW Shortbow; 330 gp
+Body: Robe of bones; 2,400 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Chainmail +1; 1,300 gp
+MW Warhammer; 312 gp
+Slotless: Grave salt; 1,100 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Darkwood shield; 257 gp
+MW Morningstar; 308 gp
+Hands: Challenger’s gloves; 2,200 gp
+Potion of Corruption resistance (2nd Level, CL 3rd); 300 gp
+Half-plate +1; 1,750 gp
+MW Whip; 301 gp
+Belts: Belt of tumbling; 800 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+Leather armor +1; 1,160 gp
+MW Heavy crossbow; 350 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Virtue (0 Level, CL 1st); 25 gp
+Shortspear +1; 2,301 gp
+Slotless: Knight’s pennon (honor); 2,200 gp
+Potion of Sanctuary (1st Level, CL 1st); 50 gp
+Longsword +1; 2,315 gp
+Neck: Aegis of recovery; 1,500 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+Screaming bolt; 267 gp
+Head: Cap of human guise; 800 gp
+Potion of Protection from law (1st Level, CL 1st); 50 gp
+Shortsword +1; 2,310 gp
+Feet: Boots of the enduring march; 1,500 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Burrowing bullet, lesser; 1,722 gp
+Eyes: Goggles of minute seeing; 2,500 gp
+Potion of Keen senses (1st Level, CL 1st); 50 gp
+Shortbow +1; 2,330 gp
+Slotless: Bag of tricks (gray); 3,400 gp
+Potion of Mage armor (1st Level, CL 1st); 50 gp
+Sickle +1; 2,306 gp
+Chest: Endless bandolier; 1,500 gp
+Potion of Owl’s wisdom (2nd Level, CL 3rd); 300 gp
+Shortsword +1; 2,310 gp
+Slotless: Elemental gem; 2,250 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Shuriken +1; 2,301 gp
+Slotless: Scabbard of vigor; 1,800 gp
+Potion of Bullet shield (2nd Level, CL 3rd); 300 gp
+Heavy Crossbow +1; 2,300 gp
+Neck: Aegis of recovery; 1,500 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Battleaxe +1; 2,310 gp
+Headband: Dead man’s headband; 3,600 gp
+Potion of Shield of faith (1st Level, CL 1st); 50 gp
+Dagger +1; 2,302 gp
+Chest: Quick runner’s shirt; 1,000 gp
+Potion of Resist energy, electricity (2nd Level, CL 3rd); 300 gp
+Heavy crossbow +1; 2,350 gp
+Shoulders: Cloak of resistance +1; 1,000 gp
+Potion of Align weapon (2nd Level, CL 3rd); 300 gp
+Hushing arrow, greater; 1,047 gp
+Chest: Endless bandolier; 1,500 gp
+Potion of Remove sickness (1st Level, CL 1st); 50 gp
+Warhammer +1; 2,312 gp
+Feet: Boots of elvenkind; 2,500 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Quarterstaff +1; 2,300 gp
+Slotless: Bookmark of deception; 1,500 gp
+Potion of Delay poison (2nd Level, CL 3rd); 300 gp
+Longsword +1; 2,315 gp
+Slotless: Defoliant polish; 800 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+Scythe +1; 2,318 gp
+Slotless: Salve of slipperiness; 1,000 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Battleaxe +1; 2,310 gp
+Belts: Belt of tumbling; 800 gp
+Potion of Magic weapon (1st Level, CL 1st); 50 gp
+MW silver dagger; 322 gp
+Eyes: Goggles of minute seeing; 2,500 gp
+Potion of Shillelagh (1st Level, CL 1st); 50 gp
+Chain shirt +1; 1,250 gp
+Trident +1/Defending; 8,315 gp
+Potion of Ablative barrier (2nd Level, CL 3rd); 300 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Heavy steel shield +1; 1,170 gp
+Dagger +1/Corrosive; 8,300 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Banded mail +1; 1,400 gp
+Slaying arrow, greater; 4,057 gp
+Potion of Status (2nd Level, CL 3rd); 300 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+Scroll of Jump (arcane, 1st Level, CL 1st); 25 gp
+Scroll of resist energy (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Light (divine, 0 Level, CL 1st); 12.50 gp
+Scroll of acid arrow (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of touch of idiocy (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of invisibility (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of magic mouth (arcane, 2nd Level, CL 3rd); 160 gp
+Scroll of Shocking grasp (arcane, 1st Level, CL 1st); 25 gp
+Scroll of whispering wind (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Restoration, lesser (divine, 2nd Level, CL 3rd); 150 gp
+Scroll of detect thoughts (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Sun metal (divine, 1st Level, CL 1st); 25 gp
+Scroll of Water breathing (divine, 3rd Level, CL 5th); 375 gp
+Scroll of fox’s cunning (arcane, 2nd Level, CL 3rd); 150 gp
+Head: Cap of human guise; 800 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Wand of Shield (1st Level, CL 1st); 750 gp
+Hands: Glowing glove; 2,000 gp
+Potion of Make whole (2nd Level, CL 3rd); 300 gp
+Wand of True strike (1st Level, CL 1st); 750 gp
+Body: Druid’s vestment; 3,750 gp
+Potion of Countless eyes (3rd Level, CL 5th); 750 gp
+Wand of Feather fall (1st Level, CL 1st); 750 gp
+Head: Stalker’s mask; 3,500 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Wand of Protection from law (1st Level, CL 1st); 750 gp
+Slotless: Salve of slipperiness; 1,000 gp
+Potion of Bless weapon (1st Level, CL 1st); 50 gp
+Wand of Protection from good (1st Level, CL 1st); 750 gp
+Slotless: Dowsing syrup; 1,000 gp
+Potion of Dispel magic (3rd Level, CL 5th); 750 gp
+Wand of Alarm (1st Level, CL 1st); 750 gp
+Slotless: Pipes of the sewers; 1,150 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Wand of Confusion, lesser (1st Level, CL 1st); 750 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Wand of Jump (1st Level, CL 1st); 750 gp
+Belts: Meridian belt; 1,000 gp
+Potion of Protection from energy, acid (3rd Level, CL 5th); 750 gp
+Wand of Cure light wounds (1st Level, CL 1st); 750 gp
+Slotless: Candle of truth; 2,500 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Wand of Summon monster I (1st Level, CL 1st); 750 gp
+Shoulders: Cloak of elvenkind; 2,500 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Wand of Magic missile (1st Level, CL 1st); 750 gp
+Eyes: Deathwatch eyes; 2,000 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Wand of Knock (2nd Level, CL 3rd); 4,500 gp
+Slotless: Bag of tricks (gray); 3,400 gp
+Potion of Protection from chaos (1st Level, CL 1st); 50 gp
+Wand of Entropic shield (1st Level, CL 1st); 750 gp
+Feet: Boots of the mire; 3,500 gp
+Potion of Fox’s cunning (2nd Level, CL 3rd); 300 gp
+Wand of Shield of faith (1st Level, CL 1st); 750 gp
+Neck: Aegis of recovery; 1,500 gp
+Potion of Magic fang, greater (3rd Level, CL 5th); 750 gp
+Wand of Detect snares and pits (1st Level, CL 1st); 750 gp
+Slotless: Beast-bond brand; 1,000 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+Wand of Feather fall (1st Level, CL 1st); 750 gp
+Feet: Boots of the mire; 3,500 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+Wand of Unseen servant (1st Level, CL 1st); 750 gp
+Hands: Gloves of reconnaissance; 2,000 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Wand of Protection from good (1st Level, CL 1st); 750 gp
+Slotless: Scabbard of honing; 500 gp
+Potion of Cure moderate wounds (2nd Level, CL 3rd); 300 gp
+Wand of Spiritual weapon (2nd Level, CL 3rd); 4,500 gp
+Slotless: Salve of slipperiness; 1,000 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+Wand of Detect thoughts (2nd Level, CL 3rd); 4,500 gp
+Ring of arcane signets; 1,000 gp
+Shoulders: Cloak of fangs; 2,800 gp
+Scroll of Water walk (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Ball lightning (arcane, 4th Level, CL 7th); 700 gp
+Ring of feather falling; 2,200 gp
+Shoulders: Cloak of human guise; 900 gp
+Scroll of Magic circle against good (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Cure serious wounds (divine, 3rd Level, CL 5th); 375 gp
+Ring of ferocious action; 3,000 gp
+Belts: Bladed belt; 2,000 gp
+Scroll of Cure serious wounds (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Beast shape I (arcane, 3rd Level, CL 5th); 375 gp
+Ring of protection +1; 2,000 gp
+Head: Cap of human guise; 800 gp
+Scroll of Beast shape I (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Magic circle against chaos (arcane, 3rd Level, CL 5th); 375 gp
+Ring: Dungeon ring, prisoner’s; 250 gp
+Feet: Boots of the winterlands; 2,500 gp
+Scroll of make whole (arcane, 2nd Level, CL 3rd); 150 gp
+Scroll of Divine power (divine, 4th Level, CL 7th); 700 gp
+Ring of sustenance; 2,500 gp
+Feet: Boots of the mire; 3,500 gp
+Potion of Levitate (2nd Level, CL 3rd); 300 gp
+Wand of Sleep (1st Level, CL 1st); 750 gp
+Ring of jumping; 2,500 gp
+Slotless: Dust of disappearance; 3,500 gp
+Potion of Shrink item (3rd Level, CL 5th); 750 gp
+Wand of Obscure object (1st Level, CL 1st); 750 gp
+Ring of jumping; 2,500 gp
+Belts: Bladed belt; 2,000 gp
+Potion of Magic fang, greater (3rd Level, CL 5th); 750 gp
+Wand of Magic missile (1st Level, CL 1st); 750 gp
+Potion of Corruption resistance (2nd Level, CL 3rd); 300 gp
+Potion of Cat’s grace (2nd Level, CL 3rd); 300 gp
+Scroll of Shield (arcane, 1st Level, CL 1st); 25 gp
+Wand of Sound burst (2nd Level, CL 3rd); 4,500 gp
+Potion of Good hope (3rd Level, CL 5th); 750 gp
+Potion of Keen edge (3rd Level, CL 5th); 750 gp
+Scroll of Bless (divine, 1st Level, CL 1st); 25 gp
+Wand of Spiritual weapon (2nd Level, CL 3rd); 4,500 gp
+Potion of Stone shape (3rd Level, CL 5th); 750 gp
+Potion of Eagle’s splendor (2nd Level, CL 3rd); 300 gp
+Scroll of Mage armor (arcane, 1st Level, CL 1st); 25 gp
+Wand of Summon nature’s ally II (2nd Level, CL 3rd); 4,500 gp
+Potion of Fox’s cunning (2nd Level, CL 3rd); 300 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Scroll of Light (arcane, 0 Level, CL 1st); 12.50 gp
+Wand of Invisibility (2nd Level, CL 3rd); 4,500 gp
+Potion of Make whole (2nd Level, CL 3rd); 300 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+Scroll of Forbid action (divine, 1st Level, CL 1st); 25 gp
+Wand of Spectral hand (2nd Level, CL 3rd); 4,500 gp
+Ring of feather falling; 2,200 gp
+Hands: Challenger’s gloves; 2,200 gp
+Wand of Scorching ray (2nd Level, CL 3rd); 4,500 gp
+Ring of the grasping grave; 2,000 gp
+Hands: Assisting gloves; 180 gp
+Wand of Blink (3rd Level, CL 5th); 11,250 gp
+Ring of spell knowledge I; 1,500 gp
+Wrists: Burglar’s bracers; 1,000 gp
+Wand of Scorching ray (2nd Level, CL 3rd); 4,500 gp
+Ring of climbing; 2,500 gp
+Slotless: Figurine of wondrous power (silver raven); 3,800 gp
+Wand of Animal aspect (2nd Level, CL 3rd); 4,500 gp
+Ring of feather falling; 2,200 gp
+Eyes of the owl; 4,000 gp
+Scroll of Teleport (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Aspect of the stag (divine, 4th Level, CL 7th); 700 gp
+Wand of Shield of faith (1st Level, CL 1st); 750 gp
+Wand of Mirror image (2nd Level, CL 3rd); 4,500 gp
+Ring of arcane signets; 1,000 gp
+Slotless: Page of spell knowledge (2nd); 4,000 gp
+Scroll of Order’s wrath (divine, 4th Level, CL 7th); 700 gp
+Scroll of Imbue with spell ability (divine, 4th Level, CL 7th); 700 gp
+Wand of Sleep (1st Level, CL 1st); 750 gp
+Wand of Magic aura (1st Level, CL 1st); 750 gp
+Ring of ferocious action; 3,000 gp
+Rod: Metamagic (+1 spell level), minor; 3,000 gp
+Wand of Owl’s wisdom (2nd Level, CL 3rd); 4,500 gp
+Ring of spell knowledge I; 1,500 gp
+Rod of metal and mineral detection; 10,500 gp
+Wand of Spiritual weapon (2nd Level, CL 3rd); 4,500 gp
+Ring of arcane signets; 1,000 gp
+Rod of metal and mineral detection; 10,500 gp
+Wand of Darkness (2nd Level, CL 3rd); 4,500 gp
+Ring of feather falling; 2,200 gp
+Rod: Metamagic (+2 spell level), minor; 9,000 gp
+Wand of Aspect of the bear (2nd Level, CL 3rd); 4,500 gp
+Ring of climbing; 2,500 gp
+Rod: Metamagic (+2 spell level), minor; 9,000 gp
+Wand of Major image (3rd Level, CL 5th); 11,250 gp
+Ring of feather falling; 2,200 gp
+Wand of See invisibility (2nd Level, CL 3rd); 4,500 gp
+Wand of Cure serious wounds (3rd Level, CL 5th); 11,250 gp
+Hands: Poisoner’s gloves; 5,000 gp
+Ring of swarming stabs; 6,000 gp
+Belts: Belt of physical perfection +2; 16,000 gp
+Body: Robe of blending; 8,400 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Scroll of Dispel magic (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Suffocation (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Stoneskin (divine, 5th Level, CL 9th); 1,375 gp
+Wand of Control water (4th Level, CL 7th); 21,000 gp
+Ring of spell knowledge II; 6,000 gp
+Necklace of adaptation; 9,000 gp
+Head: Veil of fleeting glances; 9,000 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Scroll of Break enchantment (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Snake staff (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Prayer (divine, 3rd Level, CL 5th); 375 gp
+Wand of Chaos hammer (4th Level, CL 7th); 21,000 gp
+Ring of swarming stabs; 6,000 gp
+Neck: Symbol of sanguine protection; 17,500 gp
+Eyes: Goggles of elvenkind; 8,500 gp
+Potion of Keen edge (3rd Level, CL 5th); 750 gp
+Scroll of Divination (divine, 4th Level, CL 7th); 725 gp
+Scroll of Symbol of pain (arcane, 5th Level, CL 9th); 2,125 gp
+Scroll of Darkvision, greater (arcane, 4th Level, CL 7th); 700 gp
+Wand of Daylight (3rd Level, CL 5th); 11,250 gp
+Ring of swarming stabs; 6,000 gp
+Hands: Gloves of shaping; 10,000 gp
+Slotless: Bag of holding (type IV); 10,000 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Scroll of Summon nature’s ally IV (divine, 4th Level, CL 7th); 700 gp
+Scroll of Protection from energy (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Phantasmal killer (arcane, 4th Level, CL 7th); 700 gp
+Wand of Dispel magic (3rd Level, CL 5th); 11,250 gp
+Ring of spell knowledge II; 6,000 gp
+Slotless: Exorcist’s aspergillum; 8,000 gp
+Slotless: Pearl of the sirines; 15,300 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+Scroll of Prayer (divine, 3rd Level, CL 5th); 375 gp
+Scroll of Discern lies (divine, 4th Level, CL 7th); 700 gp
+Scroll of Transmute rock to mud (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Rusting grasp (4th Level, CL 7th); 21,000 gp
+Ring of counterspells; 4,000 gp
+Headband: Veiled eye; 12,000 gp
+Neck: Frost fist amulet; 10,000 gp
+Potion of Haste (3rd Level, CL 5th); 750 gp
+Scroll of Invisibility sphere (arcane, 3rd Level, CL 5th); 375 gp
+Scroll of Symbol of pain (arcane, 5th Level, CL 9th); 2,125 gp
+Scroll of Confusion (arcane, 4th Level, CL 7th); 700 gp
+Wand of Hostile levitation (3rd Level, CL 5th); 11,250 gp
+Ring of rat fangs; 5,000 gp
+Slotless: Bag of holding (type IV); 10,000 gp
+Chest: Poisoner’s jacket, lesser; 12,000 gp
+Potion of Reduce animal (2nd Level, CL 3rd); 300 gp
+Scroll of Raise dead (divine, 5th Level, CL 9th); 6,125 gp
+Scroll of Overland flight (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Secure shelter (arcane, 4th Level, CL 7th); 700 gp
+Wand of Spike stones (4th Level, CL 7th); 21,000 gp
+Staff of understanding; 16,000 gp
+Rod of flame extinguishing; 15,000 gp
+Body: Xorn robe; 20,000 gp
+Potion of Aid (2nd Level, CL 3rd); 300 gp
+Scroll of Stoneskin (arcane, 4th Level, CL 7th); 950 gp
+Scroll of Wall of ice (arcane, 4th Level, CL 7th); 700 gp
+Wand of Animal aspect (2nd Level, CL 3rd); 4,500 gp
+Staff of the scout; 9,600 gp
+Rod of beguiling; 18,000 gp
+Wrists: Bracers of armor +5; 25,000 gp
+Potion of Jump (1st Level, CL 1st); 50 gp
+Scroll of Call lightning storm (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Call lightning storm (divine, 5th Level, CL 9th); 1,125 gp
+Wand of Glyph of warding (3rd Level, CL 5th); 21,250 gp
+Staff of accompaniment; 14,800 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Shoulders: Cloak of displacement, minor; 24,000 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+Scroll of Wind blades (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Dispel magic, greater (arcane, 6th Level, CL 11th); 1,650 gp
+Wand of Flaming sphere (2nd Level, CL 3rd); 4,500 gp
+Shortspear +1; 2,301 gp
+Staff of courage; 19,200 gp
+Shoulders: Cloak of resistance +5; 25,000 gp
+Scroll of Planar binding, greater (arcane, 8th Level, CL 15th); 3,000 gp
+Scroll of Bear’s endurance, mass (divine, 6th Level, CL 11th); 1,650 gp
+Scroll of Form of the dragon III (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Cure critical wounds (4th Level, CL 7th); 21,000 gp
+Bolas +1; 2,305 gp
+Staff of size alteration; 26,150 gp
+Wrists: Bracers of archery, greater; 25,000 gp
+Scroll of Demand (arcane, 8th Level, CL 15th); 3,000 gp
+Scroll of Prismatic sphere (arcane, 9th Level, CL 17th); 3,825 gp
+Scroll of Antipathy (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Heroism (3rd Level, CL 5th); 11,250 gp
+Ring of energy resistance, greater; 44,000 gp
+Rod of beguiling; 18,000 gp
+Staff: Unholy staff; 29,600 gp
+Scroll of Overland flight (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Gust of wind (2nd Level, CL 3rd); 4,500 gp
+Ring of energy resistance, greater; 44,000 gp
+Rod of the wayang; 12,000 gp
+Staff: Holy staff; 29,600 gp
+Scroll of Fear (arcane, 4th Level, CL 7th); 700 gp
+Wand of Sound burst (2nd Level, CL 3rd); 4,500 gp
+Ring of protection +4; 32,000 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Staff of the master; 30,000 gp
+Scroll of True seeing (arcane, 6th Level, CL 11th); 1,900 gp
+Wand of Enlarge person, mass (4th Level, CL 7th); 21,000 gp
+Ring of protection +4; 32,000 gp
+Rod of wonder; 12,000 gp
+Staff: Animate staff; 49,800 gp
+Scroll of Fabricate (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Animal aspect, greater (3rd Level, CL 5th); 11,250 gp
+Ring of wizardry II; 40,000 gp
+Rod of ruin; 16,000 gp
+Staff of healing; 29,600 gp
+Scroll of Unhallow1 (divine, 5th Level, CL 9th); 2,125 gp
+Wand of Displacement (3rd Level, CL 5th); 11,250 gp
+Ring of energy resistance, greater; 44,000 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Staff of acid; 28,600 gp
+Scroll of Passwall (arcane, 5th Level, CL 9th); 1,125 gp
+Wand of Obsidian flow (4th Level, CL 7th); 21,000 gp
+Ring of the ecclesiarch; 28,500 gp
+Rod of the wayang; 12,000 gp
+Staff: Heretic’s bane; 32,000 gp
+Scroll of Wandering star motes (arcane, 4th Level, CL 7th); 700 gp
+Wand of Protection from energy (3rd Level, CL 5th); 11,250 gp
+Ring of freedom of movement; 40,000 gp
+Rod: Metamagic (+3 spell level), minor; 14,000 gp
+Staff of shrieking; 28,800 gp
+Scroll of Dispel magic, greater (arcane, 6th Level, CL 11th); 1,650 gp
+Wand of Imbue with spell ability (4th Level, CL 7th); 21,000 gp
+4d4 × 100 cp: 1200 cp
+3d6 × 10 sp: 110 sp
+2d4 × 10 gp: 40 gp
+MW Rapier; 320 gp
+Potion of Cure light wounds (1st Level, CL 1st); 50 gp
+Scroll of Frostbite (divine, 1st Level, CL 1st); 25 gp
+Sard; 50 gp
+2d4 × 100 cp: 500 cp
+2d6 × 100 sp: 600 sp
+6d6 gp: 18 gp
+Potion of Darkvision (2nd Level, CL 3rd); 300 gp
+Scroll of Barkskin (divine, 2nd Level, CL 3rd); 150 gp
+Wand of Stone fist (1st Level, CL 1st); 750 gp
+Azurite; 10 gp
+Turquoise; 10 gp
+Tigereye; 10 gp
+2d4 × 100 cp: 300 cp
+2d6 × 100 sp: 1100 sp
+6d6 gp: 29 gp
+Potion of Purify food and drink (0 Level, CL 1st); 25 gp
+Scroll of bull’s strength (arcane, 2nd Level, CL 3rd); 150 gp
+Wand of Cause fear (1st Level, CL 1st); 750 gp
+Turquoise; 10 gp
+Pearl, irregular freshwater; 10 gp
+Rhodochrosite; 10 gp
+2d4 × 10 gp: 60 gp
+4d6 pp: 9 pp
+MW Shortbow; 330 gp
+Ring of protection +1; 2,000 gp
+Potion of Draconic reservoir (3rd Level, CL 5th); 750 gp
+Scroll of Symbol of healing (divine, 3rd Level, CL 5th); 875 gp
+Wand of Spectral hand (2nd Level, CL 3rd); 4,500 gp
+2d4 × 10 gp: 50 gp
+4d6 pp: 13 pp
+MW Shortsword; 310 gp
+Ring of protection +1; 2,000 gp
+Potion of Invisibility (2nd Level, CL 3rd); 300 gp
+Scroll of Restoration (divine, 4th Level, CL 7th); 1,700 gp
+Wand of Shield (1st Level, CL 1st); 750 gp
+4d4 × 10 gp: 140 gp
+6d6 pp: 13 pp
+Tracer bullet; 100 gp
+Headband: Dead man’s headband; 3,600 gp
+Potion of Certain grip (2nd Level, CL 3rd); 300 gp
+Potion of Enlarge person (1st Level, CL 1st); 50 gp
+Wand of Sleep (1st Level, CL 1st); 750 gp
+Coral; 110 gp
+Jade; 100 gp
+4d4 × 10 gp: 120 gp
+6d6 pp: 21 pp
+Club +1; 2,300 gp
+Headband: Dead man’s headband; 3,600 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Potion of Fox’s cunning (2nd Level, CL 3rd); 300 gp
+Wand of Charm animal (1st Level, CL 1st); 750 gp
+Amethyst; 100 gp
+Garnet; 110 gp
+4d4 × 10 gp: 110 gp
+6d6 pp: 26 pp
+Greatsword +1; 2,350 gp
+Slotless: Chime of opening; 3,000 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Wand of Longstrider (1st Level, CL 1st); 750 gp
+Amethyst; 90 gp
+Amethyst; 110 gp
+4d8 × 10 gp: 120 gp
+6d10 pp: 33 pp
+Light steel shield +2; 4,159 gp
+Ring of climbing; 2,500 gp
+Head: Hat of disguise; 1,800 gp
+Scroll of Inflict critical wounds (divine, 4th Level, CL 7th); 700 gp
+Wand of Calm animals (1st Level, CL 1st); 750 gp
+Pearl, black; 350 gp
+4d8 × 10 gp: 170 gp
+6d10 pp: 36 pp
+Heavy steel shield +2; 4,170 gp
+Ring of arcane signets; 1,000 gp
+Wrists: Sleeves of many garments; 200 gp
+Scroll of Magic circle against evil (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Summon monster I (1st Level, CL 1st); 750 gp
+Opal; 350 gp
+4d4 × 10 gp: 90 gp
+4d4 × 10 pp: 110 pp
+Mistmail; 2,250 gp
+Wrists: Bracers of armor +1; 1,000 gp
+Potion of Nondetection (3rd Level, CL 5th); 800 gp
+Potion of Cat’s grace (2nd Level, CL 3rd); 300 gp
+Scroll of Waves of fatigue (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Displacement (arcane, 3rd Level, CL 5th); 375 gp
+Wand of Status (2nd Level, CL 3rd); 4,500 gp
+Chrysoberyl; 110 gp
+4d4 × 10 gp: 90 gp
+4d4 × 10 pp: 50 pp
+Full Plate +1/Poison-resistant; 3,400 gp
+Eyes: Pirate’s eye patch; 2,600 gp
+Potion of Aid (2nd Level, CL 3rd); 300 gp
+Potion of Bull’s strength (2nd Level, CL 3rd); 300 gp
+Scroll of Hostile juxtaposition (arcane, 5th Level, CL 9th); 1,125 gp
+Scroll of Flame strike (divine, 4th Level, CL 7th); 700 gp
+Wand of Summon nature’s ally II (2nd Level, CL 3rd); 4,500 gp
+Tourmaline; 120 gp
+2d4 × 10 pp: 20 pp
+Ring of maniacal devices; 5,000 gp
+Head: Cap of light; 900 gp
+Headband: Phylactery of faithfulness; 1,000 gp
+Potion of Water walk (3rd Level, CL 5th); 750 gp
+Potion of Gentle repose (2nd Level, CL 3rd); 300 gp
+Scroll of Breath of life (divine, 5th Level, CL 9th); 1,125 gp
+Scroll of Dimension door (arcane, 4th Level, CL 7th); 700 gp
+Wand of Find traps (2nd Level, CL 3rd); 4,500 gp
+6d6 × 10 gp: 170 gp
+2d4 × 10 pp: 70 pp
+Longsword +1/Spell storing; 8,315 gp
+Hands: Gauntlet of rust; 11,500 gp
+Wand of Glibness (3rd Level, CL 5th); 15,750 gp
+Spinel, deep blue; 90 gp
+Jet; 130 gp
+Coral; 120 gp
+6d6 × 10 gp: 200 gp
+2d4 × 10 pp: 50 pp
+Dart +1/Thundering; 8,305 gp
+Wrists: Charm bracelet; 8,000 gp
+Wand of Create food and water (3rd Level, CL 5th); 11,250 gp
+Spinel, deep blue; 110 gp
+Tourmaline; 130 gp
+Jet; 100 gp
+6d6 × 10 gp: 200 gp
+2d4 × 10 pp: 40 pp
+Halberd +1; 2,310 gp
+Neck: Amulet of bullet protection +3; 13,500 gp
+Wand of Blur (2nd Level, CL 3rd); 4,500 gp
+Jet; 110 gp
+Pearl, saltwater; 130 gp
+Jade; 90 gp
+4d4 × 10 gp: 80 gp
+4d4 × 10 pp: 110 pp
+Ring: Decoy ring; 12,000 gp
+Rod of cancellation; 11,000 gp
+Potion of Remove disease (3rd Level, CL 5th); 750 gp
+Potion of Stone shape (3rd Level, CL 5th); 750 gp
+Scroll of Mislead (arcane, 6th Level, CL 11th); 1,650 gp
+Scroll of Giant form I (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Wall of fire (4th Level, CL 7th); 21,000 gp
+4d4 × 10 pp: 50 pp
+Studded Leather +3/Fortification (light); 16,150 gp
+Staff of the scout; 9,600 gp
+Feet: Earth root boots; 8,000 gp
+Scroll of Refuge (arcane, 9th Level, CL 17th); 4,325 gp
+Wand of Cure moderate wounds (2nd Level, CL 3rd); 4,500 gp
+Emerald; 800 gp
+4d4 × 10 pp: 120 pp
+Studded leather armor +2/Balanced; 9,175 gp
+Staff of charming; 17,600 gp
+Shoulders: Prestidigitator’s cloak; 17,200 gp
+Scroll of Summon nature’s ally IX (divine, 9th Level, CL 17th); 3,825 gp
+Wand of Vampiric touch (3rd Level, CL 5th); 11,250 gp
+Sapphire; 1,000 gp
+4d4 × 10 pp: 110 pp
+Heavy wooden shield +3; 9,157 gp
+Staff of charming; 17,600 gp
+Head: Medusa mask; 10,000 gp
+Scroll of Cure moderate wounds, mass (divine, 6th Level, CL 11th); 1,650 gp
+Wand of Cure serious wounds (3rd Level, CL 5th); 11,250 gp
+Emerald; 900 gp
+8d6 × 100 gp: 3000 gp
+4d4 × 10 pp: 100 pp
+Ring of protection +4; 32,000 gp
+Shoulders: Charlatan’s cape; 45,000 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, fire (3rd Level, CL 5th); 750 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Scroll of Firebrand (arcane, 7th Level, CL 13th); 2,275 gp
+Wand of Spiritual weapon (2nd Level, CL 3rd); 4,500 gp
+Diamond, small; 1,000 gp
+Ruby, small; 1,100 gp
+Sapphire, star; 6,500 gp
+8d6 × 100 gp: 3300 gp
+4d4 × 10 pp: 110 pp
+Ring of energy resistance, greater; 44,000 gp
+Slotless: Cauldron of flying; 40,000 gp
+Potion of Gentle repose (2nd Level, CL 3rd); 300 gp
+Potion of Cure serious wounds (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, sonic (3rd Level, CL 5th); 750 gp
+Scroll of Antimagic field (divine, 8th Level, CL 15th); 3,000 gp
+Wand of Summon nature’s ally II (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 900 gp
+Sapphire; 1,000 gp
+Sapphire, star; 4,000 gp
+8d6 × 100 gp: 2600 gp
+4d4 × 10 pp: 130 pp
+Ring of protection +4; 32,000 gp
+Body: Gunman’s duster; 36,000 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, sonic (3rd Level, CL 5th); 750 gp
+Potion of Daylight (3rd Level, CL 5th); 750 gp
+Scroll of Crushing hand (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Fog cloud (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 1,000 gp
+Sapphire; 800 gp
+Sapphire, star; 5,000 gp
+8d6 × 100 gp: 2900 gp
+4d4 × 10 pp: 100 pp
+Ring of freedom of movement; 40,000 gp
+Chest: Mantle of immortality; 50,000 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Shrink item (3rd Level, CL 5th); 750 gp
+Scroll of Cure serious wounds, mass (divine, 7th Level, CL 13th); 2,275 gp
+Wand of Eagle’s splendor (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 1,000 gp
+Sapphire; 1,000 gp
+Diamond, large; 5,000 gp
+8d6 × 100 gp: 2700 gp
+4d4 × 10 pp: 80 pp
+Ring of return; 33,600 gp
+Slotless: Drums of panic; 30,000 gp
+Potion of Water breathing (3rd Level, CL 5th); 750 gp
+Potion of Nondetection (3rd Level, CL 5th); 800 gp
+Potion of Gaseous form (3rd Level, CL 5th); 750 gp
+Scroll of Hold monster, mass (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Flaming sphere (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 1,100 gp
+Emerald; 1,100 gp
+Emerald, brilliant green; 4,500 gp
+8d6 × 100 gp: 3200 gp
+4d4 × 10 pp: 110 pp
+Ring of wizardry II; 40,000 gp
+Hands: Gauntlet of rust, greater; 34,500 gp
+Potion of Nondetection (3rd Level, CL 5th); 800 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, fire (3rd Level, CL 5th); 750 gp
+Scroll of Finger of death (divine, 8th Level, CL 15th); 3,000 gp
+Wand of Owl’s wisdom (2nd Level, CL 3rd); 4,500 gp
+Emerald; 1,100 gp
+Sapphire; 900 gp
+Sapphire, star; 4,500 gp
+8d6 × 100 gp: 3400 gp
+4d4 × 10 pp: 80 pp
+Ring of energy resistance, major; 28,000 gp
+Wrists: Bracers of armor +6; 36,000 gp
+Potion of Displacement (3rd Level, CL 5th); 750 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Potion of Fly (3rd Level, CL 5th); 750 gp
+Scroll of Freedom (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Scorching ray (2nd Level, CL 3rd); 4,500 gp
+Emerald; 900 gp
+Diamond, small; 700 gp
+Sapphire, star; 5,500 gp
+8d6 × 100 gp: 3200 gp
+4d4 × 10 pp: 110 pp
+Ring of freedom of movement; 40,000 gp
+Slotless: Racing broom of flying; 30,000 gp
+Potion of Burrow (3rd Level, CL 5th); 750 gp
+Potion of Barkskin (2nd Level, CL 3rd); 300 gp
+Potion of Burrow (3rd Level, CL 5th); 750 gp
+Scroll of Frightful aspect (arcane, 8th Level, CL 15th); 3,000 gp
+Wand of Cat’s grace (2nd Level, CL 3rd); 4,500 gp
+Ruby, small; 800 gp
+Ruby, small; 1,000 gp
+Emerald, brilliant green; 5,500 gp
+8d6 × 100 gp: 3600 gp
+4d4 × 10 pp: 90 pp
+Ring of energy resistance, greater; 44,000 gp
+Shoulders: Juggernaut’s pauldrons; 40,000 gp
+Potion of Protection from energy, cold (3rd Level, CL 5th); 750 gp
+Potion of Burrow (3rd Level, CL 5th); 750 gp
+Potion of Shrink item (3rd Level, CL 5th); 750 gp
+Scroll of Regenerate (divine, 7th Level, CL 13th); 2,275 gp
+Wand of Fox’s cunning (2nd Level, CL 3rd); 4,500 gp
+Sapphire; 900 gp
+Sapphire; 1,000 gp
+Ruby, large; 6,000 gp
+8d6 × 100 gp: 2900 gp
+4d4 × 10 pp: 70 pp
+Ring of freedom of movement; 40,000 gp
+Slotless: Golem manual (iron); 35,000 gp
+Potion of Countless eyes (3rd Level, CL 5th); 750 gp
+Potion of Protection from energy, acid (3rd Level, CL 5th); 750 gp
+Potion of Tongues (3rd Level, CL 5th); 750 gp
+Scroll of Dominate monster (arcane, 9th Level, CL 17th); 3,825 gp
+Wand of Displacement (3rd Level, CL 5th); 11,250 gp
+Diamond, small; 1,000 gp
+Emerald; 900 gp
+Diamond, large; 6,000 gp

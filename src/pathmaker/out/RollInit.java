@@ -1,5 +1,10 @@
 package pathmaker.out;
 
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.List;
+
 import javax.swing.JOptionPane;
 
 import dice.Die;
@@ -7,29 +12,34 @@ import dice.NamedDie;
 
 public class RollInit 
 {
-	Die d1 = createCustomDie();
+	Die d1 = Helpers.createUnnamedCustomDie();
 	
 	public static void main(String [] args)
 	{
-		int players = 0;
+		List<String> playerNames = null;
+
 		
 		try
-		{
-		players = new Integer(JOptionPane.showInputDialog(null, "Number of Players:"));
-		}
-		catch (NumberFormatException e)
-		{
-			return;
-		}
+	      {
+	         // players = Helpers.getInteger("Number of Players");
+	         playerNames = Files.readAllLines(Paths.get("resources\\player_list.txt"), StandardCharsets.UTF_8);
+	      }
+	      catch (Exception e)
+	      {
+	         e.printStackTrace();
+	         System.out.println("Did not read lines from resources/player_list.txt");
+	         return;
+	      }
 		
+		int players = playerNames.size();
 		NamedDie [] dice = new NamedDie[players];
-		StringBuilder initString = new StringBuilder();
-		
+
 		for (int i = 0; i < players; i++)
 		{
-			dice[i] = createCustomDie();
+			dice[i] = Helpers.createNamedCustomD20(playerNames.get(i));
 		}
 		
+		StringBuilder initString = new StringBuilder();
 		int reroll = 0;
 		while (reroll == 0)
 		{
@@ -43,41 +53,4 @@ public class RollInit
 			reroll = JOptionPane.showConfirmDialog(null, "Rolling initiative: \n" + initString.toString(), "Roll again?", JOptionPane.YES_NO_OPTION);
 		}
 	}
-
-
-	private static NamedDie createCustomDie() 
-	{
-//		String sides = JOptionPane.showInputDialog(null, "Number of sides: ");
-//		while (!isNumber(sides))
-//		{
-//			sides = JOptionPane.showInputDialog(null, "Must be an integer! Number of sides: ");
-//		}
-		
-		String modifier = JOptionPane.showInputDialog(null, "Modifier: ");
-		while (!isNumber(modifier))
-		{
-			modifier = JOptionPane.showInputDialog(null, "Must be an integer! Modifier: ");
-		}
-		
-		NamedDie retDie = new NamedDie(20);
-		retDie.setModifier(Integer.parseInt(modifier));
-		return retDie;
-	}
-
-	private static boolean isNumber(String num) 
-	{
-		try
-		{
-			Integer.parseInt(num);
-			return true;
-		}
-		
-		catch (NumberFormatException e)
-		{
-			return false;
-		}
-	}
-
-
-
 }
