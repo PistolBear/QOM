@@ -1,7 +1,7 @@
 package characterClasses;
 
 
-public class AdvancedClass extends BaseClass 
+public class AdvancedClass extends BaseClass implements IBaseClass 
 {
 	AdvancedClass(BaseClass base)
 	{
@@ -10,5 +10,11 @@ public class AdvancedClass extends BaseClass
 		REF = base.REF;
 		WILL = base.WILL;
 	}
+
+   @Override
+   public void setClassFeatures()
+   {
+      m_classFeatures = "None";
+   }
 
 }
