@@ -1,6 +1,4 @@
-package characterClasses;
-
-import java.util.logging.Logger;
+package global;
 
 
 /**
