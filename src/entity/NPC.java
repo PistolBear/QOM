@@ -7,6 +7,7 @@ import characterClasses.BaseClass;
 import characterClasses.FighterClass;
 import characterClasses.IBaseClass;
 import characterRaces.Race;
+import characterRaces.RaceNames;
 
 public class NPC
 {
@@ -15,6 +16,7 @@ public class NPC
    LinkedList <IBaseClass> m_classes = null;
    Race m_race = null;
    
+   @SuppressWarnings("unused")
    private NPC() {};
 
    public NPC(String name, String firstClass)
@@ -127,5 +129,11 @@ public class NPC
          addLevelInClass(classToAdd);
       }
    }
+
+	public void setRace(RaceNames name) 
+	{
+		m_race = new Race(name);
+		
+	}
 
 }

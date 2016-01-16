@@ -1,5 +1,8 @@
 package characterClasses;
 
+import global.Skill;
+import global.SkillName;
+
 import java.util.List;
 
 final public class SkillFactory extends Skill

@@ -1,4 +1,4 @@
-package characterClasses;
+package global;
 
 /**
  * Used for having a uniform progression of something

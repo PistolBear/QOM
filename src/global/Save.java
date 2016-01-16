@@ -1,4 +1,4 @@
-package characterClasses;
+package global;
 
 public class Save implements Progresses
 {

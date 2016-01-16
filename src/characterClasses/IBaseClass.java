@@ -1,5 +1,7 @@
 package characterClasses;
 
+import global.SkillName;
+
 public interface IBaseClass
 {
 

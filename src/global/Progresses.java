@@ -1,4 +1,4 @@
-package characterClasses;
+package global;
 
 /**
  * Represents a multiplier that has a specific progression speed.

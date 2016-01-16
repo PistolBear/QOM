@@ -1,5 +1,7 @@
 package characterClasses;
 
+import global.ProgressionSpeed;
+
 public class FighterClass extends BaseClass
 {
 
@@ -29,14 +31,14 @@ public class FighterClass extends BaseClass
                + "A fighter is proficient with all simple and martial weapons and with all armor (heavy, light, and medium) and shields (including tower shields).\n\n"
 
                + "Bonus Feats\n"
-               + "At 1st level, and at every even level thereafter, a fighter gains a bonus feat in addition to those gained from normal advancement (meaning that the fighter gains a feat at every level). These bonus feats must be selected from those listed as Combat Feats, sometimes also called “fighter bonus feats.”\n"
+               + "At 1st level, and at every even level thereafter, a fighter gains a bonus feat in addition to those gained from normal advancement (meaning that the fighter gains a feat at every level). These bonus feats must be selected from those listed as Combat Feats, sometimes also called ï¿½fighter bonus feats.ï¿½\n"
                + "Upon reaching 4th level, and every four levels thereafter (8th, 12th, and so on), a fighter can choose to learn a new bonus feat in place of a bonus feat he has already learned. In effect, the fighter loses the bonus feat in exchange for the new one. The old feat cannot be one that was used as a prerequisite for another feat, prestige class, or other ability. A fighter can only change one feat at any given level and must choose whether or not to swap the feat at the time he gains a new bonus feat for the level.\n\n"
 
                + "Bravery (Ex)\n"
                + "Starting at 2nd level, a fighter gains a +1 bonus on Will saves against fear. This bonus increases by +1 for every four levels beyond 2nd.\n\n"
 
                + "Armor Training (Ex)\n"
-               + "Starting at 3rd level, a fighter learns to be more maneuverable while wearing armor. Whenever he is wearing armor, he reduces the armor check penalty by 1 (to a minimum of 0) and increases the maximum Dexterity bonus allowed by his armor by 1. Every four levels thereafter (7th, 11th, and 15th), these bonuses increase by +1 each time, to a maximum –4 reduction of the armor check penalty and a +4 increase of the maximum Dexterity bonus allowed.\n"
+               + "Starting at 3rd level, a fighter learns to be more maneuverable while wearing armor. Whenever he is wearing armor, he reduces the armor check penalty by 1 (to a minimum of 0) and increases the maximum Dexterity bonus allowed by his armor by 1. Every four levels thereafter (7th, 11th, and 15th), these bonuses increase by +1 each time, to a maximum ï¿½4 reduction of the armor check penalty and a +4 increase of the maximum Dexterity bonus allowed.\n"
                + "In addition, a fighter can also move at his normal speed while wearing medium armor. At 7th level, a fighter can move at his normal speed while wearing heavy armor.\n\n"
 
                + "Weapon Training (Ex)\n"
@@ -64,10 +66,10 @@ public class FighterClass extends BaseClass
                + "Thrown: aklys, amentum, atlatl, blowgun, bolas, boomerang, brutal bolas, chakram, club, dagger, dart, deer horn knife, halfling sling staff, harpoon, hunga munga, javelin, lasso, kestros, light hammer, net, poisoned sand tube, rope dart, shortspear, shuriken, sibat, sling, sling glove, spear, starknife, throwing axe, throwing shield, trident, and wushu dart.\n\n"
 
                + "Armor Mastery (Ex)\n"
-               + "At 19th level, a fighter gains Damage Reduction 5/— whenever he is wearing armor or using a shield.\n\n"
+               + "At 19th level, a fighter gains Damage Reduction 5/ï¿½ whenever he is wearing armor or using a shield.\n\n"
 
                + "Weapon Mastery (Ex)\n"
-               + "At 20th level, a fighter chooses one weapon, such as the longsword, greataxe, or longbow. Any attacks made with that weapon automatically confirm all critical threats and have their damage multiplier increased by 1 (×2 becomes ×3, for example). In addition, he cannot be disarmed while wielding a weapon of this type.\n\n"
+               + "At 20th level, a fighter chooses one weapon, such as the longsword, greataxe, or longbow. Any attacks made with that weapon automatically confirm all critical threats and have their damage multiplier increased by 1 (ï¿½2 becomes ï¿½3, for example). In addition, he cannot be disarmed while wielding a weapon of this type.\n\n"
 
                + "Advanced Weapon Training\n"
                + "Source PPC:WMH\n"

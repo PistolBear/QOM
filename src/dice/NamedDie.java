@@ -1,6 +1,5 @@
 package dice;
 
-import java.util.Random;
 
 public class NamedDie extends ModDie 
 {

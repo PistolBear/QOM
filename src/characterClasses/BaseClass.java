@@ -1,5 +1,10 @@
 package characterClasses;
 
+import global.ProgressionSpeed;
+import global.Save;
+import global.Skill;
+import global.SkillName;
+
 import java.util.ArrayList;
 
 public abstract class BaseClass implements IBaseClass

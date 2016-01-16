@@ -1,4 +1,4 @@
-package characterClasses;
+package global;
 
 public enum SkillName 
 {

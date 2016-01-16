@@ -1,7 +1,6 @@
-package characterClasses;
+package global;
 
 import java.util.ArrayList;
-import java.util.Random;
 
 import dice.DiceBag;
 import dice.Rollable;

@@ -1,4 +1,4 @@
-package characterClasses;
+package global;
 
 import dice.DiceBag;
 import dice.Die;

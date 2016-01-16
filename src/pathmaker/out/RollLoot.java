@@ -77,8 +77,7 @@ public class RollLoot
                }
             }
 
-            JOptionPane pane = new JOptionPane();
-            reroll = pane.showConfirmDialog(null, "Rolling loots: \n" + lootString.toString(), "Roll again?", JOptionPane.YES_NO_OPTION);
+            reroll = JOptionPane.showConfirmDialog(null, "Rolling loots: \n" + lootString.toString(), "Roll again?", JOptionPane.YES_NO_OPTION);
          }
          catch (Exception e)
          {

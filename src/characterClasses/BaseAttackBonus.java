@@ -1,5 +1,8 @@
 package characterClasses;
 
+import global.Progresses;
+import global.ProgressionSpeed;
+
 public class BaseAttackBonus implements Progresses
 {
    String m_name = null;
