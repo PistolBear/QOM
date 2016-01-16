@@ -1,0 +1,19 @@
+package characterRaces;
+
+public enum RaceNames 
+{
+	// Core
+	CORE, HUMAN, ELF, HALF_ELF, HALF_ORC, HALFLING, GNOME, DWARF,
+	
+	// Popular
+	POPULAR, ORC, GOBLIN, AASIMAR, TIEFLING, RATFOLK, KOBOLD,
+	
+	// Monstrous
+	MONSTROUS, TROLL, CENTAUR, CHURR, GARGOYLE, HARPY, LAVA_CHILD, MAENAD, MINOTAUR, GIRTABLILU, 
+	
+	// Miscellany
+	OTHER;
+	
+	
+
+}
