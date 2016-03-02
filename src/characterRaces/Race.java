@@ -43,6 +43,8 @@ public class Race implements IRace
 		{
 			// Core
 		case CORE: 
+			break;
+			
 		case HUMAN:
 			m_abilMods.add(Helpers.chooseAbility("Human Racial Ability Bonus: ", 2));
 			
